@@ -1,0 +1,13 @@
+extends layout
+
+block content
+  .w3-container.w3-padding-64.w3-center(style="background-image:url('http://localhost:7000/api/image/outras/braga-background.jpg');background-size:cover;background-position:center;height:100vh;")
+    .w3-container(style="display:flex;justify-content:center;margin-top:30px;")
+      .w3-card-2.w3-white(style="width:70%;padding:20px;")
+        .w3-container(style="display:flex;justify-content:center;align-items:center;")
+          img(src='/api/image/outras/aviso.png', style='display:block; width:18%; object-fit:cover; object-position:center; margin:10px auto 35px auto;')
+        .w3-container(style="display:flex;justify-content:center;align-items:center;")
+          p.w3-xxlarge Tem a certeza que pretende remover a rua? 
+        .w3-container(style="display:flex;justify-content:center;align-items:center;")
+          button.w3-button.w3-round.w3-xlarge.w3-hover-light-gray.w3-margin.w3-red #[a(href="/ruas/"+idRua style="text-decoration: none;") Cancelar]
+          button.w3-button.w3-round.w3-xlarge.w3-hover-light-gray.w3-margin.w3-blue-gray #[a(href="/ruas/apagar/"+idRua style="text-decoration: none;") Apagar]

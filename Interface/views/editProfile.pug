@@ -1,0 +1,72 @@
+extends layout
+
+block content
+  .w3-card-4
+    header.w3-light-grey.w3-top
+      .w3-bar.w3-blue-grey
+        button(style="width:25%").w3-bar-item.w3-button.w3-hover-light-grey
+          a(href="/")
+            i.fa.fa-home
+            |  Inicio
+        button(style="width:25%").w3-bar-item.w3-button.w3-hover-light-grey
+          a(href="/ruas/")
+            i.fa.fa-road
+            |  Ruas
+        button(style="width:25%").w3-bar-item.w3-button.w3-hover-light-grey
+          a(href="/posts")
+            i.fa.fa-blog
+            |  Publicações
+        button(style="width:25%").w3-bar-item.w3-button.w3-hover-light-grey.w3-light-grey
+          a(href="/perfil/")
+            i.fa.fa-user
+            |  Perfil
+    .w3-container.w3-light-grey(style="display:flex;margin-top:40px;")
+      h1(style="text-align:center;") Editar Perfil
+    .w3-container(style="display:flex;justify-content:center;margin-top:30px;")
+      .w3-card-4(style="padding:20px;width:50%;")
+        form(method='POST' enctype="multipart/form-data")
+          .w3-container(style="display:flex;flex-wrap:wrap;")
+            .w3-half.w3-display-container(style="display:flex;align-items:center;justify-content:center;")
+              .w3-display-topmiddle.w3-margin-top
+                  img.w3-circle.w3-border(src="/auth/image/"+user._id+'/'+user.imagem, id="user-image", style=" width:250px; height:250px;")
+              .w3-margin-top(style="display:block;align-items:center;justify-content:center;")
+                  input(type="file", name="imagem", id="user-image-input", accept="image/*", onchange="previewImage(event)", style="margin-top:30%")
+            .w3-half.w3-display-container(style="display:flex;flex-direction:column;align-items:flex-start;justify-content:center;")
+              .w3-container(style="margin-bottom:20px;width:100%")
+                h2(style="margin-top:0;") Dados básicos
+                label Nome:
+                input.w3-input.w3-border.w3-round(type="text", name="username", value=user.username, required)
+                label Email:
+                input.w3-input.w3-border.w3-round(type="email", name="email", value=user.email, required)
+                label Filiação:
+                input.w3-input.w3-border.w3-round(type="text", name="affiliation", value=user.affiliation)
+                label Password:
+                input.w3-input.w3-border.w3-round(type="password", name="password")
+                label Confirm Password:
+                input.w3-input.w3-border.w3-round(type="password", name="password_confirm")
+              
+              .w3-container
+                h2(style="margin-top:5px") Tipo de conta
+                if isAdmin
+                  .w3-panel.w3-blue.w3-round-xlarge
+                    p Administrador
+                else
+                  .w3-panel.w3-blue.w3-round-xlarge
+                    p Consumidor
+          .w3-container.w3-bar(style="display:center;justify-content:center;align-center")
+            button.w3-bar-item.w3-button.w3-blue-gray.w3-round(type="submit" style=" width:49%") Atualizar
+            button.w3-bar-item.w3-margin-left.w3-button.w3-red.w3-round(type="button" style=" width:49%") #[a(href="/perfil/" style="text-decoration: none;") Cancelar]
+          
+    footer.w3-container.w3-blue-grey.w3-margin-top
+      h5(style="color:white;font-family:'Segoe UI',sans-serif") Gerado por EngWeb2023 em #{d}
+
+  script.
+    function previewImage(event) {
+    var input = event.target;
+    var reader = new FileReader();
+    reader.onload = function () {
+      var img = document.getElementById('user-image');
+      img.src = reader.result;
+    };
+    reader.readAsDataURL(input.files[0]);
+    }

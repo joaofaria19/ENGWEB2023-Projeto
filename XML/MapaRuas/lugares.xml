@@ -1,0 +1,7640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lugares>
+   <lugar>
+      <nome>RUA NOVA</nome>
+      <rua>1</rua>
+      <posição>d3e28</posição>
+   </lugar>
+   <lugar>
+      <nome>PORTA DE S. FRANCISCO</nome>
+      <rua>1</rua>
+      <posição>d3e30</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA NOVA</nome>
+      <rua>1</rua>
+      <posição>d3e32</posição>
+   </lugar>
+   <lugar>
+      <nome>PORTA DE S. FRANCISCO</nome>
+      <rua>1</rua>
+      <posição>d3e37</posição>
+   </lugar>
+   <lugar>
+      <nome>EDIFICIO DA CAMARA MUNICIPAL</nome>
+      <rua>1</rua>
+      <posição>d3e39</posição>
+   </lugar>
+   <lugar>
+      <nome>BRAGA</nome>
+      <rua>1</rua>
+      <posição>d3e46</posição>
+   </lugar>
+   <lugar>
+      <nome>PRADO</nome>
+      <rua>1</rua>
+      <posição>d3e48</posição>
+   </lugar>
+   <lugar>
+      <nome>PONTE DE LIMA</nome>
+      <rua>1</rua>
+      <posição>d3e50</posição>
+   </lugar>
+   <lugar>
+      <nome>VALENÇA</nome>
+      <rua>1</rua>
+      <posição>d3e52</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA CONEGA</nome>
+      <rua>1</rua>
+      <posição>d3e54</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO</nome>
+      <rua>1</rua>
+      <posição>d3e63</posição>
+   </lugar>
+   <lugar>
+      <nome>PRIMEIRO 
+            QUARTEL</nome>
+      <rua>1</rua>
+      <posição>d3e65</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DA VINHA</nome>
+      <rua>1</rua>
+      <posição>d3e69</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO CAMPO</nome>
+      <rua>1</rua>
+      <posição>d3e80</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA D. FREI CAETANO BRANDAO</nome>
+      <rua>1</rua>
+      <posição>d3e82</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA D. DIOGO DE SOUSA</nome>
+      <rua>1</rua>
+      <posição>d3e84</posição>
+   </lugar>
+   <lugar>
+      <nome>LARGO CONSELHEIRO TORRES E ALMEIDA</nome>
+      <rua>1</rua>
+      <posição>d3e86</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA NOVA DE SOUSA</nome>
+      <rua>1</rua>
+      <posição>d3e106</posição>
+   </lugar>
+   <lugar>
+      <nome>SÃO PEDRO DE MERELIM.</nome>
+      <rua>1</rua>
+      <posição>d3e108</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA NOVA DE SOUSA</nome>
+      <rua>1</rua>
+      <posição>d3e125</posição>
+   </lugar>
+   <lugar>
+      <nome>SÃO PEDRO DE MERELIM.</nome>
+      <rua>1</rua>
+      <posição>d3e127</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO SOUTO</nome>
+      <rua>2</rua>
+      <posição>d4e28</posição>
+   </lugar>
+   <lugar>
+      <nome>BRAGA</nome>
+      <rua>2</rua>
+      <posição>d4e30</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO SOUTO</nome>
+      <rua>2</rua>
+      <posição>d4e38</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DAS HORTAS</nome>
+      <rua>2</rua>
+      <posição>d4e40</posição>
+   </lugar>
+   <lugar>
+      <nome>PORTA NOVA</nome>
+      <rua>2</rua>
+      <posição>d4e42</posição>
+   </lugar>
+   <lugar>
+      <nome>IGREJA DA MISERICÓRDIA</nome>
+      <rua>2</rua>
+      <posição>d4e53</posição>
+   </lugar>
+   <lugar>
+      <nome>CASA BRASONADA DE FAMILIARES DE D. JORGE DA COSTA</nome>
+      <rua>2</rua>
+      <posição>d4e55</posição>
+   </lugar>
+   <lugar>
+      <nome>PRACINHA</nome>
+      <rua>2</rua>
+      <posição>d4e74</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DA HORTALICE</nome>
+      <rua>2</rua>
+      <posição>d4e81</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DO PESCADO</nome>
+      <rua>2</rua>
+      <posição>d4e83</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DO PÃO</nome>
+      <rua>2</rua>
+      <posição>d4e86</posição>
+   </lugar>
+   <lugar>
+      <nome>CENTRO 
+                COMERCIAL DA CIDADE</nome>
+      <rua>2</rua>
+      <posição>d4e91</posição>
+   </lugar>
+   <lugar>
+      <nome>SÉ</nome>
+      <rua>2</rua>
+      <posição>d4e93</posição>
+   </lugar>
+   <lugar>
+      <nome>ARCADA</nome>
+      <rua>2</rua>
+      <posição>d4e95</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA NOVA</nome>
+      <rua>2</rua>
+      <posição>d4e100</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE D. DIOGO DE SOUSA</nome>
+      <rua>2</rua>
+      <posição>d4e102</posição>
+   </lugar>
+   <lugar>
+      <nome>PRACINHA</nome>
+      <rua>2</rua>
+      <posição>d4e104</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA VELHA</nome>
+      <rua>2</rua>
+      <posição>d4e106</posição>
+   </lugar>
+   <lugar>
+      <nome>PRACINHA</nome>
+      <rua>2</rua>
+      <posição>d4e120</posição>
+   </lugar>
+   <lugar>
+      <nome>SÉ</nome>
+      <rua>2</rua>
+      <posição>d4e136</posição>
+   </lugar>
+   <lugar>
+      <nome>SÉ</nome>
+      <rua>2</rua>
+      <posição>d4e138</posição>
+   </lugar>
+   <lugar>
+      <nome>SÉ</nome>
+      <rua>2</rua>
+      <posição>d4e143</posição>
+   </lugar>
+   <lugar>
+      <nome>CAPELA DA SENHORA DA GLÓRIA</nome>
+      <rua>2</rua>
+      <posição>d4e145</posição>
+   </lugar>
+   <lugar>
+      <nome>CAPELA DA SENHORA DA PIEDADE DE JESUS DA MISERICÓRDIA.</nome>
+      <rua>2</rua>
+      <posição>d4e148</posição>
+   </lugar>
+   <lugar>
+      <nome>ANTIGOS AÇOUGES</nome>
+      <rua>2</rua>
+      <posição>d4e180</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS AÇOUGUES VELHOS</nome>
+      <rua>2</rua>
+      <posição>d4e199</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS AÇOUGUES VELHOS</nome>
+      <rua>2</rua>
+      <posição>d4e206</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS AÇOUGUES VELHOS</nome>
+      <rua>2</rua>
+      <posição>d4e226</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS AÇOUGUES VELHOS</nome>
+      <rua>2</rua>
+      <posição>d4e233</posição>
+   </lugar>
+   <lugar>
+      <nome>REAL</nome>
+      <rua>2</rua>
+      <posição>d4e248</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS AÇOUGUES VELHOS</nome>
+      <rua>2</rua>
+      <posição>d4e250</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS AÇOUGUES VELHOS</nome>
+      <rua>2</rua>
+      <posição>d4e256</posição>
+   </lugar>
+   <lugar>
+      <nome>MITRA</nome>
+      <rua>2</rua>
+      <posição>d4e313</posição>
+   </lugar>
+   <lugar>
+      <nome>MITRA</nome>
+      <rua>2</rua>
+      <posição>d4e318</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS SAPATEIROS</nome>
+      <rua>2</rua>
+      <posição>d4e362</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO CAMPO</nome>
+      <rua>2</rua>
+      <posição>d4e379</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO CAMPO</nome>
+      <rua>2</rua>
+      <posição>d4e397</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA NOVA DE SOUSA</nome>
+      <rua>2</rua>
+      <posição>d4e399</posição>
+   </lugar>
+   <lugar>
+      <nome>S. PEDRO DE MERELIM</nome>
+      <rua>2</rua>
+      <posição>d4e401</posição>
+   </lugar>
+   <lugar>
+      <nome>SÉ</nome>
+      <rua>3</rua>
+      <posição>d5e28</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA NOVA</nome>
+      <rua>3</rua>
+      <posição>d5e30</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO POÇO</nome>
+      <rua>3</rua>
+      <posição>d5e37</posição>
+   </lugar>
+   <lugar>
+      <nome>SÉ</nome>
+      <rua>3</rua>
+      <posição>d5e42</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO CABIDO</nome>
+      <rua>3</rua>
+      <posição>d5e59</posição>
+   </lugar>
+   <lugar>
+      <nome>TRAVESSA DOS AÇOUGUES VELHOS</nome>
+      <rua>3</rua>
+      <posição>d5e63</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DO PÃO</nome>
+      <rua>3</rua>
+      <posição>d5e79</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DO PÃO</nome>
+      <rua>3</rua>
+      <posição>d5e96</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA NOVA</nome>
+      <rua>3</rua>
+      <posição>d5e113</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA NOVA</nome>
+      <rua>3</rua>
+      <posição>d5e130</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA NOVA DE SOUSA</nome>
+      <rua>3</rua>
+      <posição>d5e145</posição>
+   </lugar>
+   <lugar>
+      <nome>SÉ</nome>
+      <rua>4</rua>
+      <posição>d6e28</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS AÇOUGUES</nome>
+      <rua>4</rua>
+      <posição>d6e35</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA D. GONÇALO PEREIRA</nome>
+      <rua>4</rua>
+      <posição>d6e37</posição>
+   </lugar>
+   <lugar>
+      <nome>D. GUALDIM PAIS</nome>
+      <rua>4</rua>
+      <posição>d6e39</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DO PÃO</nome>
+      <rua>4</rua>
+      <posição>d6e41</posição>
+   </lugar>
+   <lugar>
+      <nome>D. DIOGO DE SOUSA</nome>
+      <rua>4</rua>
+      <posição>d6e44</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE MAXIMINOS</nome>
+      <rua>4</rua>
+      <posição>d6e46</posição>
+   </lugar>
+   <lugar>
+      <nome>D. GUALDIM</nome>
+      <rua>4</rua>
+      <posição>d6e50</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO SOUTO</nome>
+      <rua>4</rua>
+      <posição>d6e57</posição>
+   </lugar>
+   <lugar>
+      <nome>PALÁCIO DOS ARCEBISPOS</nome>
+      <rua>4</rua>
+      <posição>d6e59</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DO PÃO</nome>
+      <rua>4</rua>
+      <posição>d6e63</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE MAXIMINOS</nome>
+      <rua>4</rua>
+      <posição>d6e71</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DO PÃO</nome>
+      <rua>4</rua>
+      <posição>d6e73</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA D. PAIO MENDES</nome>
+      <rua>4</rua>
+      <posição>d6e77</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO POÇO</nome>
+      <rua>4</rua>
+      <posição>d6e101</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE D. GUALDIM</nome>
+      <rua>4</rua>
+      <posição>d6e233</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS AÇOUGUES VELHOS</nome>
+      <rua>4</rua>
+      <posição>d6e287</posição>
+   </lugar>
+   <lugar>
+      <nome>SÉ</nome>
+      <rua>5</rua>
+      <posição>d7e21</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO SOUTO </nome>
+      <rua>5</rua>
+      <posição>d7e30</posição>
+   </lugar>
+   <lugar>
+      <nome>FONTE DE S. GERALDO</nome>
+      <rua>5</rua>
+      <posição>d7e32</posição>
+   </lugar>
+   <lugar>
+      <nome>CAPELA DA GLÓRIA</nome>
+      <rua>5</rua>
+      <posição>d7e34</posição>
+   </lugar>
+   <lugar>
+      <nome>CASA DO CONSELHO MUNICIPAL</nome>
+      <rua>5</rua>
+      <posição>d7e36</posição>
+   </lugar>
+   <lugar>
+      <nome>CAPELA MOR DA SÉ</nome>
+      <rua>5</rua>
+      <posição>d7e45</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. JOÃO </nome>
+      <rua>5</rua>
+      <posição>d7e47</posição>
+   </lugar>
+   <lugar>
+      <nome>PORTA DE S. JOÃO</nome>
+      <rua>5</rua>
+      <posição>d7e49</posição>
+   </lugar>
+   <lugar>
+      <nome>LADO SUL DA SÉ, ENTRE O BRAÇO DO TRANSEPTO E A FACHADA</nome>
+      <rua>5</rua>
+      <posição>d7e54</posição>
+   </lugar>
+   <lugar>
+      <nome>ROCIO 
+            DA SÉ</nome>
+      <rua>5</rua>
+      <posição>d7e59</posição>
+   </lugar>
+   <lugar>
+      <nome>EDIFÍCIO DO TRIBUNAL DO TRABALHO/DELEGAÇÃO ESCOLAR</nome>
+      <rua>5</rua>
+      <posição>d7e61</posição>
+   </lugar>
+   <lugar>
+      <nome>RESIDÊNCIA ACADÉMICA</nome>
+      <rua>5</rua>
+      <posição>d7e63</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE NOSSA SENHORA DO LEITE</nome>
+      <rua>5</rua>
+      <posição>d7e68</posição>
+   </lugar>
+   <lugar>
+      <nome>ROCIO DA SÉ</nome>
+      <rua>5</rua>
+      <posição>d7e70</posição>
+   </lugar>
+   <lugar>
+      <nome>ESCOLA COIMBRÃ</nome>
+      <rua>5</rua>
+      <posição>d7e80</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S.JOÃO</nome>
+      <rua>5</rua>
+      <posição>d7e116</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. JOÃO</nome>
+      <rua>5</rua>
+      <posição>d7e131</posição>
+   </lugar>
+   <lugar>
+      <nome>CASA DE HERDADE DÍZIMA A DEUS</nome>
+      <rua>5</rua>
+      <posição>d7e147</posição>
+   </lugar>
+   <lugar>
+      <nome>TERREIRO DAS OUSSIAS</nome>
+      <rua>5</rua>
+      <posição>d7e180</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PEQUENA.</nome>
+      <rua>5</rua>
+      <posição>d7e204</posição>
+   </lugar>
+   <lugar>
+      <nome>TERREIRO DAS OUSSIAS</nome>
+      <rua>5</rua>
+      <posição>d7e218</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PEQUENA</nome>
+      <rua>5</rua>
+      <posição>d7e220</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PEQUENA</nome>
+      <rua>5</rua>
+      <posição>d7e222</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE STA. MARIA OU DO POÇO</nome>
+      <rua>5</rua>
+      <posição>d7e224</posição>
+   </lugar>
+   <lugar>
+      <nome>SACRISTIA DA SÉ</nome>
+      <rua>5</rua>
+      <posição>d7e231</posição>
+   </lugar>
+   <lugar>
+      <nome>SACRISTIA DA SÉ"</nome>
+      <rua>5</rua>
+      <posição>d7e246</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS OUSSIAS</nome>
+      <rua>5</rua>
+      <posição>d7e248</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PEQUENA</nome>
+      <rua>5</rua>
+      <posição>d7e250</posição>
+   </lugar>
+   <lugar>
+      <nome>TERREIRO DAS OUSSIAS</nome>
+      <rua>5</rua>
+      <posição>d7e272</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO POÇO </nome>
+      <rua>5</rua>
+      <posição>d7e335</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO SOUTO</nome>
+      <rua>6</rua>
+      <posição>d8e28</posição>
+   </lugar>
+   <lugar>
+      <nome>MURALHAS DE BRAGA</nome>
+      <rua>6</rua>
+      <posição>d8e33</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA NOVA</nome>
+      <rua>6</rua>
+      <posição>d8e38</posição>
+   </lugar>
+   <lugar>
+      <nome>PAÇO DOS ARCEBISPOS</nome>
+      <rua>6</rua>
+      <posição>d8e46</posição>
+   </lugar>
+   <lugar>
+      <nome>CASTELO</nome>
+      <rua>6</rua>
+      <posição>d8e48</posição>
+   </lugar>
+   <lugar>
+      <nome>PORTA DA MURALHA</nome>
+      <rua>6</rua>
+      <posição>d8e50</posição>
+   </lugar>
+   <lugar>
+      <nome>LARGO DO PAÇO</nome>
+      <rua>6</rua>
+      <posição>d8e60</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO SOUTO</nome>
+      <rua>6</rua>
+      <posição>d8e75</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA JUSTINO CRUZ </nome>
+      <rua>6</rua>
+      <posição>d8e77</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DA VINHA</nome>
+      <rua>6</rua>
+      <posição>d8e79</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA FRANCISCO SANCHES</nome>
+      <rua>6</rua>
+      <posição>d8e82</posição>
+   </lugar>
+   <lugar>
+      <nome>LARGO DE S. JOÃO DO SOUTO</nome>
+      <rua>6</rua>
+      <posição>d8e84</posição>
+   </lugar>
+   <lugar>
+      <nome>CASA DO PASSADIÇO</nome>
+      <rua>6</rua>
+      <posição>d8e86</posição>
+   </lugar>
+   <lugar>
+      <nome>PORTA DO SOUTO</nome>
+      <rua>6</rua>
+      <posição>d8e91</posição>
+   </lugar>
+   <lugar>
+      <nome>LARGO BARÃO DE S. MARTINHO</nome>
+      <rua>6</rua>
+      <posição>d8e93</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS JANES</nome>
+      <rua>6</rua>
+      <posição>d8e95</posição>
+   </lugar>
+   <lugar>
+      <nome>ARCO DA PORTA DO SOUTO</nome>
+      <rua>6</rua>
+      <posição>d8e103</posição>
+   </lugar>
+   <lugar>
+      <nome>PAÇOS ARCEBISPAIS</nome>
+      <rua>6</rua>
+      <posição>d8e126</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAS NOVAS DA RELAÇÃO</nome>
+      <rua>6</rua>
+      <posição>d8e130</posição>
+   </lugar>
+   <lugar>
+      <nome>ALJUBE</nome>
+      <rua>6</rua>
+      <posição>d8e132</posição>
+   </lugar>
+   <lugar>
+      <nome>RELAÇÃO ECLESIÁSTICA</nome>
+      <rua>6</rua>
+      <posição>d8e138</posição>
+   </lugar>
+   <lugar>
+      <nome>CASA FOREIRA À MITRA</nome>
+      <rua>6</rua>
+      <posição>d8e153</posição>
+   </lugar>
+   <lugar>
+      <nome>CASA DO MORGADO DOS LEITES</nome>
+      <rua>6</rua>
+      <posição>d8e155</posição>
+   </lugar>
+   <lugar>
+      <nome>IGREJA DE S. PEDRO D'ESTE</nome>
+      <rua>6</rua>
+      <posição>d8e170</posição>
+   </lugar>
+   <lugar>
+      <nome>IGREJA DE S. PEDRO D'ESTE</nome>
+      <rua>6</rua>
+      <posição>d8e191</posição>
+   </lugar>
+   <lugar>
+      <nome>CASA DÍZIMA A  DEUS</nome>
+      <rua>6</rua>
+      <posição>d8e239</posição>
+   </lugar>
+   <lugar>
+      <nome>CONFRARIA DE SANTIAGO DA CIVIDADE</nome>
+      <rua>6</rua>
+      <posição>d8e241</posição>
+   </lugar>
+   <lugar>
+      <nome>CASA DÍZIMA A DEUS</nome>
+      <rua>6</rua>
+      <posição>d8e256</posição>
+   </lugar>
+   <lugar>
+      <nome>CONFRARIA DE S. JOÃO DO SOUTO</nome>
+      <rua>6</rua>
+      <posição>d8e260</posição>
+   </lugar>
+   <lugar>
+      <nome>CAPELA DOS CERVEIRAS</nome>
+      <rua>6</rua>
+      <posição>d8e275</posição>
+   </lugar>
+   <lugar>
+      <nome>CONFRARIA DE S. JOÃO DO SOUTO</nome>
+      <rua>6</rua>
+      <posição>d8e296</posição>
+   </lugar>
+   <lugar>
+      <nome>CASA DÍZIMA A DEUS</nome>
+      <rua>6</rua>
+      <posição>d8e298</posição>
+   </lugar>
+   <lugar>
+      <nome>CONFRARIA DE S. JOÃO DO SOUTO</nome>
+      <rua>6</rua>
+      <posição>d8e313</posição>
+   </lugar>
+   <lugar>
+      <nome>CAPELA DE STA. BÁRBARA</nome>
+      <rua>6</rua>
+      <posição>d8e353</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO SOUTO</nome>
+      <rua>6</rua>
+      <posição>d8e385</posição>
+   </lugar>
+   <lugar>
+      <nome>TERREIRO DO CASTELO</nome>
+      <rua>6</rua>
+      <posição>d8e387</posição>
+   </lugar>
+   <lugar>
+      <nome>PORTA DO SOUTO</nome>
+      <rua>6</rua>
+      <posição>d8e402</posição>
+   </lugar>
+   <lugar>
+      <nome>TERREIRO DO CASTELO</nome>
+      <rua>6</rua>
+      <posição>d8e404</posição>
+   </lugar>
+   <lugar>
+      <nome>IGREJA DE FRAIÃO</nome>
+      <rua>6</rua>
+      <posição>d8e406</posição>
+   </lugar>
+   <lugar>
+      <nome>CONFRARIA DE S. JOÃO DO SOUTO</nome>
+      <rua>6</rua>
+      <posição>d8e408</posição>
+   </lugar>
+   <lugar>
+      <nome>OBRA DA SÉ</nome>
+      <rua>6</rua>
+      <posição>d8e424</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE JANES</nome>
+      <rua>6</rua>
+      <posição>d8e444</posição>
+   </lugar>
+   <lugar>
+      <nome>CONFRARIA DE S. JOÃO DO SOUTO</nome>
+      <rua>6</rua>
+      <posição>d8e446</posição>
+   </lugar>
+   <lugar>
+      <nome>CONVENTO DO CARMO</nome>
+      <rua>6</rua>
+      <posição>d8e461</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE JANES</nome>
+      <rua>6</rua>
+      <posição>d8e463</posição>
+   </lugar>
+   <lugar>
+      <nome>S. JOÃO DO SOUTO</nome>
+      <rua>6</rua>
+      <posição>d8e465</posição>
+   </lugar>
+   <lugar>
+      <nome>MOSTEIRO DE ADAÚFE</nome>
+      <rua>6</rua>
+      <posição>d8e482</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE JANES</nome>
+      <rua>6</rua>
+      <posição>d8e484</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE JANES</nome>
+      <rua>6</rua>
+      <posição>d8e499</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE JANES</nome>
+      <rua>6</rua>
+      <posição>d8e518</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE JANES</nome>
+      <rua>6</rua>
+      <posição>d8e555</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE JANES</nome>
+      <rua>6</rua>
+      <posição>d8e611</posição>
+   </lugar>
+   <lugar>
+      <nome>IGREJA DE S. PEDRO D'ESTE</nome>
+      <rua>6</rua>
+      <posição>d8e680</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. JOÃO</nome>
+      <rua>6</rua>
+      <posição>d8e759</posição>
+   </lugar>
+   <lugar>
+      <nome>CONFRARIA DE S. JOÃO DO SOUTO</nome>
+      <rua>6</rua>
+      <posição>d8e858</posição>
+   </lugar>
+   <lugar>
+      <nome>CONFRARIA DE S. JOÃO DO SOUTO</nome>
+      <rua>6</rua>
+      <posição>d8e873</posição>
+   </lugar>
+   <lugar>
+      <nome>CASA DÍZIMA A DEUS</nome>
+      <rua>6</rua>
+      <posição>d8e888</posição>
+   </lugar>
+   <lugar>
+      <nome>CASA DÍZIMA A DEUS</nome>
+      <rua>6</rua>
+      <posição>d8e906</posição>
+   </lugar>
+   <lugar>
+      <nome>CORORARIA</nome>
+      <rua>6</rua>
+      <posição>d8e921</posição>
+   </lugar>
+   <lugar>
+      <nome>IGREJA DOS TERCEIROS</nome>
+      <rua>7</rua>
+      <posição>d9e21</posição>
+   </lugar>
+   <lugar>
+      <nome>CIDADELA</nome>
+      <rua>7</rua>
+      <posição>d9e23</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO SOUTO</nome>
+      <rua>7</rua>
+      <posição>d9e25</posição>
+   </lugar>
+   <lugar>
+      <nome>CIDADELA</nome>
+      <rua>7</rua>
+      <posição>d9e33</posição>
+   </lugar>
+   <lugar>
+      <nome>TERREIRO DO CASTELO</nome>
+      <rua>7</rua>
+      <posição>d9e35</posição>
+   </lugar>
+   <lugar>
+      <nome>LOURA</nome>
+      <rua>7</rua>
+      <posição>d9e37</posição>
+   </lugar>
+   <lugar>
+      <nome>CASTELO</nome>
+      <rua>7</rua>
+      <posição>d9e45</posição>
+   </lugar>
+   <lugar>
+      <nome>IGREJA DO TERCEIROS</nome>
+      <rua>7</rua>
+      <posição>d9e54</posição>
+   </lugar>
+   <lugar>
+      <nome>CASA DO DEFINITÓRIO</nome>
+      <rua>7</rua>
+      <posição>d9e56</posição>
+   </lugar>
+   <lugar>
+      <nome>LOURA</nome>
+      <rua>7</rua>
+      <posição>d9e66</posição>
+   </lugar>
+   <lugar>
+      <nome>TERREIRO DO CASTELO</nome>
+      <rua>7</rua>
+      <posição>d9e70</posição>
+   </lugar>
+   <lugar>
+      <nome>CIDADELA</nome>
+      <rua>7</rua>
+      <posição>d9e75</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO CASTELO</nome>
+      <rua>7</rua>
+      <posição>d9e89</posição>
+   </lugar>
+   <lugar>
+      <nome>CONFRARIA DE S. JOÃO DO SOUTO</nome>
+      <rua>7</rua>
+      <posição>d9e106</posição>
+   </lugar>
+   <lugar>
+      <nome>CONFRARIA DE S. JOÃO DO SOUTO</nome>
+      <rua>7</rua>
+      <posição>d9e121</posição>
+   </lugar>
+   <lugar>
+      <nome>FORNO DA VILA</nome>
+      <rua>7</rua>
+      <posição>d9e138</posição>
+   </lugar>
+   <lugar>
+      <nome>IGREJA DE S. JOÃO DO SOUTO</nome>
+      <rua>8</rua>
+      <posição>d10e21</posição>
+   </lugar>
+   <lugar>
+      <nome>PORTA DE SOUTO</nome>
+      <rua>8</rua>
+      <posição>d10e23</posição>
+   </lugar>
+   <lugar>
+      <nome>JANO </nome>
+      <rua>8</rua>
+      <posição>d10e25</posição>
+   </lugar>
+   <lugar>
+      <nome>JANOAS</nome>
+      <rua>8</rua>
+      <posição>d10e28</posição>
+   </lugar>
+   <lugar>
+      <nome>PORTA DE S. JOÃO</nome>
+      <rua>8</rua>
+      <posição>d10e37</posição>
+   </lugar>
+   <lugar>
+      <nome>IGREJA DE S. JOÃO DE SOUTO</nome>
+      <rua>8</rua>
+      <posição>d10e47</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. JOÃO</nome>
+      <rua>8</rua>
+      <posição>d10e72</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. JOÃO</nome>
+      <rua>8</rua>
+      <posição>d10e95</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. JOÃO</nome>
+      <rua>8</rua>
+      <posição>d10e118</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO SOUTO</nome>
+      <rua>8</rua>
+      <posição>d10e163</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO SOUTO</nome>
+      <rua>8</rua>
+      <posição>d10e183</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO SOUTO</nome>
+      <rua>8</rua>
+      <posição>d10e185</posição>
+   </lugar>
+   <lugar>
+      <nome>CORORARIA</nome>
+      <rua>8</rua>
+      <posição>d10e187</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO SOUTO</nome>
+      <rua>8</rua>
+      <posição>d10e189</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO SOUTO</nome>
+      <rua>8</rua>
+      <posição>d10e204</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO SOUTO</nome>
+      <rua>8</rua>
+      <posição>d10e219</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO SOUTO</nome>
+      <rua>8</rua>
+      <posição>d10e234</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO SOUTO</nome>
+      <rua>8</rua>
+      <posição>d10e251</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO SOUTO </nome>
+      <rua>8</rua>
+      <posição>d10e269</posição>
+   </lugar>
+   <lugar>
+      <nome>CASA DA CORORARIA </nome>
+      <rua>8</rua>
+      <posição>d10e295</posição>
+   </lugar>
+   <lugar>
+      <nome>IGREJA DE S. JOÃO DO SOUTO</nome>
+      <rua>8</rua>
+      <posição>d10e337</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA AMPLA</nome>
+      <rua>9</rua>
+      <posição>d11e14</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. MARCOS</nome>
+      <rua>9</rua>
+      <posição>d11e19</posição>
+   </lugar>
+   <lugar>
+      <nome>CAPPELLA MAIOR DA SÉ</nome>
+      <rua>9</rua>
+      <posição>d11e21</posição>
+   </lugar>
+   <lugar>
+      <nome>PORTA DE 
+            S. JOÃO</nome>
+      <rua>9</rua>
+      <posição>d11e32</posição>
+   </lugar>
+   <lugar>
+      <nome>CAPELA MOR DA SÉ</nome>
+      <rua>9</rua>
+      <posição>d11e34</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DOS REMÉDIOS E GRANGINHOS</nome>
+      <rua>9</rua>
+      <posição>d11e36</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA PONTE DE GUIMARÃES</nome>
+      <rua>9</rua>
+      <posição>d11e38</posição>
+   </lugar>
+   <lugar>
+      <nome>BRAGA</nome>
+      <rua>9</rua>
+      <posição>d11e49</posição>
+   </lugar>
+   <lugar>
+      <nome>CASA DOS PAIVAS</nome>
+      <rua>9</rua>
+      <posição>d11e58</posição>
+   </lugar>
+   <lugar>
+      <nome>FLORENÇA</nome>
+      <rua>9</rua>
+      <posição>d11e62</posição>
+   </lugar>
+   <lugar>
+      <nome>IGREJA
+            DE S. JOÃO DE SOUTO</nome>
+      <rua>10</rua>
+      <posição>d12e16</posição>
+   </lugar>
+   <lugar>
+      <nome>PORTA DE S. JOÃO</nome>
+      <rua>10</rua>
+      <posição>d12e18</posição>
+   </lugar>
+   <lugar>
+      <nome>BRAGA</nome>
+      <rua>10</rua>
+      <posição>d12e25</posição>
+   </lugar>
+   <lugar>
+      <nome>«REXIO DE S. JOÃO»</nome>
+      <rua>10</rua>
+      <posição>d12e27</posição>
+   </lugar>
+   <lugar>
+      <nome>SÉ</nome>
+      <rua>10</rua>
+      <posição>d12e39</posição>
+   </lugar>
+   <lugar>
+      <nome>BAIRRO DAS TRAVESSAS</nome>
+      <rua>10</rua>
+      <posição>d12e41</posição>
+   </lugar>
+   <lugar>
+      <nome>«TRAVESSA PARA A RUA DE S. JOÃO»</nome>
+      <rua>10</rua>
+      <posição>d12e43</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA CARRAPATA</nome>
+      <rua>10</rua>
+      <posição>d12e45</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE PAIO MANTA</nome>
+      <rua>10</rua>
+      <posição>d12e51</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA COELHO</nome>
+      <rua>10</rua>
+      <posição>d12e53</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE «COELHO»</nome>
+      <rua>10</rua>
+      <posição>d12e70</posição>
+   </lugar>
+   <lugar>
+      <nome>«REXIO DE S. JOÃO»</nome>
+      <rua>10</rua>
+      <posição>d12e72</posição>
+   </lugar>
+   <lugar>
+      <nome>«TRAVESSA PARA O REXIO
+            DE S. JOÃO»</nome>
+      <rua>10</rua>
+      <posição>d12e74</posição>
+   </lugar>
+   <lugar>
+      <nome>LARGO DE S. JOÃO DE SOUTO</nome>
+      <rua>10</rua>
+      <posição>d12e76</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. JOÃO</nome>
+      <rua>10</rua>
+      <posição>d12e79</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA D. AFONSO HENRIQUES</nome>
+      <rua>10</rua>
+      <posição>d12e81</posição>
+   </lugar>
+   <lugar>
+      <nome>LARGO DE
+                S. JOÃO DE SOUTO</nome>
+      <rua>10</rua>
+      <posição>d12e83</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. JOÃO</nome>
+      <rua>10</rua>
+      <posição>d12e113</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DE REAL</nome>
+      <rua>10</rua>
+      <posição>d12e136</posição>
+   </lugar>
+   <lugar>
+      <nome>FREGUESIA DE S. JERÓNIMO DE REAL</nome>
+      <rua>10</rua>
+      <posição>d12e138</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO FORNO</nome>
+      <rua>10</rua>
+      <posição>d12e187</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO FORNO</nome>
+      <rua>10</rua>
+      <posição>d12e203</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO FORNO</nome>
+      <rua>10</rua>
+      <posição>d12e218</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO FORNO</nome>
+      <rua>10</rua>
+      <posição>d12e230</posição>
+   </lugar>
+   <lugar>
+      <nome>HOSPITAL DE S. MARCOS</nome>
+      <rua>10</rua>
+      <posição>d12e286</posição>
+   </lugar>
+   <lugar>
+      <nome>IGREJA DO COLÉGIO DA COMPANHIA DE JESUS</nome>
+      <rua>11</rua>
+      <posição>d13e14</posição>
+   </lugar>
+   <lugar>
+      <nome>SÉ</nome>
+      <rua>11</rua>
+      <posição>d13e16</posição>
+   </lugar>
+   <lugar>
+      <nome>SÉ</nome>
+      <rua>11</rua>
+      <posição>d13e35</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. JOÃO</nome>
+      <rua>11</rua>
+      <posição>d13e37</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS
+            OUCIAS</nome>
+      <rua>11</rua>
+      <posição>d13e39</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAY MANTA</nome>
+      <rua>11</rua>
+      <posição>d13e41</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE PAY MANTA</nome>
+      <rua>11</rua>
+      <posição>d13e55</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO FORNO</nome>
+      <rua>11</rua>
+      <posição>d13e62</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. JOÃO</nome>
+      <rua>11</rua>
+      <posição>d13e88</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS OUSSIAS</nome>
+      <rua>11</rua>
+      <posição>d13e90</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. JOÃO</nome>
+      <rua>11</rua>
+      <posição>d13e112</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. JOÃO</nome>
+      <rua>11</rua>
+      <posição>d13e127</posição>
+   </lugar>
+   <lugar>
+      <nome>CAPELA DE NOSSA SENHORA DA GLÓRIA</nome>
+      <rua>11</rua>
+      <posição>d13e142</posição>
+   </lugar>
+   <lugar>
+      <nome>CAPELA DE NOSSA SENHORA DA GLÓRIA</nome>
+      <rua>11</rua>
+      <posição>d13e157</posição>
+   </lugar>
+   <lugar>
+      <nome>IGREJA DE S. PEDRO D'ESTE</nome>
+      <rua>11</rua>
+      <posição>d13e159</posição>
+   </lugar>
+   <lugar>
+      <nome>IGREJA DE S. PEDRO D'ESTE</nome>
+      <rua>11</rua>
+      <posição>d13e175</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. JOÃO</nome>
+      <rua>11</rua>
+      <posição>d13e205</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. JOÃO</nome>
+      <rua>11</rua>
+      <posição>d13e209</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. JOÃO</nome>
+      <rua>11</rua>
+      <posição>d13e220</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. JOÃO</nome>
+      <rua>11</rua>
+      <posição>d13e237</posição>
+   </lugar>
+   <lugar>
+      <nome>SÉ</nome>
+      <rua>11</rua>
+      <posição>d13e263</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO FORNO</nome>
+      <rua>11</rua>
+      <posição>d13e276</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO POÇO</nome>
+      <rua>11</rua>
+      <posição>d13e315</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO FORNO</nome>
+      <rua>11</rua>
+      <posição>d13e317</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO POÇO</nome>
+      <rua>11</rua>
+      <posição>d13e338</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO FORNO</nome>
+      <rua>11</rua>
+      <posição>d13e340</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS TRAVESSAS</nome>
+      <rua>12</rua>
+      <posição>d14e14</posição>
+   </lugar>
+   <lugar>
+      <nome>VELHO BAIRRO MEDIEVAL</nome>
+      <rua>12</rua>
+      <posição>d14e16</posição>
+   </lugar>
+   <lugar>
+      <nome>VELHA RUA ROMANA</nome>
+      <rua>12</rua>
+      <posição>d14e18</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA D. AFONSO HENRIQUES</nome>
+      <rua>12</rua>
+      <posição>d14e45</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO FORNO</nome>
+      <rua>12</rua>
+      <posição>d14e47</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA D. GONÇALO PEREIRA</nome>
+      <rua>12</rua>
+      <posição>d14e49</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO FORNO</nome>
+      <rua>12</rua>
+      <posição>d14e80</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO FORNO OU DOS CEGOS</nome>
+      <rua>12</rua>
+      <posição>d14e82</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO FORNO</nome>
+      <rua>12</rua>
+      <posição>d14e100</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO FORNO OU DOS CEGOS</nome>
+      <rua>12</rua>
+      <posição>d14e102</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS PALHAIS</nome>
+      <rua>12</rua>
+      <posição>d14e122</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS PALHAIS</nome>
+      <rua>12</rua>
+      <posição>d14e147</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO POÇO</nome>
+      <rua>12</rua>
+      <posição>d14e192</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE SANTA MARIA OU DO POÇO</nome>
+      <rua>12</rua>
+      <posição>d14e194</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO POÇO</nome>
+      <rua>12</rua>
+      <posição>d14e213</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PEQUENA</nome>
+      <rua>12</rua>
+      <posição>d14e228</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO FORNO</nome>
+      <rua>12</rua>
+      <posição>d14e255</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS OUCIAS</nome>
+      <rua>13</rua>
+      <posição>d15e14</posição>
+   </lugar>
+   <lugar>
+      <nome>TRAVESSA DA RUA DO FORNO PARA A DO POÇO</nome>
+      <rua>13</rua>
+      <posição>d15e16</posição>
+   </lugar>
+   <lugar>
+      <nome>BAIRRO MEDIEVAL</nome>
+      <rua>13</rua>
+      <posição>d15e21</posição>
+   </lugar>
+   <lugar>
+      <nome>CATEDRAL</nome>
+      <rua>13</rua>
+      <posição>d15e23</posição>
+   </lugar>
+   <lugar>
+      <nome>MERCADO DA OLARIA</nome>
+      <rua>13</rua>
+      <posição>d15e28</posição>
+   </lugar>
+   <lugar>
+      <nome>SÉ</nome>
+      <rua>13</rua>
+      <posição>d15e30</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO TEIVE</nome>
+      <rua>13</rua>
+      <posição>d15e41</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PEQUENA</nome>
+      <rua>13</rua>
+      <posição>d15e51</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAINSALVOS</nome>
+      <rua>13</rua>
+      <posição>d15e53</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS OUSSIAS</nome>
+      <rua>13</rua>
+      <posição>d15e92</posição>
+   </lugar>
+   <lugar>
+      <nome>TRAVESSA</nome>
+      <rua>13</rua>
+      <posição>d15e136</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO POÇO</nome>
+      <rua>13</rua>
+      <posição>d15e138</posição>
+   </lugar>
+   <lugar>
+      <nome>SANTA MARIA</nome>
+      <rua>13</rua>
+      <posição>d15e140</posição>
+   </lugar>
+   <lugar>
+      <nome>FORNO</nome>
+      <rua>13</rua>
+      <posição>d15e142</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO POÇO</nome>
+      <rua>13</rua>
+      <posição>d15e208</posição>
+   </lugar>
+   <lugar>
+      <nome>SANTA MARIA</nome>
+      <rua>13</rua>
+      <posição>d15e210</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS OUSSIAS</nome>
+      <rua>13</rua>
+      <posição>d15e223</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PEQUENA</nome>
+      <rua>13</rua>
+      <posição>d15e225</posição>
+   </lugar>
+   <lugar>
+      <nome>TERREIRO DAS OUSSIAS</nome>
+      <rua>13</rua>
+      <posição>d15e227</posição>
+   </lugar>
+   <lugar>
+      <nome>CATEDRAL</nome>
+      <rua>14</rua>
+      <posição>d16e14</posição>
+   </lugar>
+   <lugar>
+      <nome>TERREIRO DE S. PAULO OU DE S. TIAGO</nome>
+      <rua>14</rua>
+      <posição>d16e16</posição>
+   </lugar>
+   <lugar>
+      <nome>PORTA DE S. TIAGO</nome>
+      <rua>14</rua>
+      <posição>d16e18</posição>
+   </lugar>
+   <lugar>
+      <nome>COLÉGIO</nome>
+      <rua>14</rua>
+      <posição>d16e20</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO SOUTO-ARCADA</nome>
+      <rua>14</rua>
+      <posição>d16e25</posição>
+   </lugar>
+   <lugar>
+      <nome>MURALHA</nome>
+      <rua>14</rua>
+      <posição>d16e30</posição>
+   </lugar>
+   <lugar>
+      <nome>TERREIRO DE S. TIAGO</nome>
+      <rua>14</rua>
+      <posição>d16e32</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA ERVA</nome>
+      <rua>14</rua>
+      <posição>d16e36</posição>
+   </lugar>
+   <lugar>
+      <nome>IGREJA DE SANTIAGO</nome>
+      <rua>14</rua>
+      <posição>d16e43</posição>
+   </lugar>
+   <lugar>
+      <nome>SINAGOGA</nome>
+      <rua>14</rua>
+      <posição>d16e45</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA JUDIARIA</nome>
+      <rua>14</rua>
+      <posição>d16e50</posição>
+   </lugar>
+   <lugar>
+      <nome>SÉ</nome>
+      <rua>14</rua>
+      <posição>d16e57</posição>
+   </lugar>
+   <lugar>
+      <nome>CATEDRAL</nome>
+      <rua>14</rua>
+      <posição>d16e59</posição>
+   </lugar>
+   <lugar>
+      <nome>IGREJA DE SANTA MARIA DE BRAGA</nome>
+      <rua>14</rua>
+      <posição>d16e61</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE SANTA MARIA</nome>
+      <rua>14</rua>
+      <posição>d16e67</posição>
+   </lugar>
+   <lugar>
+      <nome>JUDIARIA VELHA</nome>
+      <rua>14</rua>
+      <posição>d16e69</posição>
+   </lugar>
+   <lugar>
+      <nome>TERREIRO DE
+            S. TIAGO</nome>
+      <rua>14</rua>
+      <posição>d16e74</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO POÇO</nome>
+      <rua>14</rua>
+      <posição>d16e84</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS TRAVESSAS</nome>
+      <rua>14</rua>
+      <posição>d16e88</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. TIAGO</nome>
+      <rua>14</rua>
+      <posição>d16e90</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA D. GONÇALO PEREIRA</nome>
+      <rua>14</rua>
+      <posição>d16e111</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS OUSSIAS</nome>
+      <rua>14</rua>
+      <posição>d16e137</posição>
+   </lugar>
+   <lugar>
+      <nome>SÉ</nome>
+      <rua>14</rua>
+      <posição>d16e181</posição>
+   </lugar>
+   <lugar>
+      <nome>SÉ</nome>
+      <rua>14</rua>
+      <posição>d16e190</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PEQUENA</nome>
+      <rua>14</rua>
+      <posição>d16e265</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE SANTA
+                    MARIA</nome>
+      <rua>14</rua>
+      <posição>d16e276</posição>
+   </lugar>
+   <lugar>
+      <nome>DO POÇO</nome>
+      <rua>14</rua>
+      <posição>d16e278</posição>
+   </lugar>
+   <lugar>
+      <nome>DO FORNO</nome>
+      <rua>14</rua>
+      <posição>d16e280</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE SANTA
+                    MARIA</nome>
+      <rua>14</rua>
+      <posição>d16e299</posição>
+   </lugar>
+   <lugar>
+      <nome>DO POÇO</nome>
+      <rua>14</rua>
+      <posição>d16e301</posição>
+   </lugar>
+   <lugar>
+      <nome>DO FORNO</nome>
+      <rua>14</rua>
+      <posição>d16e303</posição>
+   </lugar>
+   <lugar>
+      <nome>MORGADO DE REAL</nome>
+      <rua>14</rua>
+      <posição>d16e328</posição>
+   </lugar>
+   <lugar>
+      <nome>RIOFRIO</nome>
+      <rua>14</rua>
+      <posição>d16e343</posição>
+   </lugar>
+   <lugar>
+      <nome>SÉ</nome>
+      <rua>14</rua>
+      <posição>d16e354</posição>
+   </lugar>
+   <lugar>
+      <nome>IGREJA DE SANTIAGO DA CIVIDADE</nome>
+      <rua>14</rua>
+      <posição>d16e375</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO POÇO</nome>
+      <rua>14</rua>
+      <posição>d16e390</posição>
+   </lugar>
+   <lugar>
+      <nome>DE D. GUALDIM</nome>
+      <rua>14</rua>
+      <posição>d16e392</posição>
+   </lugar>
+   <lugar>
+      <nome>CAPELA DE S. BENTO</nome>
+      <rua>14</rua>
+      <posição>d16e519</posição>
+   </lugar>
+   <lugar>
+      <nome>SÉ</nome>
+      <rua>14</rua>
+      <posição>d16e522</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DO PÃO</nome>
+      <rua>14</rua>
+      <posição>d16e533</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA D. AFONSO HENRIQUES</nome>
+      <rua>15</rua>
+      <posição>d17e14</posição>
+   </lugar>
+   <lugar>
+      <nome>RUAS D. GONÇALO PEREIRA E D. GUALDIM PAIS</nome>
+      <rua>15</rua>
+      <posição>d17e16</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO POÇO</nome>
+      <rua>15</rua>
+      <posição>d17e54</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO POÇO</nome>
+      <rua>15</rua>
+      <posição>d17e69</posição>
+   </lugar>
+   <lugar>
+      <nome>AÇOUGUE</nome>
+      <rua>15</rua>
+      <posição>d17e122</posição>
+   </lugar>
+   <lugar>
+      <nome>TRAVESS</nome>
+      <rua>15</rua>
+      <posição>d17e127</posição>
+   </lugar>
+   <lugar>
+      <nome>SANTIAGO</nome>
+      <rua>15</rua>
+      <posição>d17e129</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE D. GUALDIM.</nome>
+      <rua>15</rua>
+      <posição>d17e131</posição>
+   </lugar>
+   <lugar>
+      <nome>AÇOUGUE</nome>
+      <rua>15</rua>
+      <posição>d17e149</posição>
+   </lugar>
+   <lugar>
+      <nome>TRAVESS</nome>
+      <rua>15</rua>
+      <posição>d17e154</posição>
+   </lugar>
+   <lugar>
+      <nome>SANTIAGO</nome>
+      <rua>15</rua>
+      <posição>d17e156</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE D. GUALDIM.</nome>
+      <rua>15</rua>
+      <posição>d17e158</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE D. GUALDIM</nome>
+      <rua>15</rua>
+      <posição>d17e171</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE D. GUALDIM</nome>
+      <rua>15</rua>
+      <posição>d17e184</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO POÇO</nome>
+      <rua>15</rua>
+      <posição>d17e197</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DO PÃO</nome>
+      <rua>16</rua>
+      <posição>d18e14</posição>
+   </lugar>
+   <lugar>
+      <nome>TERREIRO DE STO. ANTÓNIO</nome>
+      <rua>16</rua>
+      <posição>d18e16</posição>
+   </lugar>
+   <lugar>
+      <nome>BAIRRO DAS TRAVESSAS</nome>
+      <rua>16</rua>
+      <posição>d18e21</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE D. GUALDIM</nome>
+      <rua>16</rua>
+      <posição>d18e26</posição>
+   </lugar>
+   <lugar>
+      <nome>SÉ</nome>
+      <rua>16</rua>
+      <posição>d18e28</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA D. AFONSO HENRIQUES</nome>
+      <rua>16</rua>
+      <posição>d18e30</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. TIAGO</nome>
+      <rua>16</rua>
+      <posição>d18e32</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. PAULO</nome>
+      <rua>16</rua>
+      <posição>d18e34</posição>
+   </lugar>
+   <lugar>
+      <nome>ARQUIVO DA CÂMARA MUNICIPAL DE BRAGA</nome>
+      <rua>16</rua>
+      <posição>d18e45</posição>
+   </lugar>
+   <lugar>
+      <nome>CÂMARA</nome>
+      <rua>16</rua>
+      <posição>d18e53</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE D. GUALDÍM</nome>
+      <rua>16</rua>
+      <posição>d18e57</posição>
+   </lugar>
+   <lugar>
+      <nome>SÉ</nome>
+      <rua>16</rua>
+      <posição>d18e62</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DO PÃO</nome>
+      <rua>16</rua>
+      <posição>d18e64</posição>
+   </lugar>
+   <lugar>
+      <nome>CIDADE MEDIEVAL</nome>
+      <rua>16</rua>
+      <posição>d18e66</posição>
+   </lugar>
+   <lugar>
+      <nome>CÂMARA</nome>
+      <rua>16</rua>
+      <posição>d18e71</posição>
+   </lugar>
+   <lugar>
+      <nome>A IGREJA DE SANTIAGO</nome>
+      <rua>16</rua>
+      <posição>d18e77</posição>
+   </lugar>
+   <lugar>
+      <nome>IGREJA DA CIVIDADE</nome>
+      <rua>16</rua>
+      <posição>d18e79</posição>
+   </lugar>
+   <lugar>
+      <nome>PALÁCIO </nome>
+      <rua>16</rua>
+      <posição>d18e90</posição>
+   </lugar>
+   <lugar>
+      <nome>CÂMARA</nome>
+      <rua>16</rua>
+      <posição>d18e92</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS BURGUESES</nome>
+      <rua>16</rua>
+      <posição>d18e97</posição>
+   </lugar>
+   <lugar>
+      <nome>SOUTO</nome>
+      <rua>16</rua>
+      <posição>d18e99</posição>
+   </lugar>
+   <lugar>
+      <nome>IGREJA DE SANTIAGO</nome>
+      <rua>16</rua>
+      <posição>d18e104</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA D. GONÇALO PEREIRA</nome>
+      <rua>16</rua>
+      <posição>d18e106</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE D. GUALDIM</nome>
+      <rua>16</rua>
+      <posição>d18e111</posição>
+   </lugar>
+   <lugar>
+      <nome>CÂMARA</nome>
+      <rua>16</rua>
+      <posição>d18e113</posição>
+   </lugar>
+   <lugar>
+      <nome>BRAGA</nome>
+      <rua>16</rua>
+      <posição>d18e118</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DO PÃO</nome>
+      <rua>16</rua>
+      <posição>d18e144</posição>
+   </lugar>
+   <lugar>
+      <nome>CAPELA</nome>
+      <rua>16</rua>
+      <posição>d18e219</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE D. GUALDIM</nome>
+      <rua>16</rua>
+      <posição>d18e236</posição>
+   </lugar>
+   <lugar>
+      <nome>TRAVESSA</nome>
+      <rua>16</rua>
+      <posição>d18e238</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO POÇO</nome>
+      <rua>16</rua>
+      <posição>d18e240</posição>
+   </lugar>
+   <lugar>
+      <nome>TRAVESSA</nome>
+      <rua>16</rua>
+      <posição>d18e253</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO POÇO</nome>
+      <rua>16</rua>
+      <posição>d18e255</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE D. GUALDIM</nome>
+      <rua>16</rua>
+      <posição>d18e257</posição>
+   </lugar>
+   <lugar>
+      <nome>IGREJA DE SANTIAGO DA CIVIDADE</nome>
+      <rua>16</rua>
+      <posição>d18e292</posição>
+   </lugar>
+   <lugar>
+      <nome>TERREIRO DE SANTO ANTÓNIO</nome>
+      <rua>16</rua>
+      <posição>d18e294</posição>
+   </lugar>
+   <lugar>
+      <nome>IGREJA DE SANTIAGO DA CIVIDADE</nome>
+      <rua>16</rua>
+      <posição>d18e312</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE SANTO ANTÓNIO</nome>
+      <rua>16</rua>
+      <posição>d18e359</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE SANTO ANTÓNIO</nome>
+      <rua>16</rua>
+      <posição>d18e372</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE SANTO ANTÓNIO</nome>
+      <rua>16</rua>
+      <posição>d18e385</posição>
+   </lugar>
+   <lugar>
+      <nome>SÉ</nome>
+      <rua>16</rua>
+      <posição>d18e399</posição>
+   </lugar>
+   <lugar>
+      <nome>TRAVESSA</nome>
+      <rua>16</rua>
+      <posição>d18e401</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS CHAGAS</nome>
+      <rua>16</rua>
+      <posição>d18e403</posição>
+   </lugar>
+   <lugar>
+      <nome>STO. ANTÓNIO</nome>
+      <rua>16</rua>
+      <posição>d18e405</posição>
+   </lugar>
+   <lugar>
+      <nome>CONFRARIA DE SANTIAGO</nome>
+      <rua>16</rua>
+      <posição>d18e493</posição>
+   </lugar>
+   <lugar>
+      <nome>SÉ</nome>
+      <rua>16</rua>
+      <posição>d18e510</posição>
+   </lugar>
+   <lugar>
+      <nome>CASA DO CONCELHO</nome>
+      <rua>16</rua>
+      <posição>d18e512</posição>
+   </lugar>
+   <lugar>
+      <nome>CASA FOREIRA À CONFRARIA DE SANTIAGO</nome>
+      <rua>16</rua>
+      <posição>d18e514</posição>
+   </lugar>
+   <lugar>
+      <nome>SÉ</nome>
+      <rua>16</rua>
+      <posição>d18e531</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE D. GUALDIM</nome>
+      <rua>16</rua>
+      <posição>d18e547</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE MAXIMINOS</nome>
+      <rua>16</rua>
+      <posição>d18e549</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DO MUNICÍPIO</nome>
+      <rua>16</rua>
+      <posição>d18e560</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS TRAVESSAS</nome>
+      <rua>17</rua>
+      <posição>d19e16</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS TRAVESSAS</nome>
+      <rua>17</rua>
+      <posição>d19e18</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA VERDE</nome>
+      <rua>17</rua>
+      <posição>d19e20</posição>
+   </lugar>
+   <lugar>
+      <nome>COUTO DO ARVOREDO</nome>
+      <rua>17</rua>
+      <posição>d19e22</posição>
+   </lugar>
+   <lugar>
+      <nome>MURALHA</nome>
+      <rua>17</rua>
+      <posição>d19e24</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DAS CARVALHEIRAS</nome>
+      <rua>17</rua>
+      <posição>d19e27</posição>
+   </lugar>
+   <lugar>
+      <nome>S.MIGUEL O ANJO</nome>
+      <rua>17</rua>
+      <posição>d19e29</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE 
+            D. GUALDIM</nome>
+      <rua>17</rua>
+      <posição>d19e34</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA D. AFONSO HENRIQUES</nome>
+      <rua>17</rua>
+      <posição>d19e45</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE SANTO ANTÓNIO</nome>
+      <rua>17</rua>
+      <posição>d19e86</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE SANTO ANTÓNIO</nome>
+      <rua>17</rua>
+      <posição>d19e106</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS CHAGAS</nome>
+      <rua>17</rua>
+      <posição>d19e125</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA VERDE</nome>
+      <rua>17</rua>
+      <posição>d19e127</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE D. GUALDIM</nome>
+      <rua>17</rua>
+      <posição>d19e146</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS TRAVESSAS</nome>
+      <rua>18</rua>
+      <posição>d20e14</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA 
+            DE MAXIMINOS</nome>
+      <rua>18</rua>
+      <posição>d20e16</posição>
+   </lugar>
+   <lugar>
+      <nome>TRIPARIA</nome>
+      <rua>18</rua>
+      <posição>d20e28</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS CHAGAS</nome>
+      <rua>18</rua>
+      <posição>d20e32</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE MAXIMINOS</nome>
+      <rua>18</rua>
+      <posição>d20e37</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA 
+            D. FREI CAETANO BRANDÃO</nome>
+      <rua>18</rua>
+      <posição>d20e39</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE MAXIMINOS</nome>
+      <rua>18</rua>
+      <posição>d20e85</posição>
+   </lugar>
+   <lugar>
+      <nome>IGREJA DE SANTIADO DA CIVIDADE</nome>
+      <rua>18</rua>
+      <posição>d20e90</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE MAXIMINOS</nome>
+      <rua>18</rua>
+      <posição>d20e128</posição>
+   </lugar>
+   <lugar>
+      <nome>MITRA</nome>
+      <rua>18</rua>
+      <posição>d20e133</posição>
+   </lugar>
+   <lugar>
+      <nome>HOSPITAL DE REAL</nome>
+      <rua>18</rua>
+      <posição>d20e152</posição>
+   </lugar>
+   <lugar>
+      <nome>HOSPITAL DE S. MARCOS</nome>
+      <rua>18</rua>
+      <posição>d20e154</posição>
+   </lugar>
+   <lugar>
+      <nome>HOSPITAL DE S. MARCOS</nome>
+      <rua>18</rua>
+      <posição>d20e215</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE MAXIMINOS</nome>
+      <rua>18</rua>
+      <posição>d20e264</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS TRAVESSAS</nome>
+      <rua>19</rua>
+      <posição>d21e14</posição>
+   </lugar>
+   <lugar>
+      <nome>TERREIRO DE SANTO ANTÓNIO</nome>
+      <rua>19</rua>
+      <posição>d21e16</posição>
+   </lugar>
+   <lugar>
+      <nome>JUDIARIA NOVA</nome>
+      <rua>19</rua>
+      <posição>d21e23</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE D. GUALDIM</nome>
+      <rua>19</rua>
+      <posição>d21e74</posição>
+   </lugar>
+   <lugar>
+      <nome>TERREIRO DE STO. ANTÓNIO</nome>
+      <rua>19</rua>
+      <posição>d21e166</posição>
+   </lugar>
+   <lugar>
+      <nome>«CASAS TORRES»</nome>
+      <rua>19</rua>
+      <posição>d21e199</posição>
+   </lugar>
+   <lugar>
+      <nome>MOSTEIRO DE BOURO</nome>
+      <rua>19</rua>
+      <posição>d21e224</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA
+                        DE D. GUALDIM</nome>
+      <rua>19</rua>
+      <posição>d21e300</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA
+                        DE D. GUALDIM</nome>
+      <rua>19</rua>
+      <posição>d21e319</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA
+                        DE D. GUALDIM</nome>
+      <rua>19</rua>
+      <posição>d21e339</posição>
+   </lugar>
+   <lugar>
+      <nome>TERREIRO DE S. TIAGO</nome>
+      <rua>20</rua>
+      <posição>d22e14</posição>
+   </lugar>
+   <lugar>
+      <nome>POSTIGO DE S.SEBASTIÃO</nome>
+      <rua>20</rua>
+      <posição>d22e16</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA TRAVESSA</nome>
+      <rua>20</rua>
+      <posição>d22e21</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO POSTIGO</nome>
+      <rua>20</rua>
+      <posição>d22e23</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO TERREIRO DE SANTO 
+            ANTÓNIO</nome>
+      <rua>20</rua>
+      <posição>d22e41</posição>
+   </lugar>
+   <lugar>
+      <nome>«POSTIGO»
+            DA MURALHA</nome>
+      <rua>20</rua>
+      <posição>d22e56</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. PAULO</nome>
+      <rua>20</rua>
+      <posição>d22e66</posição>
+   </lugar>
+   <lugar>
+      <nome>S. PEDRO DE MERELIM</nome>
+      <rua>20</rua>
+      <posição>d22e102</posição>
+   </lugar>
+   <lugar>
+      <nome>PENSO</nome>
+      <rua>20</rua>
+      <posição>d22e121</posição>
+   </lugar>
+   <lugar>
+      <nome>MELGAÇO</nome>
+      <rua>20</rua>
+      <posição>d22e123</posição>
+   </lugar>
+   <lugar>
+      <nome>MOSTEIRO DE BOURO</nome>
+      <rua>20</rua>
+      <posição>d22e143</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE D. GUALDIM</nome>
+      <rua>20</rua>
+      <posição>d22e198</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE D. GUALDIM</nome>
+      <rua>20</rua>
+      <posição>d22e213</posição>
+   </lugar>
+   <lugar>
+      <nome>POSTIGO DE S. SEBASTIÃO</nome>
+      <rua>21</rua>
+      <posição>d23e14</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE MAXIMINOS</nome>
+      <rua>21</rua>
+      <posição>d23e16</posição>
+   </lugar>
+   <lugar>
+      <nome>PORTA DE S. FRANCISCO</nome>
+      <rua>21</rua>
+      <posição>d23e18</posição>
+   </lugar>
+   <lugar>
+      <nome>RUAS DOS SAPATEIROS E DO CAMPO</nome>
+      <rua>21</rua>
+      <posição>d23e20</posição>
+   </lugar>
+   <lugar>
+      <nome>MAXIMINOS</nome>
+      <rua>21</rua>
+      <posição>d23e27</posição>
+   </lugar>
+   <lugar>
+      <nome>CAPELA DE S. SEBASTIÃO</nome>
+      <rua>21</rua>
+      <posição>d23e30</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE S. MIGUEL O ANJO</nome>
+      <rua>21</rua>
+      <posição>d23e32</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS TRAVESSAS</nome>
+      <rua>21</rua>
+      <posição>d23e41</posição>
+   </lugar>
+   <lugar>
+      <nome>COUTO DO ARVOREDO</nome>
+      <rua>21</rua>
+      <posição>d23e43</posição>
+   </lugar>
+   <lugar>
+      <nome>COUTO DO ARVOREDO</nome>
+      <rua>21</rua>
+      <posição>d23e48</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA VERDE</nome>
+      <rua>21</rua>
+      <posição>d23e54</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE ST.º ANTÓNIO</nome>
+      <rua>21</rua>
+      <posição>d23e135</posição>
+   </lugar>
+   <lugar>
+      <nome>POSTIGO DE S. SEBASTIÃO</nome>
+      <rua>21</rua>
+      <posição>d23e137</posição>
+   </lugar>
+   <lugar>
+      <nome>POSTIGO DE S. SEBASTIÃO</nome>
+      <rua>21</rua>
+      <posição>d23e163</posição>
+   </lugar>
+   <lugar>
+      <nome>«LUGAR DO SABUGAL»</nome>
+      <rua>21</rua>
+      <posição>d23e167</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE STO. ANTÓNIO.</nome>
+      <rua>21</rua>
+      <posição>d23e169</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE MAXIMINOS</nome>
+      <rua>21</rua>
+      <posição>d23e330</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DO PÃO</nome>
+      <rua>22</rua>
+      <posição>d24e14</posição>
+   </lugar>
+   <lugar>
+      <nome>PORTA DE MAXIMINOS</nome>
+      <rua>22</rua>
+      <posição>d24e16</posição>
+   </lugar>
+   <lugar>
+      <nome>NOSSA SENHORA DA AJUDA</nome>
+      <rua>22</rua>
+      <posição>d24e18</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE MAXIMINOS</nome>
+      <rua>22</rua>
+      <posição>d24e25</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO SOUTO</nome>
+      <rua>22</rua>
+      <posição>d24e30</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DO PÃO</nome>
+      <rua>22</rua>
+      <posição>d24e37</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DO PÃO</nome>
+      <rua>22</rua>
+      <posição>d24e88</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS CHAGAS</nome>
+      <rua>22</rua>
+      <posição>d24e218</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA VERDE</nome>
+      <rua>22</rua>
+      <posição>d24e277</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS SAPATEIROS</nome>
+      <rua>22</rua>
+      <posição>d24e423</posição>
+   </lugar>
+   <lugar>
+      <nome>SÉ DE BRAGA</nome>
+      <rua>22</rua>
+      <posição>d24e425</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA VERDE</nome>
+      <rua>23</rua>
+      <posição>d25e14</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE
+                MAXIMINOS</nome>
+      <rua>23</rua>
+      <posição>d25e16</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA NOVA</nome>
+      <rua>23</rua>
+      <posição>d25e18</posição>
+   </lugar>
+   <lugar>
+      <nome>MAXIMINOS</nome>
+      <rua>23</rua>
+      <posição>d25e30</posição>
+   </lugar>
+   <lugar>
+      <nome>ROSSIO DA PRAÇA</nome>
+      <rua>23</rua>
+      <posição>d25e38</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS SAPATEIROS</nome>
+      <rua>23</rua>
+      <posição>d25e44</posição>
+   </lugar>
+   <lugar>
+      <nome>ROSSIO DA PRAÇA</nome>
+      <rua>23</rua>
+      <posição>d25e49</posição>
+   </lugar>
+   <lugar>
+      <nome>ROSSIO DA PRAÇA</nome>
+      <rua>23</rua>
+      <posição>d25e56</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA D. FREI CAETANO BRANDÃO</nome>
+      <rua>23</rua>
+      <posição>d25e61</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA NOVA DE SOUSA</nome>
+      <rua>23</rua>
+      <posição>d25e91</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA VIELINHA</nome>
+      <rua>23</rua>
+      <posição>d25e276</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA VIELINHA</nome>
+      <rua>23</rua>
+      <posição>d25e296</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA VIELINHA</nome>
+      <rua>23</rua>
+      <posição>d25e335</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE MAXIMINOS</nome>
+      <rua>24</rua>
+      <posição>d26e14</posição>
+   </lugar>
+   <lugar>
+      <nome>REXIO DA PRAÇA</nome>
+      <rua>24</rua>
+      <posição>d26e16</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS SAPATEIROS</nome>
+      <rua>24</rua>
+      <posição>d26e68</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS SAPATEIROS</nome>
+      <rua>24</rua>
+      <posição>d26e88</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS SAPATEIROS</nome>
+      <rua>24</rua>
+      <posição>d26e106</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS SAPATEIROS</nome>
+      <rua>24</rua>
+      <posição>d26e128</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA VIELINHA</nome>
+      <rua>24</rua>
+      <posição>d26e134</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS SAPATEIROS</nome>
+      <rua>24</rua>
+      <posição>d26e147</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA VIELINHA</nome>
+      <rua>24</rua>
+      <posição>d26e153</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE MAXIMINOS</nome>
+      <rua>24</rua>
+      <posição>d26e156</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE MAXIMINOS</nome>
+      <rua>24</rua>
+      <posição>d26e171</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DAS HORTAS</nome>
+      <rua>25</rua>
+      <posição>d27e31</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE S. SEBASTIÃO</nome>
+      <rua>25</rua>
+      <posição>d27e33</posição>
+   </lugar>
+   <lugar>
+      <nome>EM FRENTE DO AÇOUGUE</nome>
+      <rua>25</rua>
+      <posição>d27e35</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S.MIGUEL O ANJO</nome>
+      <rua>25</rua>
+      <posição>d27e40</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE MAXIMINOS</nome>
+      <rua>25</rua>
+      <posição>d27e42</posição>
+   </lugar>
+   <lugar>
+      <nome>CAPELA DE S. MIGUEL O ANJO</nome>
+      <rua>25</rua>
+      <posição>d27e44</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE S. SEBASTIÃO</nome>
+      <rua>25</rua>
+      <posição>d27e56</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE S. SEBASTIÃO</nome>
+      <rua>25</rua>
+      <posição>d27e68</posição>
+   </lugar>
+   <lugar>
+      <nome>CAPELA DE S. MIGUEL O ANJO</nome>
+      <rua>25</rua>
+      <posição>d27e78</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. MIGUEL O ANJO</nome>
+      <rua>25</rua>
+      <posição>d27e85</posição>
+   </lugar>
+   <lugar>
+      <nome>CRUZEIRO</nome>
+      <rua>25</rua>
+      <posição>d27e90</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DAS HORTAS</nome>
+      <rua>25</rua>
+      <posição>d27e98</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE S. SEBASTIÃO</nome>
+      <rua>25</rua>
+      <posição>d27e102</posição>
+   </lugar>
+   <lugar>
+      <nome>EM FRENTE DO AÇOUGUE</nome>
+      <rua>25</rua>
+      <posição>d27e107</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE S. SEBASTIÃO</nome>
+      <rua>25</rua>
+      <posição>d27e112</posição>
+   </lugar>
+   <lugar>
+      <nome>EM FRENTE DO AÇOUGUE</nome>
+      <rua>25</rua>
+      <posição>d27e121</posição>
+   </lugar>
+   <lugar>
+      <nome>AVENIDA DE S. MIGUEL O ANJO</nome>
+      <rua>25</rua>
+      <posição>d27e123</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE
+                S. SEBASTIÃO</nome>
+      <rua>25</rua>
+      <posição>d27e125</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DAS CARVALHEIRAS</nome>
+      <rua>25</rua>
+      <posição>d27e127</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO MATADOURO VELHO</nome>
+      <rua>25</rua>
+      <posição>d27e129</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO ARRABALDE DA CRUZ DE PEDRA</nome>
+      <rua>25</rua>
+      <posição>d27e155</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. MIGUEL O ANJO</nome>
+      <rua>25</rua>
+      <posição>d27e157</posição>
+   </lugar>
+   <lugar>
+      <nome>HOSPITAL DE S. MARCOS</nome>
+      <rua>25</rua>
+      <posição>d27e176</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA EM FRENTE DOS AÇOGUES</nome>
+      <rua>26</rua>
+      <posição>d28e28</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DAS HORTAS</nome>
+      <rua>26</rua>
+      <posição>d28e30</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE CRUZ DE PEDRA</nome>
+      <rua>26</rua>
+      <posição>d28e32</posição>
+   </lugar>
+   <lugar>
+      <nome>CAPELA DE S.MIGUEL O ANJO</nome>
+      <rua>26</rua>
+      <posição>d28e37</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE MAXIMINOS</nome>
+      <rua>26</rua>
+      <posição>d28e39</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA VISCONDE PINDELA</nome>
+      <rua>26</rua>
+      <posição>d28e64</posição>
+   </lugar>
+   <lugar>
+      <nome>CASA FOREIRA À MITRA</nome>
+      <rua>26</rua>
+      <posição>d28e84</posição>
+   </lugar>
+   <lugar>
+      <nome>ROSSIO</nome>
+      <rua>26</rua>
+      <posição>d28e103</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA CRUZ DA PEDRA.</nome>
+      <rua>26</rua>
+      <posição>d28e105</posição>
+   </lugar>
+   <lugar>
+      <nome>CÂMARA</nome>
+      <rua>26</rua>
+      <posição>d28e124</posição>
+   </lugar>
+   <lugar>
+      <nome>AÇOGUE</nome>
+      <rua>26</rua>
+      <posição>d28e192</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. MIGUEL O ANJO</nome>
+      <rua>27</rua>
+      <posição>d29e28</posição>
+   </lugar>
+   <lugar>
+      <nome>BECO E DIREITA</nome>
+      <rua>27</rua>
+      <posição>d29e30</posição>
+   </lugar>
+   <lugar>
+      <nome>NOSSA SENHORA DA AJUDA</nome>
+      <rua>27</rua>
+      <posição>d29e35</posição>
+   </lugar>
+   <lugar>
+      <nome>IGREJA DE MAXIMINOS</nome>
+      <rua>27</rua>
+      <posição>d29e37</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO CAIRES</nome>
+      <rua>27</rua>
+      <posição>d29e39</posição>
+   </lugar>
+   <lugar>
+      <nome>LARGO DO BECO</nome>
+      <rua>27</rua>
+      <posição>d29e41</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE S. SEBASTIÃO</nome>
+      <rua>27</rua>
+      <posição>d29e86</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE S. SEBASTIÃO</nome>
+      <rua>27</rua>
+      <posição>d29e126</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE S. SEBASTIÃO</nome>
+      <rua>27</rua>
+      <posição>d29e147</posição>
+   </lugar>
+   <lugar>
+      <nome>LISBOA</nome>
+      <rua>27</rua>
+      <posição>d29e152</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE S. SEBASTIÃO</nome>
+      <rua>27</rua>
+      <posição>d29e167</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE S. SEBASTIÃO</nome>
+      <rua>27</rua>
+      <posição>d29e189</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE S. SEBASTIÃO</nome>
+      <rua>27</rua>
+      <posição>d29e210</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE S. SEBASTIÃO</nome>
+      <rua>27</rua>
+      <posição>d29e231</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE S. SEBASTIÃO</nome>
+      <rua>27</rua>
+      <posição>d29e246</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE S. SEBASTIÃO</nome>
+      <rua>27</rua>
+      <posição>d29e267</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE S. SEBASTIÃO</nome>
+      <rua>27</rua>
+      <posição>d29e288</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE S. SEBASTIÃO</nome>
+      <rua>27</rua>
+      <posição>d29e309</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE S. SEBASTIÃO</nome>
+      <rua>27</rua>
+      <posição>d29e330</posição>
+   </lugar>
+   <lugar>
+      <nome>COMPANHIA DE JESUS</nome>
+      <rua>27</rua>
+      <posição>d29e334</posição>
+   </lugar>
+   <lugar>
+      <nome>SÉ DE BRAGA</nome>
+      <rua>27</rua>
+      <posição>d29e355</posição>
+   </lugar>
+   <lugar>
+      <nome>S. CRISTÓVÃO</nome>
+      <rua>27</rua>
+      <posição>d29e370</posição>
+   </lugar>
+   <lugar>
+      <nome>S. PEDRO DE MAXIMINOS</nome>
+      <rua>27</rua>
+      <posição>d29e372</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA CRUZ DA PEDRA</nome>
+      <rua>27</rua>
+      <posição>d29e389</posição>
+   </lugar>
+   <lugar>
+      <nome>S. CRISTÓVÃO</nome>
+      <rua>27</rua>
+      <posição>d29e409</posição>
+   </lugar>
+   <lugar>
+      <nome>S. PEDRO DE MAXIMINOS</nome>
+      <rua>27</rua>
+      <posição>d29e411</posição>
+   </lugar>
+   <lugar>
+      <nome>S. SEBASTIÃO</nome>
+      <rua>27</rua>
+      <posição>d29e472</posição>
+   </lugar>
+   <lugar>
+      <nome>S. SEBASTIÃO</nome>
+      <rua>27</rua>
+      <posição>d29e474</posição>
+   </lugar>
+   <lugar>
+      <nome>S. SEBASTIÃO</nome>
+      <rua>27</rua>
+      <posição>d29e556</posição>
+   </lugar>
+   <lugar>
+      <nome>S. SEBASTIÃO</nome>
+      <rua>27</rua>
+      <posição>d29e593</posição>
+   </lugar>
+   <lugar>
+      <nome>S. SEBASTIÃO</nome>
+      <rua>27</rua>
+      <posição>d29e613</posição>
+   </lugar>
+   <lugar>
+      <nome>S. PEDRO DE MAXIMINOS</nome>
+      <rua>27</rua>
+      <posição>d29e634</posição>
+   </lugar>
+   <lugar>
+      <nome>CANGOSTA DOS CORVOS</nome>
+      <rua>27</rua>
+      <posição>d29e701</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA CRUZ DE PEDRA</nome>
+      <rua>27</rua>
+      <posição>d29e706</posição>
+   </lugar>
+   <lugar>
+      <nome>RUDA DA CRUZ DA PEDRA</nome>
+      <rua>27</rua>
+      <posição>d29e733</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA CRUZ DE PEDRA</nome>
+      <rua>28</rua>
+      <posição>d30e28</posição>
+   </lugar>
+   <lugar>
+      <nome>MONTE DAS PENAS</nome>
+      <rua>28</rua>
+      <posição>d30e30</posição>
+   </lugar>
+   <lugar>
+      <nome>LARGO DE MAXIMINOS</nome>
+      <rua>28</rua>
+      <posição>d30e32</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DO CONDESTÁVEL</nome>
+      <rua>28</rua>
+      <posição>d30e34</posição>
+   </lugar>
+   <lugar>
+      <nome>MONTE DAS PENAS</nome>
+      <rua>28</rua>
+      <posição>d30e39</posição>
+   </lugar>
+   <lugar>
+      <nome>ENFIAMENTO DA CANGOSTA DE S.SEBASTIÃO</nome>
+      <rua>29</rua>
+      <posição>d31e28</posição>
+   </lugar>
+   <lugar>
+      <nome>MAXIMINOS</nome>
+      <rua>29</rua>
+      <posição>d31e40</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA 
+            DO CAIRES</nome>
+      <rua>29</rua>
+      <posição>d31e44</posição>
+   </lugar>
+   <lugar>
+      <nome>BECO</nome>
+      <rua>29</rua>
+      <posição>d31e46</posição>
+   </lugar>
+   <lugar>
+      <nome>CIVIDADE</nome>
+      <rua>30</rua>
+      <posição>d32e28</posição>
+   </lugar>
+   <lugar>
+      <nome>TERREIRO DE S. SEBASTIÃO</nome>
+      <rua>30</rua>
+      <posição>d32e30</posição>
+   </lugar>
+   <lugar>
+      <nome>CAPELA DE S.SEBASTIÃO DAS CARVALHEIRAS)</nome>
+      <rua>30</rua>
+      <posição>d32e32</posição>
+   </lugar>
+   <lugar>
+      <nome>BECO</nome>
+      <rua>30</rua>
+      <posição>d32e34</posição>
+   </lugar>
+   <lugar>
+      <nome>IGREJA PAROQUIAL DE MAXIMINOS</nome>
+      <rua>30</rua>
+      <posição>d32e44</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS MARCHANTES</nome>
+      <rua>30</rua>
+      <posição>d32e59</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO ARRABALDE DA CRUZ DA PEDRA</nome>
+      <rua>30</rua>
+      <posição>d32e76</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO ARRABALDE DA CRUZ DE PEDRA</nome>
+      <rua>30</rua>
+      <posição>d32e93</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO ARRABALDE DA CRUZ DE PEDRA</nome>
+      <rua>30</rua>
+      <posição>d32e126</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO ARRABALDE DA CRUZ DA PEDRA</nome>
+      <rua>30</rua>
+      <posição>d32e158</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO ARRABALDE DA CRUZ DA PEDRA</nome>
+      <rua>30</rua>
+      <posição>d32e175</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA CRUZ DA PEDRA</nome>
+      <rua>30</rua>
+      <posição>d32e192</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO ARRABALDE DE CRUZ DA PEDRA</nome>
+      <rua>30</rua>
+      <posição>d32e209</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE S.TIAGO</nome>
+      <rua>31</rua>
+      <posição>d33e21</posição>
+   </lugar>
+   <lugar>
+      <nome>TERREIRO DE S.SEBASTIÃO.</nome>
+      <rua>31</rua>
+      <posição>d33e23</posição>
+   </lugar>
+   <lugar>
+      <nome>CÂMARA</nome>
+      <rua>31</rua>
+      <posição>d33e38</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO ARRABALDE DA CRUZ DA PEDRA</nome>
+      <rua>31</rua>
+      <posição>d33e58</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO ARRABALDE DA CRUZ DA PEDRA</nome>
+      <rua>31</rua>
+      <posição>d33e75</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO ARRABALDE DA CRUZ DA PEDRA</nome>
+      <rua>31</rua>
+      <posição>d33e92</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO ARRABALDE DA CRUZ DA PEDRA</nome>
+      <rua>31</rua>
+      <posição>d33e109</posição>
+   </lugar>
+   <lugar>
+      <nome>ARRABALDE DA CRUZ DA PEDRA</nome>
+      <rua>31</rua>
+      <posição>d33e126</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO ARRABALDE DA CRUZ DA PEDRA</nome>
+      <rua>31</rua>
+      <posição>d33e144</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO ARRABALDE DA CRUZ DA PEDRA</nome>
+      <rua>31</rua>
+      <posição>d33e161</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA CRUZ DA PEDRA.</nome>
+      <rua>31</rua>
+      <posição>d33e178</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO ARRABALDE DA CRUZ DA PEDRA</nome>
+      <rua>31</rua>
+      <posição>d33e195</posição>
+   </lugar>
+   <lugar>
+      <nome>LARGO DE S.TIAGO</nome>
+      <rua>32</rua>
+      <posição>d34e28</posição>
+   </lugar>
+   <lugar>
+      <nome>PONTE DOS PELAMES</nome>
+      <rua>32</rua>
+      <posição>d34e30</posição>
+   </lugar>
+   <lugar>
+      <nome>PORTO</nome>
+      <rua>32</rua>
+      <posição>d34e32</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO INFANTE</nome>
+      <rua>32</rua>
+      <posição>d34e44</posição>
+   </lugar>
+   <lugar>
+      <nome>DE PELAMES</nome>
+      <rua>32</rua>
+      <posição>d34e46</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S.GERALDO</nome>
+      <rua>32</rua>
+      <posição>d34e51</posição>
+   </lugar>
+   <lugar>
+      <nome>CONVENTO DA CONCEIÇÃO</nome>
+      <rua>32</rua>
+      <posição>d34e53</posição>
+   </lugar>
+   <lugar>
+      <nome>CONVENTO DA CONCEIÇÃO</nome>
+      <rua>32</rua>
+      <posição>d34e72</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE SANTIAGO</nome>
+      <rua>32</rua>
+      <posição>d34e106</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE SANTIAGO</nome>
+      <rua>32</rua>
+      <posição>d34e129</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE SANTIAGO</nome>
+      <rua>32</rua>
+      <posição>d34e170</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE SANTIAGO</nome>
+      <rua>32</rua>
+      <posição>d34e187</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE SANTIAGO</nome>
+      <rua>32</rua>
+      <posição>d34e211</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE SANTIAGO</nome>
+      <rua>32</rua>
+      <posição>d34e234</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE SANTIAGO</nome>
+      <rua>32</rua>
+      <posição>d34e254</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE SANTIAGO</nome>
+      <rua>32</rua>
+      <posição>d34e274</posição>
+   </lugar>
+   <lugar>
+      <nome>MITRA</nome>
+      <rua>32</rua>
+      <posição>d34e278</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE SANTIAGO</nome>
+      <rua>32</rua>
+      <posição>d34e298</posição>
+   </lugar>
+   <lugar>
+      <nome>MITRA</nome>
+      <rua>32</rua>
+      <posição>d34e300</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE 
+                        SANTIAGO</nome>
+      <rua>32</rua>
+      <posição>d34e320</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE SANTIAGO</nome>
+      <rua>32</rua>
+      <posição>d34e338</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE SANTIAGO</nome>
+      <rua>32</rua>
+      <posição>d34e358</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE SANTIAGO</nome>
+      <rua>32</rua>
+      <posição>d34e402</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE SANTIAGO</nome>
+      <rua>32</rua>
+      <posição>d34e419</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE SANTIAGO</nome>
+      <rua>32</rua>
+      <posição>d34e442</posição>
+   </lugar>
+   <lugar>
+      <nome>COUTO DE MOURE DE 
+                            OLIVAIS</nome>
+      <rua>32</rua>
+      <posição>d34e467</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE SANTIAGO</nome>
+      <rua>32</rua>
+      <posição>d34e469</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE SANTIAGO</nome>
+      <rua>32</rua>
+      <posição>d34e495</posição>
+   </lugar>
+   <lugar>
+      <nome>PORTO</nome>
+      <rua>33</rua>
+      <posição>d35e20</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS PELAMES</nome>
+      <rua>33</rua>
+      <posição>d35e22</posição>
+   </lugar>
+   <lugar>
+      <nome>COLÉGIO DE S. PAULO</nome>
+      <rua>33</rua>
+      <posição>d35e24</posição>
+   </lugar>
+   <lugar>
+      <nome>SEMINÁRIO DE SANTIAGO</nome>
+      <rua>33</rua>
+      <posição>d35e28</posição>
+   </lugar>
+   <lugar>
+      <nome>RUAS DOS PELAMES</nome>
+      <rua>33</rua>
+      <posição>d35e36</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA S. PAULO</nome>
+      <rua>33</rua>
+      <posição>d35e38</posição>
+   </lugar>
+   <lugar>
+      <nome>LARGO DE S. PAULO</nome>
+      <rua>33</rua>
+      <posição>d35e40</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE S. TIAGO</nome>
+      <rua>33</rua>
+      <posição>d35e42</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS PELLAMES</nome>
+      <rua>33</rua>
+      <posição>d35e52</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE S. TIAGO</nome>
+      <rua>33</rua>
+      <posição>d35e67</posição>
+   </lugar>
+   <lugar>
+      <nome>CASA DOS FALCÕES COTA</nome>
+      <rua>33</rua>
+      <posição>d35e78</posição>
+   </lugar>
+   <lugar>
+      <nome>LUGAR DO POMBAL</nome>
+      <rua>33</rua>
+      <posição>d35e104</posição>
+   </lugar>
+   <lugar>
+      <nome>FREGUESIA DE STA. MARIA DE MUJÃO</nome>
+      <rua>33</rua>
+      <posição>d35e118</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE AVELAR, FIGUEIRA E LARANJEIRA</nome>
+      <rua>33</rua>
+      <posição>d35e144</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE SANTIGO</nome>
+      <rua>33</rua>
+      <posição>d35e164</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS PELAMES</nome>
+      <rua>33</rua>
+      <posição>d35e166</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO ALCAIDE</nome>
+      <rua>33</rua>
+      <posição>d35e168</posição>
+   </lugar>
+   <lugar>
+      <nome>FREGUESIA DE CERVÃES</nome>
+      <rua>33</rua>
+      <posição>d35e210</posição>
+   </lugar>
+   <lugar>
+      <nome>FREGUESIA DE CERVÃES</nome>
+      <rua>33</rua>
+      <posição>d35e233</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS PELAMES</nome>
+      <rua>33</rua>
+      <posição>d35e338</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DOS REMÉDIOS</nome>
+      <rua>33</rua>
+      <posição>d35e382</posição>
+   </lugar>
+   <lugar>
+      <nome>IGREJA DE SANTA CRUZ</nome>
+      <rua>33</rua>
+      <posição>d35e384</posição>
+   </lugar>
+   <lugar>
+      <nome>CANGOSTA DAS CRUZES</nome>
+      <rua>33</rua>
+      <posição>d35e578</posição>
+   </lugar>
+   <lugar>
+      <nome>CANGOSTA DAS CRUZES</nome>
+      <rua>33</rua>
+      <posição>d35e594</posição>
+   </lugar>
+   <lugar>
+      <nome>CANGOSTA DAS CRUZES</nome>
+      <rua>33</rua>
+      <posição>d35e611</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE SANTIAGO</nome>
+      <rua>33</rua>
+      <posição>d35e679</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE BAIXO</nome>
+      <rua>33</rua>
+      <posição>d35e701</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE S. TIAGO</nome>
+      <rua>34</rua>
+      <posição>d36e14</posição>
+   </lugar>
+   <lugar>
+      <nome>HOSPITAL DE S. MARCOS</nome>
+      <rua>34</rua>
+      <posição>d36e16</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE S. TIAGO</nome>
+      <rua>34</rua>
+      <posição>d36e23</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE S. TIAGO</nome>
+      <rua>34</rua>
+      <posição>d36e39</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO ANJO</nome>
+      <rua>34</rua>
+      <posição>d36e52</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO ANJO</nome>
+      <rua>34</rua>
+      <posição>d36e65</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO ANJO</nome>
+      <rua>34</rua>
+      <posição>d36e78</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO ANJO</nome>
+      <rua>34</rua>
+      <posição>d36e91</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO ANJO</nome>
+      <rua>34</rua>
+      <posição>d36e104</posição>
+   </lugar>
+   <lugar>
+      <nome>HOSPITAL DE S. MARCOS</nome>
+      <rua>34</rua>
+      <posição>d36e109</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE SANTIAGO</nome>
+      <rua>34</rua>
+      <posição>d36e135</posição>
+   </lugar>
+   <lugar>
+      <nome>PORTA DO SOUTO</nome>
+      <rua>35</rua>
+      <posição>d37e14</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DOS REMÉDIOS</nome>
+      <rua>35</rua>
+      <posição>d37e16</posição>
+   </lugar>
+   <lugar>
+      <nome>BRAGA</nome>
+      <rua>35</rua>
+      <posição>d37e37</posição>
+   </lugar>
+   <lugar>
+      <nome>CAPELA DE STA. LUZIA</nome>
+      <rua>35</rua>
+      <posição>d37e61</posição>
+   </lugar>
+   <lugar>
+      <nome>MORGADO DE BESTEIROS</nome>
+      <rua>35</rua>
+      <posição>d37e63</posição>
+   </lugar>
+   <lugar>
+      <nome>CONVENTO DOS REMÉDIOS</nome>
+      <rua>35</rua>
+      <posição>d37e65</posição>
+   </lugar>
+   <lugar>
+      <nome>CONVENTO DE NOSSA SENHORA DOS REMÉDIOS</nome>
+      <rua>35</rua>
+      <posição>d37e85</posição>
+   </lugar>
+   <lugar>
+      <nome>PORTA DE S. JOÃO</nome>
+      <rua>35</rua>
+      <posição>d37e117</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA PONTE DE GUIMARÃES</nome>
+      <rua>35</rua>
+      <posição>d37e119</posição>
+   </lugar>
+   <lugar>
+      <nome>HOSPITAL DE S. MARCOS</nome>
+      <rua>35</rua>
+      <posição>d37e126</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS GRANJINHOS</nome>
+      <rua>35</rua>
+      <posição>d37e140</posição>
+   </lugar>
+   <lugar>
+      <nome>S. LÁZARO</nome>
+      <rua>35</rua>
+      <posição>d37e143</posição>
+   </lugar>
+   <lugar>
+      <nome>GRANJINHOS</nome>
+      <rua>35</rua>
+      <posição>d37e146</posição>
+   </lugar>
+   <lugar>
+      <nome>HOSPITAL DE S. MARCOS</nome>
+      <rua>35</rua>
+      <posição>d37e164</posição>
+   </lugar>
+   <lugar>
+      <nome>NOSSA SENHORA A BRANCA</nome>
+      <rua>35</rua>
+      <posição>d37e171</posição>
+   </lugar>
+   <lugar>
+      <nome>S. JOÃO DO SOUTO</nome>
+      <rua>35</rua>
+      <posição>d37e174</posição>
+   </lugar>
+   <lugar>
+      <nome>CANGOSTA DA PALMATÓRIA</nome>
+      <rua>35</rua>
+      <posição>d37e179</posição>
+   </lugar>
+   <lugar>
+      <nome>HORTAS DOS GRANGINHOS</nome>
+      <rua>35</rua>
+      <posição>d37e219</posição>
+   </lugar>
+   <lugar>
+      <nome>FONTE DO ÍDOLO</nome>
+      <rua>35</rua>
+      <posição>d37e221</posição>
+   </lugar>
+   <lugar>
+      <nome>HORTAS DE S. MARCOS</nome>
+      <rua>35</rua>
+      <posição>d37e223</posição>
+   </lugar>
+   <lugar>
+      <nome>FONTE DE S. MARCOS</nome>
+      <rua>35</rua>
+      <posição>d37e225</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. LÁZARO</nome>
+      <rua>35</rua>
+      <posição>d37e238</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. LÁZARO</nome>
+      <rua>35</rua>
+      <posição>d37e257</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. LÁZARO</nome>
+      <rua>35</rua>
+      <posição>d37e275</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. LÁZARO</nome>
+      <rua>35</rua>
+      <posição>d37e293</posição>
+   </lugar>
+   <lugar>
+      <nome>TERREIRO DE S. LÁZARO</nome>
+      <rua>35</rua>
+      <posição>d37e298</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS GRANGINHOS</nome>
+      <rua>35</rua>
+      <posição>d37e300</posição>
+   </lugar>
+   <lugar>
+      <nome>S. LÁZARO</nome>
+      <rua>36</rua>
+      <posição>d38e14</posição>
+   </lugar>
+   <lugar>
+      <nome>PORTA DE GUIMARÃES</nome>
+      <rua>36</rua>
+      <posição>d38e17</posição>
+   </lugar>
+   <lugar>
+      <nome>ARCADA</nome>
+      <rua>36</rua>
+      <posição>d38e20</posição>
+   </lugar>
+   <lugar>
+      <nome>PONTE DE GUIMARÃES</nome>
+      <rua>36</rua>
+      <posição>d38e22</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO SOUTO</nome>
+      <rua>36</rua>
+      <posição>d38e34</posição>
+   </lugar>
+   <lugar>
+      <nome>CONVENTO DOS REMÉDIOS</nome>
+      <rua>36</rua>
+      <posição>d38e36</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS ÁGUAS</nome>
+      <rua>36</rua>
+      <posição>d38e38</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS ÁGUAS</nome>
+      <rua>36</rua>
+      <posição>d38e49</posição>
+   </lugar>
+   <lugar>
+      <nome>AVENIDA DA LIBERDADE</nome>
+      <rua>36</rua>
+      <posição>d38e51</posição>
+   </lugar>
+   <lugar>
+      <nome>ARCADA</nome>
+      <rua>36</rua>
+      <posição>d38e53</posição>
+   </lugar>
+   <lugar>
+      <nome>RECHICHO</nome>
+      <rua>36</rua>
+      <posição>d38e55</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS ÁGUAS</nome>
+      <rua>36</rua>
+      <posição>d38e79</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS ÁGUAS</nome>
+      <rua>36</rua>
+      <posição>d38e105</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS ÁGUAS</nome>
+      <rua>36</rua>
+      <posição>d38e122</posição>
+   </lugar>
+   <lugar>
+      <nome>BRAGA</nome>
+      <rua>36</rua>
+      <posição>d38e134</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO RIBEIRO</nome>
+      <rua>36</rua>
+      <posição>d38e136</posição>
+   </lugar>
+   <lugar>
+      <nome>FREGUESIA DE S. JERÓNIMO DE REAL</nome>
+      <rua>36</rua>
+      <posição>d38e138</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS ÁGUAS</nome>
+      <rua>36</rua>
+      <posição>d38e282</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTOS DA MITRA</nome>
+      <rua>36</rua>
+      <posição>d38e284</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS ÁGUAS</nome>
+      <rua>36</rua>
+      <posição>d38e304</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTOS DA MITRA</nome>
+      <rua>36</rua>
+      <posição>d38e306</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS ÁGUAS</nome>
+      <rua>36</rua>
+      <posição>d38e327</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTOS DA MITRA</nome>
+      <rua>36</rua>
+      <posição>d38e329</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS ÁGUAS</nome>
+      <rua>36</rua>
+      <posição>d38e349</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS ÁGUAS</nome>
+      <rua>36</rua>
+      <posição>d38e372</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTOS DA MITRA</nome>
+      <rua>36</rua>
+      <posição>d38e374</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS ÁGUAS</nome>
+      <rua>36</rua>
+      <posição>d38e397</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTOS DA MITRA</nome>
+      <rua>36</rua>
+      <posição>d38e399</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS ÁGUAS</nome>
+      <rua>36</rua>
+      <posição>d38e464</posição>
+   </lugar>
+   <lugar>
+      <nome>NOSSA SENHORA A BRANCA</nome>
+      <rua>36</rua>
+      <posição>d38e469</posição>
+   </lugar>
+   <lugar>
+      <nome>CANGOSTA DA RUA DAS ÁGUAS</nome>
+      <rua>36</rua>
+      <posição>d38e472</posição>
+   </lugar>
+   <lugar>
+      <nome>CANGOSTA DA RUA DAS ÁGUAS</nome>
+      <rua>36</rua>
+      <posição>d38e478</posição>
+   </lugar>
+   <lugar>
+      <nome>ARCADA</nome>
+      <rua>37</rua>
+      <posição>d39e14</posição>
+   </lugar>
+   <lugar>
+      <nome>GUIMARÃES</nome>
+      <rua>37</rua>
+      <posição>d39e16</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE ÁGUAS</nome>
+      <rua>37</rua>
+      <posição>d39e18</posição>
+   </lugar>
+   <lugar>
+      <nome>TERREIRO DE S. LÁZARO</nome>
+      <rua>37</rua>
+      <posição>d39e20</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. LÁZARO</nome>
+      <rua>37</rua>
+      <posição>d39e41</posição>
+   </lugar>
+   <lugar>
+      <nome>AVENIDA DA LIBERDADE</nome>
+      <rua>37</rua>
+      <posição>d39e43</posição>
+   </lugar>
+   <lugar>
+      <nome>LARGO DO RECHICHO</nome>
+      <rua>37</rua>
+      <posição>d39e45</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA 25 DE ABRIL</nome>
+      <rua>37</rua>
+      <posição>d39e47</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS ÁGUAS</nome>
+      <rua>37</rua>
+      <posição>d39e73</posição>
+   </lugar>
+   <lugar>
+      <nome>NOSSA SENHORA A BRANCA</nome>
+      <rua>37</rua>
+      <posição>d39e75</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA PONTE DE GUIMARÃES</nome>
+      <rua>37</rua>
+      <posição>d39e79</posição>
+   </lugar>
+   <lugar>
+      <nome>FREGUESIA DE S. PEDRO DE MAXIMINOS</nome>
+      <rua>37</rua>
+      <posição>d39e81</posição>
+   </lugar>
+   <lugar>
+      <nome>"CASAL OU QUINTA DE PORTAS"</nome>
+      <rua>37</rua>
+      <posição>d39e84</posição>
+   </lugar>
+   <lugar>
+      <nome>BRAGA</nome>
+      <rua>37</rua>
+      <posição>d39e266</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DE PORTAS (CASA Nº1)</nome>
+      <rua>37</rua>
+      <posição>d39e320</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA PONTE DE GUIMARÃES</nome>
+      <rua>37</rua>
+      <posição>d39e338</posição>
+   </lugar>
+   <lugar>
+      <nome>TERREIRO DE S. LÁZARO</nome>
+      <rua>37</rua>
+      <posição>d39e340</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA PONTE DE GUIMARÃES</nome>
+      <rua>37</rua>
+      <posição>d39e342</posição>
+   </lugar>
+   <lugar>
+      <nome>TERREIRO DE S. LÁZARO</nome>
+      <rua>37</rua>
+      <posição>d39e360</posição>
+   </lugar>
+   <lugar>
+      <nome>"CASAL DOS ALAMOS"</nome>
+      <rua>37</rua>
+      <posição>d39e609</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE TRÁS DE S. MARCOS</nome>
+      <rua>37</rua>
+      <posição>d39e611</posição>
+   </lugar>
+   <lugar>
+      <nome>GRANJINHOS</nome>
+      <rua>37</rua>
+      <posição>d39e613</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA PONTE DE GUIMARÃES</nome>
+      <rua>37</rua>
+      <posição>d39e615</posição>
+   </lugar>
+   <lugar>
+      <nome>TERREIRO DE S. LÁZARO</nome>
+      <rua>37</rua>
+      <posição>d39e617</posição>
+   </lugar>
+   <lugar>
+      <nome>BRAGA</nome>
+      <rua>37</rua>
+      <posição>d39e653</posição>
+   </lugar>
+   <lugar>
+      <nome>S. MARCOS</nome>
+      <rua>37</rua>
+      <posição>d39e839</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS ÁGUAS</nome>
+      <rua>37</rua>
+      <posição>d39e841</posição>
+   </lugar>
+   <lugar>
+      <nome>ÁGOAS</nome>
+      <rua>38</rua>
+      <posição>d40e14</posição>
+   </lugar>
+   <lugar>
+      <nome>S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e16</posição>
+   </lugar>
+   <lugar>
+      <nome>ARCADA</nome>
+      <rua>38</rua>
+      <posição>d40e18</posição>
+   </lugar>
+   <lugar>
+      <nome>PONTE DE GUIMARÃES</nome>
+      <rua>38</rua>
+      <posição>d40e20</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA PONTE</nome>
+      <rua>38</rua>
+      <posição>d40e29</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e34</posição>
+   </lugar>
+   <lugar>
+      <nome>CAPELA DE S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e39</posição>
+   </lugar>
+   <lugar>
+      <nome>TROÇO DA AVENIDA DA LIBERDADE</nome>
+      <rua>38</rua>
+      <posição>d40e47</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA 25 
+                DE ABRIL</nome>
+      <rua>38</rua>
+      <posição>d40e49</posição>
+   </lugar>
+   <lugar>
+      <nome>LARGO DAS LATINHAS OU DO SENHOR DOS AFLITOS</nome>
+      <rua>38</rua>
+      <posição>d40e51</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e70</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e72</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA PONTE DE GUIMARÃES</nome>
+      <rua>38</rua>
+      <posição>d40e74</posição>
+   </lugar>
+   <lugar>
+      <nome>TERREIRO DE S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e76</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e92</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA PONTE DE GUIMARÃES</nome>
+      <rua>38</rua>
+      <posição>d40e94</posição>
+   </lugar>
+   <lugar>
+      <nome>TERREIRO 
+                        DE S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e96</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e111</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE 
+                        S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e131</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e147</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. 
+                        LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e166</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e186</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e204</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA 
+                        DE S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e222</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e240</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE
+                        S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e258</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e274</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e289</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA 
+                        DE S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e312</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>38</rua>
+      <posição>d40e333</posição>
+   </lugar>
+   <lugar>
+      <nome>BRAGA</nome>
+      <rua>38</rua>
+      <posição>d40e354</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>38</rua>
+      <posição>d40e356</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>38</rua>
+      <posição>d40e358</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>38</rua>
+      <posição>d40e379</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>38</rua>
+      <posição>d40e381</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>38</rua>
+      <posição>d40e403</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>38</rua>
+      <posição>d40e405</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>38</rua>
+      <posição>d40e424</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>38</rua>
+      <posição>d40e426</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO 
+                        MANTA</nome>
+      <rua>38</rua>
+      <posição>d40e446</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>38</rua>
+      <posição>d40e448</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>38</rua>
+      <posição>d40e471</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>38</rua>
+      <posição>d40e473</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>38</rua>
+      <posição>d40e494</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>38</rua>
+      <posição>d40e496</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS GALOS</nome>
+      <rua>38</rua>
+      <posição>d40e520</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL 
+                        DOS GALOS</nome>
+      <rua>38</rua>
+      <posição>d40e548</posição>
+   </lugar>
+   <lugar>
+      <nome>PONTE DE GUIMARÃES</nome>
+      <rua>38</rua>
+      <posição>d40e553</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS GALOS</nome>
+      <rua>38</rua>
+      <posição>d40e581</posição>
+   </lugar>
+   <lugar>
+      <nome>FREGUESIA 
+                        DE S. JOSÉ DE S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e583</posição>
+   </lugar>
+   <lugar>
+      <nome>BRAGA</nome>
+      <rua>38</rua>
+      <posição>d40e621</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS GALOS</nome>
+      <rua>38</rua>
+      <posição>d40e625</posição>
+   </lugar>
+   <lugar>
+      <nome>BRAGA</nome>
+      <rua>38</rua>
+      <posição>d40e644</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS GALOS</nome>
+      <rua>38</rua>
+      <posição>d40e648</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS GALOS</nome>
+      <rua>38</rua>
+      <posição>d40e672</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS GALOS</nome>
+      <rua>38</rua>
+      <posição>d40e697</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS GALOS</nome>
+      <rua>38</rua>
+      <posição>d40e721</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS 
+                        GALOS</nome>
+      <rua>38</rua>
+      <posição>d40e745</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS GALOS</nome>
+      <rua>38</rua>
+      <posição>d40e769</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS GALOS</nome>
+      <rua>38</rua>
+      <posição>d40e793</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS GALOS</nome>
+      <rua>38</rua>
+      <posição>d40e817</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA PONTE DE GUIMARÃES</nome>
+      <rua>38</rua>
+      <posição>d40e823</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>38</rua>
+      <posição>d40e843</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>38</rua>
+      <posição>d40e845</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA PONTE DE GUIMARÃES</nome>
+      <rua>38</rua>
+      <posição>d40e850</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>38</rua>
+      <posição>d40e852</posição>
+   </lugar>
+   <lugar>
+      <nome>PELAMES</nome>
+      <rua>38</rua>
+      <posição>d40e854</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>38</rua>
+      <posição>d40e867</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>38</rua>
+      <posição>d40e869</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>38</rua>
+      <posição>d40e885</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>38</rua>
+      <posição>d40e887</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>38</rua>
+      <posição>d40e905</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>38</rua>
+      <posição>d40e907</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>38</rua>
+      <posição>d40e926</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>38</rua>
+      <posição>d40e928</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>38</rua>
+      <posição>d40e954</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>38</rua>
+      <posição>d40e956</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>38</rua>
+      <posição>d40e976</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>38</rua>
+      <posição>d40e978</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>38</rua>
+      <posição>d40e997</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>38</rua>
+      <posição>d40e999</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>38</rua>
+      <posição>d40e1017</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>38</rua>
+      <posição>d40e1019</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>38</rua>
+      <posição>d40e1032</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>38</rua>
+      <posição>d40e1034</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>38</rua>
+      <posição>d40e1047</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>38</rua>
+      <posição>d40e1049</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>38</rua>
+      <posição>d40e1062</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>38</rua>
+      <posição>d40e1064</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>38</rua>
+      <posição>d40e1084</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>38</rua>
+      <posição>d40e1086</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>38</rua>
+      <posição>d40e1107</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>38</rua>
+      <posição>d40e1109</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>38</rua>
+      <posição>d40e1135</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>38</rua>
+      <posição>d40e1137</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>38</rua>
+      <posição>d40e1150</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>38</rua>
+      <posição>d40e1152</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>38</rua>
+      <posição>d40e1175</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>38</rua>
+      <posição>d40e1177</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>38</rua>
+      <posição>d40e1198</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>38</rua>
+      <posição>d40e1200</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>38</rua>
+      <posição>d40e1222</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>38</rua>
+      <posição>d40e1224</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e1245</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e1269</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA 
+                        DE S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e1287</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE
+                        S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e1312</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA 
+                        DE S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e1330</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e1349</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE
+                        S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e1367</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e1385</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE
+                        S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e1403</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e1421</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE 
+                        S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e1439</posição>
+   </lugar>
+   <lugar>
+      <nome>TERREIRO DE S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e1444</posição>
+   </lugar>
+   <lugar>
+      <nome>BRAGA</nome>
+      <rua>38</rua>
+      <posição>d40e1468</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e1473</posição>
+   </lugar>
+   <lugar>
+      <nome>TERREIRO DE S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e1476</posição>
+   </lugar>
+   <lugar>
+      <nome>CAPELA 
+                        DE S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e1478</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE 
+                        TRÁS DE S. MARCOS (GRANJINHOS)</nome>
+      <rua>38</rua>
+      <posição>d40e1483</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e1502</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE                         
+                        S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e1520</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. LÁZARO</nome>
+      <rua>38</rua>
+      <posição>d40e1538</posição>
+   </lugar>
+   <lugar>
+      <nome>CAPELA 
+                        DE D. GONÇALO PEREIRA</nome>
+      <rua>38</rua>
+      <posição>d40e1540</posição>
+   </lugar>
+   <lugar>
+      <nome>ARCADA</nome>
+      <rua>39</rua>
+      <posição>d41e14</posição>
+   </lugar>
+   <lugar>
+      <nome>PONTE SOBRE O RIO ESTE</nome>
+      <rua>39</rua>
+      <posição>d41e16</posição>
+   </lugar>
+   <lugar>
+      <nome>LARGO DO SENHOR DOS AFLITOS</nome>
+      <rua>39</rua>
+      <posição>d41e23</posição>
+   </lugar>
+   <lugar>
+      <nome>LATINHAS</nome>
+      <rua>39</rua>
+      <posição>d41e25</posição>
+   </lugar>
+   <lugar>
+      <nome>AVENIDA DA LIBERDADE</nome>
+      <rua>39</rua>
+      <posição>d41e27</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA CONSELHEIRO LOBATO</nome>
+      <rua>39</rua>
+      <posição>d41e29</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA PONTE DE GUIMARÃES</nome>
+      <rua>39</rua>
+      <posição>d41e59</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS GALOS</nome>
+      <rua>39</rua>
+      <posição>d41e72</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS GALOS</nome>
+      <rua>39</rua>
+      <posição>d41e88</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS GALOS</nome>
+      <rua>39</rua>
+      <posição>d41e110</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS GALOS</nome>
+      <rua>39</rua>
+      <posição>d41e128</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS GALOS</nome>
+      <rua>39</rua>
+      <posição>d41e145</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS GALOS</nome>
+      <rua>39</rua>
+      <posição>d41e161</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS GALOS</nome>
+      <rua>39</rua>
+      <posição>d41e177</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO PAIO MANTA E LAGES</nome>
+      <rua>39</rua>
+      <posição>d41e193</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO PAIO MANTA E LAGES</nome>
+      <rua>39</rua>
+      <posição>d41e206</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO PAIO MANTA E LAGES</nome>
+      <rua>39</rua>
+      <posição>d41e218</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL E MOÍNHOS DO SALGUEIRO</nome>
+      <rua>39</rua>
+      <posição>d41e231</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO PAIO MANTA</nome>
+      <rua>39</rua>
+      <posição>d41e252</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>39</rua>
+      <posição>d41e254</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>39</rua>
+      <posição>d41e277</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>39</rua>
+      <posição>d41e279</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>39</rua>
+      <posição>d41e298</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>39</rua>
+      <posição>d41e300</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>39</rua>
+      <posição>d41e319</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>39</rua>
+      <posição>d41e321</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>39</rua>
+      <posição>d41e340</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>39</rua>
+      <posição>d41e342</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>39</rua>
+      <posição>d41e359</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>39</rua>
+      <posição>d41e361</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>39</rua>
+      <posição>d41e380</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>39</rua>
+      <posição>d41e382</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA PAIO MANTA</nome>
+      <rua>39</rua>
+      <posição>d41e401</posição>
+   </lugar>
+   <lugar>
+      <nome>LAGES</nome>
+      <rua>39</rua>
+      <posição>d41e403</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA PONTE DE GUIMARÃES</nome>
+      <rua>40</rua>
+      <posição>d42e19</posição>
+   </lugar>
+   <lugar>
+      <nome>PONTILHÃO DAS LAGES</nome>
+      <rua>40</rua>
+      <posição>d42e21</posição>
+   </lugar>
+   <lugar>
+      <nome>BRAGA</nome>
+      <rua>40</rua>
+      <posição>d42e31</posição>
+   </lugar>
+   <lugar>
+      <nome>PAI AMANTE</nome>
+      <rua>40</rua>
+      <posição>d42e45</posição>
+   </lugar>
+   <lugar>
+      <nome>CONSELHEIRO LOBATO</nome>
+      <rua>40</rua>
+      <posição>d42e47</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA PONTE DE 
+                    GUIMARÃES</nome>
+      <rua>40</rua>
+      <posição>d42e59</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA E 
+                        MOINHOS DA SERRA</nome>
+      <rua>40</rua>
+      <posição>d42e86</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTÃ E
+                        MOINHOS DA SERRA E DA RIBEIRA</nome>
+      <rua>40</rua>
+      <posição>d42e223</posição>
+   </lugar>
+   <lugar>
+      <nome>PONTE DE 
+                        GUIMARÃES</nome>
+      <rua>40</rua>
+      <posição>d42e233</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA PONTE 
+                            DE GUIMARÃES</nome>
+      <rua>40</rua>
+      <posição>d42e235</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA PONTE DE 
+                    GUIMARÃES</nome>
+      <rua>40</rua>
+      <posição>d42e374</posição>
+   </lugar>
+   <lugar>
+      <nome>PORTA DE SOUTO</nome>
+      <rua>41</rua>
+      <posição>d43e14</posição>
+   </lugar>
+   <lugar>
+      <nome>CORREDOURA</nome>
+      <rua>41</rua>
+      <posição>d43e16</posição>
+   </lugar>
+   <lugar>
+      <nome>SENHORA A BRANCA</nome>
+      <rua>41</rua>
+      <posição>d43e18</posição>
+   </lugar>
+   <lugar>
+      <nome>S.VICTOR</nome>
+      <rua>41</rua>
+      <posição>d43e20</posição>
+   </lugar>
+   <lugar>
+      <nome>CHAVES</nome>
+      <rua>41</rua>
+      <posição>d43e22</posição>
+   </lugar>
+   <lugar>
+      <nome>BOM JESUS</nome>
+      <rua>41</rua>
+      <posição>d43e25</posição>
+   </lugar>
+   <lugar>
+      <nome>PORTA DO SOUTO</nome>
+      <rua>41</rua>
+      <posição>d43e32</posição>
+   </lugar>
+   <lugar>
+      <nome>SANTA MARIA A BRANCA</nome>
+      <rua>41</rua>
+      <posição>d43e34</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA CORREDOURA</nome>
+      <rua>41</rua>
+      <posição>d43e47</posição>
+   </lugar>
+   <lugar>
+      <nome>PORTA DO SOUTO</nome>
+      <rua>41</rua>
+      <posição>d43e52</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE SANTA ANA</nome>
+      <rua>41</rua>
+      <posição>d43e95</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE ÁGUAS</nome>
+      <rua>41</rua>
+      <posição>d43e102</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE SANTA ANA</nome>
+      <rua>41</rua>
+      <posição>d43e125</posição>
+   </lugar>
+   <lugar>
+      <nome>AVENIDA CENTRAL</nome>
+      <rua>41</rua>
+      <posição>d43e127</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S.GONÇALO</nome>
+      <rua>41</rua>
+      <posição>d43e213</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS ÁGUAS</nome>
+      <rua>41</rua>
+      <posição>d43e234</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DA RUA DAS ÁGUAS</nome>
+      <rua>41</rua>
+      <posição>d43e236</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMINHO NOVO</nome>
+      <rua>41</rua>
+      <posição>d43e238</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS ÁGUAS</nome>
+      <rua>41</rua>
+      <posição>d43e264</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMINHO NOVO</nome>
+      <rua>41</rua>
+      <posição>d43e266</posição>
+   </lugar>
+   <lugar>
+      <nome>SANTA ANA</nome>
+      <rua>42</rua>
+      <posição>d44e14</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE SANTA MARGARIDA</nome>
+      <rua>42</rua>
+      <posição>d44e45</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO SARDOAL</nome>
+      <rua>42</rua>
+      <posição>d44e57</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE SANTA MARGARIDA</nome>
+      <rua>42</rua>
+      <posição>d44e59</posição>
+   </lugar>
+   <lugar>
+      <nome>RUAS DE RESTAURAÇÃO E 31 DE JANEIRO</nome>
+      <rua>42</rua>
+      <posição>d44e61</posição>
+   </lugar>
+   <lugar>
+      <nome>CAPELA DE N.SRA</nome>
+      <rua>42</rua>
+      <posição>d44e88</posição>
+   </lugar>
+   <lugar>
+      <nome>«CASAL E QUINTA DE SOBRADO»</nome>
+      <rua>42</rua>
+      <posição>d44e105</posição>
+   </lugar>
+   <lugar>
+      <nome>CIDADE DE BRAGA</nome>
+      <rua>42</rua>
+      <posição>d44e116</posição>
+   </lugar>
+   <lugar>
+      <nome>BRAGA</nome>
+      <rua>42</rua>
+      <posição>d44e123</posição>
+   </lugar>
+   <lugar>
+      <nome>LISBOA</nome>
+      <rua>42</rua>
+      <posição>d44e254</posição>
+   </lugar>
+   <lugar>
+      <nome>CAPELA DE D.GONÇALO PEREIRA</nome>
+      <rua>42</rua>
+      <posição>d44e619</posição>
+   </lugar>
+   <lugar>
+      <nome>CHAVES</nome>
+      <rua>43</rua>
+      <posição>d45e16</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA CORREDOURA</nome>
+      <rua>43</rua>
+      <posição>d45e21</posição>
+   </lugar>
+   <lugar>
+      <nome>RÉGUA</nome>
+      <rua>43</rua>
+      <posição>d45e33</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA NOVA DA SEARA</nome>
+      <rua>43</rua>
+      <posição>d45e35</posição>
+   </lugar>
+   <lugar>
+      <nome>BARROSO</nome>
+      <rua>43</rua>
+      <posição>d45e42</posição>
+   </lugar>
+   <lugar>
+      <nome>BOM JESUS</nome>
+      <rua>43</rua>
+      <posição>d45e44</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE 
+        NOSSA SENHORA A BRANCA</nome>
+      <rua>43</rua>
+      <posição>d45e52</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA RÉGUA</nome>
+      <rua>43</rua>
+      <posição>d45e54</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA 
+        NOVA DA SEARA</nome>
+      <rua>43</rua>
+      <posição>d45e56</posição>
+   </lugar>
+   <lugar>
+      <nome>BRAGA</nome>
+      <rua>43</rua>
+      <posição>d45e61</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE NOSSA SENHORA A BRANCA</nome>
+      <rua>43</rua>
+      <posição>d45e66</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA RÉGUA</nome>
+      <rua>43</rua>
+      <posição>d45e68</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA NOVA DA SEARA</nome>
+      <rua>43</rua>
+      <posição>d45e70</posição>
+   </lugar>
+   <lugar>
+      <nome>RUAS DA RÉGUA E NOVA DA SEARA</nome>
+      <rua>43</rua>
+      <posição>d45e78</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. VICTOR</nome>
+      <rua>43</rua>
+      <posição>d45e80</posição>
+   </lugar>
+   <lugar>
+      <nome>N. SRA. A BRANCA</nome>
+      <rua>43</rua>
+      <posição>d45e112</posição>
+   </lugar>
+   <lugar>
+      <nome>RANHAS</nome>
+      <rua>43</rua>
+      <posição>d45e114</posição>
+   </lugar>
+   <lugar>
+      <nome>FREGUESIA DE S. VITOR</nome>
+      <rua>43</rua>
+      <posição>d45e116</posição>
+   </lugar>
+   <lugar>
+      <nome>N. SRA. A BRANCA</nome>
+      <rua>43</rua>
+      <posição>d45e143</posição>
+   </lugar>
+   <lugar>
+      <nome>RANHAS</nome>
+      <rua>43</rua>
+      <posição>d45e145</posição>
+   </lugar>
+   <lugar>
+      <nome>N. SRA. A BRANCA</nome>
+      <rua>43</rua>
+      <posição>d45e165</posição>
+   </lugar>
+   <lugar>
+      <nome>RANHAS</nome>
+      <rua>43</rua>
+      <posição>d45e167</posição>
+   </lugar>
+   <lugar>
+      <nome>N. SRA. A BRANCA</nome>
+      <rua>43</rua>
+      <posição>d45e190</posição>
+   </lugar>
+   <lugar>
+      <nome>RANHAS</nome>
+      <rua>43</rua>
+      <posição>d45e192</posição>
+   </lugar>
+   <lugar>
+      <nome>N. SRA. A BRANCA</nome>
+      <rua>43</rua>
+      <posição>d45e215</posição>
+   </lugar>
+   <lugar>
+      <nome>RANHAS</nome>
+      <rua>43</rua>
+      <posição>d45e217</posição>
+   </lugar>
+   <lugar>
+      <nome>FREGUESIA DE BARROSO</nome>
+      <rua>43</rua>
+      <posição>d45e241</posição>
+   </lugar>
+   <lugar>
+      <nome>N. SRA. A BRANCA</nome>
+      <rua>43</rua>
+      <posição>d45e243</posição>
+   </lugar>
+   <lugar>
+      <nome>RANHAS</nome>
+      <rua>43</rua>
+      <posição>d45e245</posição>
+   </lugar>
+   <lugar>
+      <nome>N. SRA. A BRANCA</nome>
+      <rua>43</rua>
+      <posição>d45e273</posição>
+   </lugar>
+   <lugar>
+      <nome>RANHAS</nome>
+      <rua>43</rua>
+      <posição>d45e275</posição>
+   </lugar>
+   <lugar>
+      <nome>N. SRA. A BRANCA</nome>
+      <rua>43</rua>
+      <posição>d45e300</posição>
+   </lugar>
+   <lugar>
+      <nome>RANHAS</nome>
+      <rua>43</rua>
+      <posição>d45e302</posição>
+   </lugar>
+   <lugar>
+      <nome>N. SRA. A BRANCA</nome>
+      <rua>43</rua>
+      <posição>d45e325</posição>
+   </lugar>
+   <lugar>
+      <nome>RANHAS</nome>
+      <rua>43</rua>
+      <posição>d45e327</posição>
+   </lugar>
+   <lugar>
+      <nome>N. SRA. A BRANCA</nome>
+      <rua>43</rua>
+      <posição>d45e350</posição>
+   </lugar>
+   <lugar>
+      <nome>RANHAS</nome>
+      <rua>43</rua>
+      <posição>d45e352</posição>
+   </lugar>
+   <lugar>
+      <nome>N. SRA. A BRANCA</nome>
+      <rua>43</rua>
+      <posição>d45e372</posição>
+   </lugar>
+   <lugar>
+      <nome>RANHAS</nome>
+      <rua>43</rua>
+      <posição>d45e374</posição>
+   </lugar>
+   <lugar>
+      <nome>N. SRA. A BRANCA</nome>
+      <rua>43</rua>
+      <posição>d45e398</posição>
+   </lugar>
+   <lugar>
+      <nome>RANHAS</nome>
+      <rua>43</rua>
+      <posição>d45e400</posição>
+   </lugar>
+   <lugar>
+      <nome>N. SRA. A BRANCA</nome>
+      <rua>43</rua>
+      <posição>d45e422</posição>
+   </lugar>
+   <lugar>
+      <nome>RANHAS</nome>
+      <rua>43</rua>
+      <posição>d45e424</posição>
+   </lugar>
+   <lugar>
+      <nome>FREGUESIA DE S. MAMEDE D'ESTE</nome>
+      <rua>43</rua>
+      <posição>d45e493</posição>
+   </lugar>
+   <lugar>
+      <nome>FREGUESIA DE S. VITOR</nome>
+      <rua>43</rua>
+      <posição>d45e874</posição>
+   </lugar>
+   <lugar>
+      <nome>BRAGA</nome>
+      <rua>43</rua>
+      <posição>d45e884</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA NOVA DA SEARA</nome>
+      <rua>43</rua>
+      <posição>d45e891</posição>
+   </lugar>
+   <lugar>
+      <nome>SANTA ANA</nome>
+      <rua>44</rua>
+      <posição>d46e16</posição>
+   </lugar>
+   <lugar>
+      <nome>VINHA</nome>
+      <rua>44</rua>
+      <posição>d46e18</posição>
+   </lugar>
+   <lugar>
+      <nome>FONTE DA
+        CÁRCOVA OU CÁRCODA</nome>
+      <rua>44</rua>
+      <posição>d46e23</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS MERCADORES</nome>
+      <rua>44</rua>
+      <posição>d46e38</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CAPELISTAS</nome>
+      <rua>44</rua>
+      <posição>d46e54</posição>
+   </lugar>
+   <lugar>
+      <nome>LARGO DOS PENEDOS</nome>
+      <rua>44</rua>
+      <posição>d46e66</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO CARVALHAL</nome>
+      <rua>44</rua>
+      <posição>d46e88</posição>
+   </lugar>
+   <lugar>
+      <nome>EIRADO</nome>
+      <rua>44</rua>
+      <posição>d46e270</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE BAIXO</nome>
+      <rua>44</rua>
+      <posição>d46e295</posição>
+   </lugar>
+   <lugar>
+      <nome>FREGUESIA DE STA. LUCRÉCIA</nome>
+      <rua>44</rua>
+      <posição>d46e334</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE BAIXO</nome>
+      <rua>44</rua>
+      <posição>d46e443</posição>
+   </lugar>
+   <lugar>
+      <nome>BRAGA</nome>
+      <rua>44</rua>
+      <posição>d46e462</posição>
+   </lugar>
+   <lugar>
+      <nome>MONTE DE CASTRO</nome>
+      <rua>44</rua>
+      <posição>d46e521</posição>
+   </lugar>
+   <lugar>
+      <nome>S. LOURENÇO</nome>
+      <rua>44</rua>
+      <posição>d46e523</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO CARVALHAL</nome>
+      <rua>44</rua>
+      <posição>d46e526</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE BAIXO</nome>
+      <rua>44</rua>
+      <posição>d46e528</posição>
+   </lugar>
+   <lugar>
+      <nome>ARCADA</nome>
+      <rua>45</rua>
+      <posição>d47e16</posição>
+   </lugar>
+   <lugar>
+      <nome>LARGO DOS PENEDOS</nome>
+      <rua>45</rua>
+      <posição>d47e18</posição>
+   </lugar>
+   <lugar>
+      <nome>LARGO DO EYRADO</nome>
+      <rua>45</rua>
+      <posição>d47e37</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHAOS DE BAIXO</nome>
+      <rua>45</rua>
+      <posição>d47e49</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS</nome>
+      <rua>45</rua>
+      <posição>d47e51</posição>
+   </lugar>
+   <lugar>
+      <nome>EYRADO</nome>
+      <rua>45</rua>
+      <posição>d47e53</posição>
+   </lugar>
+   <lugar>
+      <nome>LARGO DE S. FRANCISCO</nome>
+      <rua>45</rua>
+      <posição>d47e55</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA FONTE DA CARCOVA</nome>
+      <rua>45</rua>
+      <posição>d47e89</posição>
+   </lugar>
+   <lugar>
+      <nome>EIRADO</nome>
+      <rua>45</rua>
+      <posição>d47e91</posição>
+   </lugar>
+   <lugar>
+      <nome>CASTELO RODRIGO</nome>
+      <rua>45</rua>
+      <posição>d47e188</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO ANJO</nome>
+      <rua>45</rua>
+      <posição>d47e190</posição>
+   </lugar>
+   <lugar>
+      <nome>CASTELO RODRIGO</nome>
+      <rua>45</rua>
+      <posição>d47e196</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO ANJO</nome>
+      <rua>45</rua>
+      <posição>d47e198</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO CARVALHAL</nome>
+      <rua>45</rua>
+      <posição>d47e217</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO CARVALHAL</nome>
+      <rua>45</rua>
+      <posição>d47e301</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS CHAGAS</nome>
+      <rua>45</rua>
+      <posição>d47e322</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO CARVALHAL</nome>
+      <rua>45</rua>
+      <posição>d47e324</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO CARVALHAL</nome>
+      <rua>45</rua>
+      <posição>d47e342</posição>
+   </lugar>
+   <lugar>
+      <nome>PALMEIRA</nome>
+      <rua>45</rua>
+      <posição>d47e360</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO CARVALHAL</nome>
+      <rua>45</rua>
+      <posição>d47e362</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO CARVALHAL</nome>
+      <rua>45</rua>
+      <posição>d47e382</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO CARVALHAL</nome>
+      <rua>45</rua>
+      <posição>d47e397</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO CARVALHAL</nome>
+      <rua>45</rua>
+      <posição>d47e417</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO CARVALHAL</nome>
+      <rua>45</rua>
+      <posição>d47e436</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO CARVALHAL</nome>
+      <rua>45</rua>
+      <posição>d47e454</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO CARVALHAL</nome>
+      <rua>45</rua>
+      <posição>d47e475</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO CARVALHAL</nome>
+      <rua>45</rua>
+      <posição>d47e493</posição>
+   </lugar>
+   <lugar>
+      <nome>PEDRO D'ESTE</nome>
+      <rua>45</rua>
+      <posição>d47e511</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO CARVALHAL</nome>
+      <rua>45</rua>
+      <posição>d47e516</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE STO. ANDRÉ</nome>
+      <rua>45</rua>
+      <posição>d47e533</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE STA. ANA</nome>
+      <rua>45</rua>
+      <posição>d47e964</posição>
+   </lugar>
+   <lugar>
+      <nome>TERREIRO DO EIRADO</nome>
+      <rua>45</rua>
+      <posição>d47e966</posição>
+   </lugar>
+   <lugar>
+      <nome>EIRADO</nome>
+      <rua>45</rua>
+      <posição>d47e1002</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE STA. ANA</nome>
+      <rua>45</rua>
+      <posição>d47e1004</posição>
+   </lugar>
+   <lugar>
+      <nome>EIRADO</nome>
+      <rua>45</rua>
+      <posição>d47e1023</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE STA. ANA</nome>
+      <rua>45</rua>
+      <posição>d47e1025</posição>
+   </lugar>
+   <lugar>
+      <nome>EIRADO</nome>
+      <rua>45</rua>
+      <posição>d47e1052</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DO GAVIÃO</nome>
+      <rua>46</rua>
+      <posição>d48e16</posição>
+   </lugar>
+   <lugar>
+      <nome>LARGO DOS PENEDOS</nome>
+      <rua>46</rua>
+      <posição>d48e18</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DO GAVIÃO</nome>
+      <rua>46</rua>
+      <posição>d48e20</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE SANTO ANDRÉ</nome>
+      <rua>46</rua>
+      <posição>d48e41</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>46</rua>
+      <posição>d48e68</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>46</rua>
+      <posição>d48e87</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. BARNABÉ</nome>
+      <rua>46</rua>
+      <posição>d48e237</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. BARNABÉ</nome>
+      <rua>46</rua>
+      <posição>d48e252</posição>
+   </lugar>
+   <lugar>
+      <nome>STA. MARIA DE PALMEIRA</nome>
+      <rua>46</rua>
+      <posição>d48e359</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DO GAVIÃO</nome>
+      <rua>46</rua>
+      <posição>d48e376</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DO GAVIÃO</nome>
+      <rua>46</rua>
+      <posição>d48e389</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE BAIXO</nome>
+      <rua>46</rua>
+      <posição>d48e692</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DO GAVIÃO</nome>
+      <rua>47</rua>
+      <posição>d49e14</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO NOVO</nome>
+      <rua>47</rua>
+      <posição>d49e18</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>47</rua>
+      <posição>d49e20</posição>
+   </lugar>
+   <lugar>
+      <nome>S. BARNABÉ</nome>
+      <rua>47</rua>
+      <posição>d49e26</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE STO. ANDRÉ</nome>
+      <rua>47</rua>
+      <posição>d49e53</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>47</rua>
+      <posição>d49e102</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>47</rua>
+      <posição>d49e115</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>47</rua>
+      <posição>d49e139</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>47</rua>
+      <posição>d49e152</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>47</rua>
+      <posição>d49e165</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>47</rua>
+      <posição>d49e178</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>47</rua>
+      <posição>d49e191</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>47</rua>
+      <posição>d49e205</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>47</rua>
+      <posição>d49e218</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>47</rua>
+      <posição>d49e231</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>47</rua>
+      <posição>d49e244</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>47</rua>
+      <posição>d49e257</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>47</rua>
+      <posição>d49e270</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>47</rua>
+      <posição>d49e284</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>47</rua>
+      <posição>d49e297</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>47</rua>
+      <posição>d49e310</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>47</rua>
+      <posição>d49e323</posição>
+   </lugar>
+   <lugar>
+      <nome>S. VICENTE</nome>
+      <rua>47</rua>
+      <posição>d49e338</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE STO. ANDRÉ</nome>
+      <rua>47</rua>
+      <posição>d49e366</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DO GAVIÃO</nome>
+      <rua>48</rua>
+      <posição>d50e14</posição>
+   </lugar>
+   <lugar>
+      <nome>BRAGA</nome>
+      <rua>48</rua>
+      <posição>d50e22</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DO GAVIÃO</nome>
+      <rua>48</rua>
+      <posição>d50e33</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA MOUZINHO DE ALBUQUERQUE</nome>
+      <rua>48</rua>
+      <posição>d50e37</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. GONÇALO</nome>
+      <rua>48</rua>
+      <posição>d50e79</posição>
+   </lugar>
+   <lugar>
+      <nome>S. PAIO DE POUSADA</nome>
+      <rua>48</rua>
+      <posição>d50e109</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA STO. ANDRÉ</nome>
+      <rua>48</rua>
+      <posição>d50e151</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE STO. ANDRÉ</nome>
+      <rua>48</rua>
+      <posição>d50e166</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS OLIVEIRAS</nome>
+      <rua>48</rua>
+      <posição>d50e181</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS OLIVEIRAS</nome>
+      <rua>48</rua>
+      <posição>d50e201</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE N. SRA. DE GUADALUPE</nome>
+      <rua>48</rua>
+      <posição>d50e216</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE N. SRA. DE GUADALUPE</nome>
+      <rua>48</rua>
+      <posição>d50e231</posição>
+   </lugar>
+   <lugar>
+      <nome>NOGUEIRA</nome>
+      <rua>48</rua>
+      <posição>d50e250</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. GONÇALO</nome>
+      <rua>48</rua>
+      <posição>d50e267</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO NOVO</nome>
+      <rua>49</rua>
+      <posição>d51e14</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE SANTA ANA</nome>
+      <rua>49</rua>
+      <posição>d51e16</posição>
+   </lugar>
+   <lugar>
+      <nome>RECOLHIMENTO DAS CONVERTIDAS</nome>
+      <rua>49</rua>
+      <posição>d51e26</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE SANTA ANA</nome>
+      <rua>49</rua>
+      <posição>d51e28</posição>
+   </lugar>
+   <lugar>
+      <nome>MOSTEIRO DE VILAR DE FRADES</nome>
+      <rua>49</rua>
+      <posição>d51e30</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DO GAVIÃO</nome>
+      <rua>49</rua>
+      <posição>d51e39</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DO GAVIÃO</nome>
+      <rua>49</rua>
+      <posição>d51e41</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. GONÇALO.</nome>
+      <rua>49</rua>
+      <posição>d51e53</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE STA. ANA</nome>
+      <rua>49</rua>
+      <posição>d51e83</posição>
+   </lugar>
+   <lugar>
+      <nome>ADAUFE</nome>
+      <rua>49</rua>
+      <posição>d51e156</posição>
+   </lugar>
+   <lugar>
+      <nome>S. MAMEDE D'ESTE</nome>
+      <rua>49</rua>
+      <posição>d51e272</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DO GAVIÃO</nome>
+      <rua>49</rua>
+      <posição>d51e306</posição>
+   </lugar>
+   <lugar>
+      <nome>RECOLHIMENTO DE STA. MARIA MADALENA</nome>
+      <rua>49</rua>
+      <posição>d51e491</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO NOVO</nome>
+      <rua>50</rua>
+      <posição>d52e14</posição>
+   </lugar>
+   <lugar>
+      <nome>CAPELA DE GUADALUPE</nome>
+      <rua>50</rua>
+      <posição>d52e17</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DO GAVIÃO</nome>
+      <rua>50</rua>
+      <posição>d52e19</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. GONÇALO</nome>
+      <rua>50</rua>
+      <posição>d52e27</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA EM FRENTE DE NOSSA SENHORA DE GUADALUPE</nome>
+      <rua>50</rua>
+      <posição>d52e30</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE GUADALUPE</nome>
+      <rua>50</rua>
+      <posição>d52e44</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DO GAVIÃO</nome>
+      <rua>50</rua>
+      <posição>d52e78</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA EM FRENTE DE N. SRA. DE GUADALUPE</nome>
+      <rua>50</rua>
+      <posição>d52e174</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA EM FRENTE DE N. SRA. DE GUADALUPE</nome>
+      <rua>50</rua>
+      <posição>d52e204</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DO GAVIÃO</nome>
+      <rua>50</rua>
+      <posição>d52e242</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO NOVO</nome>
+      <rua>51</rua>
+      <posição>d53e14</posição>
+   </lugar>
+   <lugar>
+      <nome>LARGO DAS TERESINHAS</nome>
+      <rua>51</rua>
+      <posição>d53e17</posição>
+   </lugar>
+   <lugar>
+      <nome>CANGOSTA</nome>
+      <rua>51</rua>
+      <posição>d53e20</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE SANTA MARGARIDA</nome>
+      <rua>51</rua>
+      <posição>d53e22</posição>
+   </lugar>
+   <lugar>
+      <nome>IGREJA DE S. VICENTE</nome>
+      <rua>51</rua>
+      <posição>d53e25</posição>
+   </lugar>
+   <lugar>
+      <nome>CAPELA DE GUADALUPE</nome>
+      <rua>51</rua>
+      <posição>d53e29</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DO GAVIÃO</nome>
+      <rua>51</rua>
+      <posição>d53e40</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS OLIVEIRAS</nome>
+      <rua>51</rua>
+      <posição>d53e52</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DO GAVIÃO</nome>
+      <rua>51</rua>
+      <posição>d53e96</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. BARNABÉ</nome>
+      <rua>51</rua>
+      <posição>d53e269</posição>
+   </lugar>
+   <lugar>
+      <nome>S. VICENTE</nome>
+      <rua>51</rua>
+      <posição>d53e290</posição>
+   </lugar>
+   <lugar>
+      <nome>PRAÇA DO GAVIÃO</nome>
+      <rua>51</rua>
+      <posição>d53e480</posição>
+   </lugar>
+   <lugar>
+      <nome>CANGOSTA DE GUADALUPE</nome>
+      <rua>52</rua>
+      <posição>d54e14</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE NOSSA SENHORA DE GUADALUPE</nome>
+      <rua>52</rua>
+      <posição>d54e21</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE GUADALUPE</nome>
+      <rua>52</rua>
+      <posição>d54e33</posição>
+   </lugar>
+   <lugar>
+      <nome>IGREJA DE S. VICENTE</nome>
+      <rua>52</rua>
+      <posição>d54e42</posição>
+   </lugar>
+   <lugar>
+      <nome>CAPELA DE GUADALUPE</nome>
+      <rua>52</rua>
+      <posição>d54e45</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE ARRABALDE</nome>
+      <rua>52</rua>
+      <posição>d54e50</posição>
+   </lugar>
+   <lugar>
+      <nome>MONTE DE SANTA MARGARIDA</nome>
+      <rua>52</rua>
+      <posição>d54e52</posição>
+   </lugar>
+   <lugar>
+      <nome>CONVENTO E CAPELA DAS TERESINHAS</nome>
+      <rua>52</rua>
+      <posição>d54e59</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE CAMÕES</nome>
+      <rua>52</rua>
+      <posição>d54e73</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE N. SRA. DE GUADALUPE</nome>
+      <rua>52</rua>
+      <posição>d54e106</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE N. SRA. DE GUADALUPE</nome>
+      <rua>52</rua>
+      <posição>d54e141</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA N. SRA. DE GUADALUPE</nome>
+      <rua>52</rua>
+      <posição>d54e157</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE BAIXO</nome>
+      <rua>53</rua>
+      <posição>d55e14</posição>
+   </lugar>
+   <lugar>
+      <nome>IGREJA DE S. VICENTE.</nome>
+      <rua>53</rua>
+      <posição>d55e16</posição>
+   </lugar>
+   <lugar>
+      <nome>S. BARNABÉ E OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e18</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE ESPANHA</nome>
+      <rua>53</rua>
+      <posição>d55e20</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS E LEIRA DA AGRA DA ESCOURA</nome>
+      <rua>53</rua>
+      <posição>d55e25</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU DO QUINTEIRO,</nome>
+      <rua>53</rua>
+      <posição>d55e27</posição>
+   </lugar>
+   <lugar>
+      <nome>LARGO DOS PENEDOS</nome>
+      <rua>53</rua>
+      <posição>d55e32</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE SIMA</nome>
+      <rua>53</rua>
+      <posição>d55e34</posição>
+   </lugar>
+   <lugar>
+      <nome>RUAS DE S. BARNABÉ E OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e36</posição>
+   </lugar>
+   <lugar>
+      <nome>LARGO DOS PENEDOS</nome>
+      <rua>53</rua>
+      <posição>d55e41</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO CARVALHAL</nome>
+      <rua>53</rua>
+      <posição>d55e43</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE SIMA</nome>
+      <rua>53</rua>
+      <posição>d55e45</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. VICENTE</nome>
+      <rua>53</rua>
+      <posição>d55e55</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e87</posição>
+   </lugar>
+   <lugar>
+      <nome>LUGAR DOS PENEDOS</nome>
+      <rua>53</rua>
+      <posição>d55e89</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e110</posição>
+   </lugar>
+   <lugar>
+      <nome>LUGAR DOS PENEDOS</nome>
+      <rua>53</rua>
+      <posição>d55e112</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e138</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e159</posição>
+   </lugar>
+   <lugar>
+      <nome>LUGAR DOS PENEDOS</nome>
+      <rua>53</rua>
+      <posição>d55e161</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e179</posição>
+   </lugar>
+   <lugar>
+      <nome>LUGAR DOS PENEDOS</nome>
+      <rua>53</rua>
+      <posição>d55e181</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e203</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e227</posição>
+   </lugar>
+   <lugar>
+      <nome>S. LOURENÇO DE SANDE</nome>
+      <rua>53</rua>
+      <posição>d55e245</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e247</posição>
+   </lugar>
+   <lugar>
+      <nome>STA. MARIA DE MOURE</nome>
+      <rua>53</rua>
+      <posição>d55e265</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e267</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e288</posição>
+   </lugar>
+   <lugar>
+      <nome>REQUIÃO</nome>
+      <rua>53</rua>
+      <posição>d55e306</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e311</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e333</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e351</posição>
+   </lugar>
+   <lugar>
+      <nome>S. PAIO DE POUSADA</nome>
+      <rua>53</rua>
+      <posição>d55e369</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e374</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e395</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e413</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e434</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e456</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e481</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e505</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e526</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e541</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e559</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e581</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e602</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e623</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e648</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e669</posição>
+   </lugar>
+   <lugar>
+      <nome>PALME</nome>
+      <rua>53</rua>
+      <posição>d55e691</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e693</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e715</posição>
+   </lugar>
+   <lugar>
+      <nome>S. CRISTÓVÃO DE REGALADOS</nome>
+      <rua>53</rua>
+      <posição>d55e733</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e738</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e759</posição>
+   </lugar>
+   <lugar>
+      <nome>LEIRA DA ESCOURA</nome>
+      <rua>53</rua>
+      <posição>d55e778</posição>
+   </lugar>
+   <lugar>
+      <nome>S. VÍTOR</nome>
+      <rua>53</rua>
+      <posição>d55e780</posição>
+   </lugar>
+   <lugar>
+      <nome>S. VICENTE</nome>
+      <rua>53</rua>
+      <posição>d55e1064</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>53</rua>
+      <posição>d55e1066</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>53</rua>
+      <posição>d55e1095</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS PALHOTAS</nome>
+      <rua>53</rua>
+      <posição>d55e1097</posição>
+   </lugar>
+   <lugar>
+      <nome>BRAGA</nome>
+      <rua>53</rua>
+      <posição>d55e1104</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS PALHOTAS</nome>
+      <rua>53</rua>
+      <posição>d55e1128</posição>
+   </lugar>
+   <lugar>
+      <nome>TERESINHAS</nome>
+      <rua>53</rua>
+      <posição>d55e1176</posição>
+   </lugar>
+   <lugar>
+      <nome>TERESINHAS</nome>
+      <rua>53</rua>
+      <posição>d55e1193</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. BARNABÉ E DO CAMINHO DOS CHÃOS 
+                            PARA AS TERESINHAS</nome>
+      <rua>53</rua>
+      <posição>d55e1225</posição>
+   </lugar>
+   <lugar>
+      <nome>RUAS DE S. BARNABÉ E DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e1242</posição>
+   </lugar>
+   <lugar>
+      <nome>RUAS DE S. BARNABÉ E DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e1261</posição>
+   </lugar>
+   <lugar>
+      <nome>RUAS DE S. BARNABÉ E DAS OLIVEIRAS</nome>
+      <rua>53</rua>
+      <posição>d55e1281</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e1307</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. 
+                            BARNABÉ</nome>
+      <rua>53</rua>
+      <posição>d55e1309</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. BARNABÉ</nome>
+      <rua>53</rua>
+      <posição>d55e1328</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. BARNABÉ</nome>
+      <rua>53</rua>
+      <posição>d55e1381</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. BARNABÉ</nome>
+      <rua>53</rua>
+      <posição>d55e1401</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. BARNABÉ</nome>
+      <rua>53</rua>
+      <posição>d55e1420</posição>
+   </lugar>
+   <lugar>
+      <nome>SANTA EULÁLIA DE REVELHE</nome>
+      <rua>53</rua>
+      <posição>d55e1438</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e1443</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. BARNABÉ</nome>
+      <rua>53</rua>
+      <posição>d55e1445</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e1460</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e1485</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. BARNABÉ</nome>
+      <rua>53</rua>
+      <posição>d55e1487</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e1508</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. BARNABÉ</nome>
+      <rua>53</rua>
+      <posição>d55e1510</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e1532</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e1550</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. BARNABÉ</nome>
+      <rua>53</rua>
+      <posição>d55e1552</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e1569</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. BARNABÉ</nome>
+      <rua>53</rua>
+      <posição>d55e1571</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO
+                    </nome>
+      <rua>53</rua>
+      <posição>d55e1590</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. BARNABÉ</nome>
+      <rua>53</rua>
+      <posição>d55e1592</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e1611</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. BARNABÉ</nome>
+      <rua>53</rua>
+      <posição>d55e1615</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e1636</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. BARNABÉ</nome>
+      <rua>53</rua>
+      <posição>d55e1638</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e1660</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e1675</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. BARNABÉ</nome>
+      <rua>53</rua>
+      <posição>d55e1677</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e1692</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. BARNABÉ</nome>
+      <rua>53</rua>
+      <posição>d55e1694</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e1712</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. BARNABÉ</nome>
+      <rua>53</rua>
+      <posição>d55e1714</posição>
+   </lugar>
+   <lugar>
+      <nome>BRAGA</nome>
+      <rua>53</rua>
+      <posição>d55e1732</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e1734</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE S. BARNABÉ</nome>
+      <rua>53</rua>
+      <posição>d55e1736</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e1757</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e1773</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e1795</posição>
+   </lugar>
+   <lugar>
+      <nome>S. PEDRO DE DORNELAS</nome>
+      <rua>53</rua>
+      <posição>d55e1813</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e1815</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e1834</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e1853</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e1868</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e1890</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e1912</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e1933</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e1954</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e1975</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e1996</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e2018</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e2042</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e2057</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e2072</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e2090</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e2111</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e2133</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e2148</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e2169</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e2184</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DOS CHÃOS OU QUINTEIRO</nome>
+      <rua>53</rua>
+      <posição>d55e2207</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE STO. ANDRÉ</nome>
+      <rua>53</rua>
+      <posição>d55e2209</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE SIMA</nome>
+      <rua>54</rua>
+      <posição>d56e14</posição>
+   </lugar>
+   <lugar>
+      <nome>ALTO MINHO</nome>
+      <rua>54</rua>
+      <posição>d56e16</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA NOVA DO BICO</nome>
+      <rua>54</rua>
+      <posição>d56e18</posição>
+   </lugar>
+   <lugar>
+      <nome>GEIRA</nome>
+      <rua>54</rua>
+      <posição>d56e23</posição>
+   </lugar>
+   <lugar>
+      <nome>GERÊS</nome>
+      <rua>54</rua>
+      <posição>d56e25</posição>
+   </lugar>
+   <lugar>
+      <nome>ASTORGA</nome>
+      <rua>54</rua>
+      <posição>d56e27</posição>
+   </lugar>
+   <lugar>
+      <nome>ALTO MINHO</nome>
+      <rua>54</rua>
+      <posição>d56e31</posição>
+   </lugar>
+   <lugar>
+      <nome>PALMEIRA</nome>
+      <rua>54</rua>
+      <posição>d56e34</posição>
+   </lugar>
+   <lugar>
+      <nome>PICO DE REGALADOS</nome>
+      <rua>54</rua>
+      <posição>d56e36</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA ANDRADE CORVO</nome>
+      <rua>54</rua>
+      <posição>d56e47</posição>
+   </lugar>
+   <lugar>
+      <nome>INFIAS</nome>
+      <rua>54</rua>
+      <posição>d56e57</posição>
+   </lugar>
+   <lugar>
+      <nome>NOVA DO BICO</nome>
+      <rua>54</rua>
+      <posição>d56e63</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>54</rua>
+      <posição>d56e90</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>54</rua>
+      <posição>d56e108</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>54</rua>
+      <posição>d56e128</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>54</rua>
+      <posição>d56e148</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>54</rua>
+      <posição>d56e168</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>54</rua>
+      <posição>d56e189</posição>
+   </lugar>
+   <lugar>
+      <nome>S. JOÃO DO SOUTO
+                        </nome>
+      <rua>54</rua>
+      <posição>d56e191</posição>
+   </lugar>
+   <lugar>
+      <nome>CANGOSTA DA ESCOURA</nome>
+      <rua>54</rua>
+      <posição>d56e193</posição>
+   </lugar>
+   <lugar>
+      <nome>LEIRA DA ESCOURA</nome>
+      <rua>54</rua>
+      <posição>d56e213</posição>
+   </lugar>
+   <lugar>
+      <nome>LEIRA DA ESCOURA</nome>
+      <rua>54</rua>
+      <posição>d56e231</posição>
+   </lugar>
+   <lugar>
+      <nome>LEIRA DA ESCOURA</nome>
+      <rua>54</rua>
+      <posição>d56e251</posição>
+   </lugar>
+   <lugar>
+      <nome>LEIRA DA ESCOURA</nome>
+      <rua>54</rua>
+      <posição>d56e271</posição>
+   </lugar>
+   <lugar>
+      <nome>LEIRA DA ESCOURA</nome>
+      <rua>54</rua>
+      <posição>d56e291</posição>
+   </lugar>
+   <lugar>
+      <nome>LEIRA DA 
+                        ESCOURA</nome>
+      <rua>54</rua>
+      <posição>d56e309</posição>
+   </lugar>
+   <lugar>
+      <nome>LEIRA DA 
+                        ESCOURA</nome>
+      <rua>54</rua>
+      <posição>d56e330</posição>
+   </lugar>
+   <lugar>
+      <nome>LEIRA DA ESCOURA</nome>
+      <rua>54</rua>
+      <posição>d56e350</posição>
+   </lugar>
+   <lugar>
+      <nome>LEIRA 
+                        DA ESCOURA</nome>
+      <rua>54</rua>
+      <posição>d56e367</posição>
+   </lugar>
+   <lugar>
+      <nome>LEIRA DA ESCOURA</nome>
+      <rua>54</rua>
+      <posição>d56e388</posição>
+   </lugar>
+   <lugar>
+      <nome>LEIRA DA ESCOURA</nome>
+      <rua>54</rua>
+      <posição>d56e403</posição>
+   </lugar>
+   <lugar>
+      <nome>LEIRA DA ESCOURA</nome>
+      <rua>54</rua>
+      <posição>d56e424</posição>
+   </lugar>
+   <lugar>
+      <nome>LEIRA DA ESCOURA</nome>
+      <rua>54</rua>
+      <posição>d56e439</posição>
+   </lugar>
+   <lugar>
+      <nome>LEIRA DA ESCOURA</nome>
+      <rua>54</rua>
+      <posição>d56e459</posição>
+   </lugar>
+   <lugar>
+      <nome>LEIRA DA ESCOURA</nome>
+      <rua>54</rua>
+      <posição>d56e479</posição>
+   </lugar>
+   <lugar>
+      <nome>VILA DO CONDE</nome>
+      <rua>54</rua>
+      <posição>d56e502</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>54</rua>
+      <posição>d56e504</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>54</rua>
+      <posição>d56e527</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>54</rua>
+      <posição>d56e543</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DAS 
+                        OLIVEIRAS</nome>
+      <rua>54</rua>
+      <posição>d56e562</posição>
+   </lugar>
+   <lugar>
+      <nome>S. JOÃO DO SOUTO</nome>
+      <rua>54</rua>
+      <posição>d56e564</posição>
+   </lugar>
+   <lugar>
+      <nome>CONVENTO DO CARMO</nome>
+      <rua>54</rua>
+      <posição>d56e566</posição>
+   </lugar>
+   <lugar>
+      <nome>FONTE DE PÃO TRIGO</nome>
+      <rua>54</rua>
+      <posição>d56e568</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>54</rua>
+      <posição>d56e583</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>54</rua>
+      <posição>d56e601</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>54</rua>
+      <posição>d56e616</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>54</rua>
+      <posição>d56e631</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>54</rua>
+      <posição>d56e650</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>54</rua>
+      <posição>d56e673</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>54</rua>
+      <posição>d56e691</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>54</rua>
+      <posição>d56e711</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>54</rua>
+      <posição>d56e733</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>54</rua>
+      <posição>d56e758</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>54</rua>
+      <posição>d56e784</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>54</rua>
+      <posição>d56e809</posição>
+   </lugar>
+   <lugar>
+      <nome>BRASIL</nome>
+      <rua>54</rua>
+      <posição>d56e834</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>54</rua>
+      <posição>d56e859</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>54</rua>
+      <posição>d56e884</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>54</rua>
+      <posição>d56e909</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA ESCOURA</nome>
+      <rua>55</rua>
+      <posição>d57e14</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e16</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA ESCOURA</nome>
+      <rua>55</rua>
+      <posição>d57e35</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA CONSELHEIRO JANUÁRIO</nome>
+      <rua>55</rua>
+      <posição>d57e37</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e61</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DE INFIAS</nome>
+      <rua>55</rua>
+      <posição>d57e63</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e83</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e103</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e123</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e143</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e164</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e179</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e194</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e214</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e229</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e244</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e260</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e275</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e295</posição>
+   </lugar>
+   <lugar>
+      <nome>S. PEDRO D'ESTE</nome>
+      <rua>55</rua>
+      <posição>d57e312</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e317</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e337</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e357</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e378</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e396</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e416</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e433</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e453</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e473</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e494</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e509</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e529</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e544</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e564</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e584</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e602</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e622</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>55</rua>
+      <posição>d57e642</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>56</rua>
+      <posição>d58e25</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA GABRIEL PEREIRA DE CASTRO</nome>
+      <rua>56</rua>
+      <posição>d58e37</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA ESCOURA</nome>
+      <rua>56</rua>
+      <posição>d58e39</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS PALHOTAS</nome>
+      <rua>56</rua>
+      <posição>d58e66</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>56</rua>
+      <posição>d58e79</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>56</rua>
+      <posição>d58e92</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>56</rua>
+      <posição>d58e105</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>56</rua>
+      <posição>d58e118</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>56</rua>
+      <posição>d58e132</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>56</rua>
+      <posição>d58e145</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>56</rua>
+      <posição>d58e158</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>56</rua>
+      <posição>d58e171</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>56</rua>
+      <posição>d58e184</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>56</rua>
+      <posição>d58e197</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>56</rua>
+      <posição>d58e211</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>56</rua>
+      <posição>d58e224</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>56</rua>
+      <posição>d58e237</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>56</rua>
+      <posição>d58e250</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>56</rua>
+      <posição>d58e263</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>56</rua>
+      <posição>d58e276</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>56</rua>
+      <posição>d58e290</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>56</rua>
+      <posição>d58e303</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>56</rua>
+      <posição>d58e316</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>56</rua>
+      <posição>d58e329</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>56</rua>
+      <posição>d58e342</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>56</rua>
+      <posição>d58e355</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>56</rua>
+      <posição>d58e369</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>56</rua>
+      <posição>d58e382</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>56</rua>
+      <posição>d58e395</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>56</rua>
+      <posição>d58e408</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS CHÃOS DE CIMA</nome>
+      <rua>56</rua>
+      <posição>d58e420</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DE INFIAS</nome>
+      <rua>56</rua>
+      <posição>d58e436</posição>
+   </lugar>
+   <lugar>
+      <nome>CASAL DO LAGARTO</nome>
+      <rua>56</rua>
+      <posição>d58e474</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS PALHOTAS</nome>
+      <rua>56</rua>
+      <posição>d58e497</posição>
+   </lugar>
+   <lugar>
+      <nome>BRAGA</nome>
+      <rua>57</rua>
+      <posição>d59e14</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA ANDRADE CORVO</nome>
+      <rua>57</rua>
+      <posição>d59e16</posição>
+   </lugar>
+   <lugar>
+      <nome>S.JERÓNIMO DE REAL</nome>
+      <rua>57</rua>
+      <posição>d59e18</posição>
+   </lugar>
+   <lugar>
+      <nome>CABIDO</nome>
+      <rua>57</rua>
+      <posição>d59e25</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>57</rua>
+      <posição>d59e27</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA(FREGUESIA DE S.PEDRO DE MAXIMINOS)</nome>
+      <rua>57</rua>
+      <posição>d59e57</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>57</rua>
+      <posição>d59e72</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DO REAL</nome>
+      <rua>57</rua>
+      <posição>d59e74</posição>
+   </lugar>
+   <lugar>
+      <nome>CURUTELA</nome>
+      <rua>57</rua>
+      <posição>d59e79</posição>
+   </lugar>
+   <lugar>
+      <nome>PÓPULO</nome>
+      <rua>57</rua>
+      <posição>d59e81</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>57</rua>
+      <posição>d59e94</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA CÓNEGA</nome>
+      <rua>57</rua>
+      <posição>d59e96</posição>
+   </lugar>
+   <lugar>
+      <nome>BRAGA</nome>
+      <rua>58</rua>
+      <posição>d60e14</posição>
+   </lugar>
+   <lugar>
+      <nome>S.JERÓNIMO DE REAL</nome>
+      <rua>58</rua>
+      <posição>d60e19</posição>
+   </lugar>
+   <lugar>
+      <nome>BRAGA-LUGO</nome>
+      <rua>58</rua>
+      <posição>d60e21</posição>
+   </lugar>
+   <lugar>
+      <nome>NOVA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e30</posição>
+   </lugar>
+   <lugar>
+      <nome>CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e71</posição>
+   </lugar>
+   <lugar>
+      <nome>BOAVISTA</nome>
+      <rua>58</rua>
+      <posição>d60e73</posição>
+   </lugar>
+   <lugar>
+      <nome>"CASAL DA PORTA"</nome>
+      <rua>58</rua>
+      <posição>d60e102</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DA VINHA</nome>
+      <rua>58</rua>
+      <posição>d60e107</posição>
+   </lugar>
+   <lugar>
+      <nome>BISCAINHOS</nome>
+      <rua>58</rua>
+      <posição>d60e109</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e111</posição>
+   </lugar>
+   <lugar>
+      <nome>CASA REAL</nome>
+      <rua>58</rua>
+      <posição>d60e116</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e165</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e167</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e183</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e198</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e219</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e234</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e249</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e262</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e276</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e291</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e304</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e317</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e332</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e347</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e363</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e380</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e400</posição>
+   </lugar>
+   <lugar>
+      <nome>BOUÇA DA COTURELA</nome>
+      <rua>58</rua>
+      <posição>d60e405</posição>
+   </lugar>
+   <lugar>
+      <nome>ESTRADA DE REAL</nome>
+      <rua>58</rua>
+      <posição>d60e410</posição>
+   </lugar>
+   <lugar>
+      <nome>S.JERÓNIMO DE REAL</nome>
+      <rua>58</rua>
+      <posição>d60e427</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e432</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e460</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e477</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA PORTA(CASA Nº1)</nome>
+      <rua>58</rua>
+      <posição>d60e479</posição>
+   </lugar>
+   <lugar>
+      <nome>COTURELA</nome>
+      <rua>58</rua>
+      <posição>d60e496</posição>
+   </lugar>
+   <lugar>
+      <nome>CONVENTO DE S.FRUTUOSO</nome>
+      <rua>58</rua>
+      <posição>d60e498</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e513</posição>
+   </lugar>
+   <lugar>
+      <nome>COTURELA</nome>
+      <rua>58</rua>
+      <posição>d60e518</posição>
+   </lugar>
+   <lugar>
+      <nome>CONVENTO DE S.FRUTUOSO</nome>
+      <rua>58</rua>
+      <posição>d60e520</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e541</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e567</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e593</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e619</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e646</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e672</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e698</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e719</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e740</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e758</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e774</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>58</rua>
+      <posição>d60e795</posição>
+   </lugar>
+   <lugar>
+      <nome>PÓPULO.</nome>
+      <rua>58</rua>
+      <posição>d60e797</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DA VINHA COM O CAMPO DAS HORTAS</nome>
+      <rua>59</rua>
+      <posição>d61e19</posição>
+   </lugar>
+   <lugar>
+      <nome>CABIDO</nome>
+      <rua>59</rua>
+      <posição>d61e33</posição>
+   </lugar>
+   <lugar>
+      <nome>CABIDO</nome>
+      <rua>59</rua>
+      <posição>d61e35</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DOS BISCAÍNHOS</nome>
+      <rua>59</rua>
+      <posição>d61e41</posição>
+   </lugar>
+   <lugar>
+      <nome>QUINTA DA CÓNEGA</nome>
+      <rua>59</rua>
+      <posição>d61e66</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DA CÓNEGA</nome>
+      <rua>59</rua>
+      <posição>d61e80</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DA VINHA</nome>
+      <rua>59</rua>
+      <posição>d61e85</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS ÁGUAS</nome>
+      <rua>60</rua>
+      <posição>d62e14</posição>
+   </lugar>
+   <lugar>
+      <nome>PALHA</nome>
+      <rua>60</rua>
+      <posição>d62e16</posição>
+   </lugar>
+   <lugar>
+      <nome>CAMPO DE NOSSA SENHORA A BRANCA</nome>
+      <rua>60</rua>
+      <posição>d62e18</posição>
+   </lugar>
+   <lugar>
+      <nome>CABIDO</nome>
+      <rua>60</rua>
+      <posição>d62e20</posição>
+   </lugar>
+   <lugar>
+      <nome>CABIDO</nome>
+      <rua>60</rua>
+      <posição>d62e25</posição>
+   </lugar>
+   <lugar>
+      <nome>(O RECHICHO)</nome>
+      <rua>60</rua>
+      <posição>d62e34</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DO RAIO E LARGO JOÃO PENHA (OU DO RECHICHO). </nome>
+      <rua>60</rua>
+      <posição>d62e39</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS ÁGUAS</nome>
+      <rua>60</rua>
+      <posição>d62e61</posição>
+   </lugar>
+   <lugar>
+      <nome>RUA DAS ÁGUAS</nome>
+      <rua>60</rua>
+      <posição>d62e66</posição>
+   </lugar>
+</lugares>

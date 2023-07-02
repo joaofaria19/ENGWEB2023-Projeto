@@ -1,0 +1,26 @@
+extends layout
+
+block content
+  .w3-card-4
+    header.w3-light-grey.w3-top
+      .w3-bar.w3-blue-grey
+        button(style="width:25%").w3-bar-item.w3-button.w3-hover-light-grey.w3-light-grey
+          a(href="/")
+            i.fa.fa-home
+            |  Inicio
+        button(style="width:25%").w3-bar-item.w3-button.w3-hover-light-grey
+          a(href="/ruas/")
+            i.fa.fa-road
+            |  Ruas
+        button(style='visibility:hidden;width:25%').w3-bar-item.w3-button#edit 
+          a(href="/edit/") Editar
+        button(style="width:25%").w3-bar-item.w3-button.w3-hover-light-grey
+          a(href="/perfil/")
+            i.fa.fa-user
+            |  Perfil
+  .w3-container.w3-padding-64.w3-center(style="background-image:url('/images/braga-background.jpg');background-size:cover;background-position:center")
+    h1(style="text-shadow: 2px 2px 4px #555;font-size:5em;color:white;font-family:'Segoe UI',sans-serif") Logout Efetuado
+    p(style="font-size:1.5em;color:white;font-family:'Segoe UI',sans-serif") Obrigado por visitar o nosso site. Volte em breve!
+
+  footer.w3-container.w3-blue-grey.w3-margin-top
+    h5(style="color:white;font-family:'Segoe UI',sans-serif") Footer

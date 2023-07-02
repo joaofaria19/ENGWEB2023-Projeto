@@ -1,0 +1,66 @@
+extends layout
+
+block content
+  button.w3-button.w3-block.w3-left.w3-hover-light-gray(style="height:100%") #[a(href="/perfil/posts/admin" style="text-decoration: none;") #[i.fa.fa-chevron-circle-left] Voltar ]   
+  .w3-card-4
+    .w3-container(style="display:flex; justify-content:center")
+      .w3-container(style="width:70%;margin-top: 40px;padding: 20px;border: 1px solid #ddd;border-radius: 4px;")
+        .w3-container(style="display: flex;align-items: center;margin-bottom: 10px")
+          if post.user.registo =='local'
+            img(src="/auth/image/"+post.user._id+"/"+post.user.foto style="width:80px;height:80px").w3-circle.w3-border
+          else
+            img(src=post.user.foto style="width:80px;height:80px").w3-circle.w3-border
+          .w3-container
+            h4 #{post.user.username}
+            h5.w3-opacity #{post.data}
+        hr
+        .w3-container(style="margin-bottom: 20px;")
+          h4(style="margin-top:2%;margin-bottom:3%") #{post.desc}
+          .w3-container.w3-border.w3-round
+            h3 #{post.rua.nome}
+            .w3-content.w3-display-container
+              if post.rua.figuras
+                  each fig in post.rua.figuras
+                      img(src="/api/image/images/"+fig.imagem alt= " Imagem "+post.rua.nome style="width:100%").imgRua
+                  .w3-center(style="width:100%")
+                      button.w3-button.w3-display-left.w3-hover-light-gray.w3-opacity(style="height:100%" onclick="plusDivs(-1)") #[i.fa.fa-chevron-left]
+                      button.w3-button.w3-display-right.w3-hover-light-gray.w3-opacity(style="height:100%" onclick="plusDivs(1)") #[i.fa.fa-chevron-right]
+            if post.rua.para
+              each para in post.rua.para
+                p= para
+          .w3.container
+            if post.comentarios.length > 0
+              each comentario in post.comentarios
+                  .w3-container.w3-border.w3-margin
+                    .w3-row-padding
+                        .w3-col.s2
+                            if comentario.registo=='local'
+                                img.w3-circle.w3-border(src="/auth/image/"+comentario.user_id+'/'+comentario.foto style="width:120px;height:110px;max-width:100px;margin-top:8px")
+                            else
+                                img.w3-circle.w3-border(src=comentario.foto style="width:120px;height:110px;max-width:100px;margin-top:8px")
+                        .w3-col.s9
+                            h4= comentario.user
+                            h6.w3-opacity= comentario.data
+                            p= comentario.comentario
+                        button.w3-button.w3-red.w3-hover-ligth-gray(style="margin-top:8%")
+                            a(href="/posts/remover/comment/"+post._id+"/"+comentario._id style="text-decoration:none") Remover            
+
+  footer.w3-container.w3-blue-grey.w3-margin-top
+    h5(style="color:white;font-family:'Segoe UI',sans-serif") Gerado por EngWeb2023 em #{d}
+
+  script.
+    var slideIndex = 1;
+    showDivs(slideIndex);
+    function plusDivs(n) {
+      showDivs(slideIndex += n);
+    }
+    function showDivs(n) {
+      var i;
+      var x = document.getElementsByClassName("imgRua");
+      if (n > x.length) {slideIndex = 1}
+      if (n < 1) {slideIndex = x.length} ;
+      for (i = 0; i < x.length; i++) {
+        x[i].style.display = "none";
+      }
+      x[slideIndex-1].style.display = "block";
+    }

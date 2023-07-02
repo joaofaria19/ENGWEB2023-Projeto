@@ -1,0 +1,324 @@
+extends layout
+
+block content
+  .w3-card-4
+    button.w3-button.w3-left(style="height:100%") #[a(href="/ruas/"+rua._id style="text-decoration: none;") #[i.fa.fa-chevron-circle-left] Voltar ] 
+    form(method="post", enctype="multipart/form-data")
+      .w3-light-grey.w3-padding-32.w3-margin-bottom.w3-center
+        h1.w3-jumbo 
+          input.w3-border.w3-round.w3-margin(type="text" value=rua.nome name="nome" style="width:50%")
+
+      .w3-row-padding.w3-content(style="max-width:1400px")
+        .w3-twothird
+          .w3-content.w3-display-container
+            .w3-row(style="display: flex;align-items:center")
+              if rua.figuras
+                each fig in rua.figuras
+                  .w3-col.s3
+                    .w3-display-container.w3-hover-opacity
+                      img(src="/api/image/images/"+fig.imagem alt="Imagem "+rua.nome name="imagens" style="width:100%; max-width:200px").w3-border.w3-round
+                      input(type='hidden' name='imagens_id[]' value=fig.id)
+                      input(type='hidden' name='imagens_imagem[]' value=fig.imagem)
+                      input(type='hidden' name='imagens_legenda[]' value=fig.legenda)
+                      .w3-display-middle.w3-display-hover
+                        button.w3-button.w3-red(type="button" onclick="removeImagem(this)") Remover
+          br
+          #Imagens.imagens-container
+            button.w3-button.w3-green.w3-margin-top(type="button" onclick="addImagem()") Adicionar Imagem
+          .w3-justify.texto-container
+            button.adicionarParagrafo.w3-button.w3-blue-grey.w3-hover-light-grey(type="button" style="margin-bottom:10px;margin-top:10px;" onclick="adicionarPara()") Adicionar parágrafo
+            if rua.para
+              each para in rua.para
+                div(style="margin-bottom: 10px;")
+                  textarea.w3-input.w3-border(type="text" name="para[]" rows="5" style="width:100%;height:50%") #{para}
+                  button.removerParagrafo.w3-button.w3-red.w3-hover-light-grey(type="button" style="margin-top: 5px;margin-bottom: 10px;" onclick="removerPara(this)") Remover parágrafo       
+          .w3-container.w3-margin-top.w3-border.w3-round-xlarge
+            p.w3-row.w3-section.w3-opacity Comentários da rua
+            hr
+            if comentarios.length>0
+              each comentario in comentarios
+                .w3-container.w3-card-4.w3-white.w3-margin
+                  .w3-row-padding
+                    .w3-col.s3 
+                        if comentario.registo == 'local'
+                          img.w3-circle.w3-border(src="/auth/image/"+comentario.user_id+"/"+comentario.foto style="width:120px;height:110px;;max-width:100px;margin-top:8px")
+                        else
+                          img.w3-circle.w3-border(src=comentario.foto style="width:120px;height:110px;;max-width:100px;margin-top:8px")
+                    .w3-col.s8
+                        input(type='hidden' name='comentarios_id[]' value=comentario._id)
+                        h4 #{comentario.utilizador}
+                        input(type='hidden' name='comentarios_user[]' value=comentario.user)
+                        h6.w3-opacity #{comentario.data}
+                        input(type='hidden' name='comentarios_data[]' value=comentario.data)
+                        p #{comentario.comentario}
+                        input(type='hidden' name='comentarios_comentario[]' value=comentario.comentario)
+                    button.w3-button.w3-red.w3-hover-light-gray.w3-right(onclick='removerComentario(this)') Remover
+            else 
+              p.w3-large.w3-margin.w3-padding.w3-center.w3-opacity Não existem comentários nesta Rua.
+          .w3-container.w3-margin-top.w3-border.w3-round-xlarge
+            p.w3-row.w3-section.w3-opacity Informação adicional presente na rua
+            hr
+            // Entidades
+            .w3-row.w3-section.entidades-container
+              label Entidades:
+              ul.w3-ul
+                each entidade in rua.entidades
+                    li.w3-display-container.w3-light-gray.w3-margin-top(name='entidade' style='width:100%').entidade
+                      | #{entidade.entidade} (#{entidade.tipo})
+                      input(type='hidden' name='entidades_nome[]' value=entidade.entidade)
+                      input(type='hidden' name='entidades_tipo[]' value=entidade.tipo)
+                      span.w3-button.w3-display-right(onclick='deleteEntidade(this)') &times;
+              button.w3-button.w3-blue.w3-margin-top(type="button" name="entidades" onclick="addEntidade()") Adicionar Entidade
+
+            // Datas
+            .w3-row.w3-section.datas-container
+              label Datas:
+              ul.w3-ul
+                each data in rua.datas   
+                    li.w3-display-container.w3-light-gray.w3-margin-top(name='data' style='width:20%').data
+                      | #{data.data}
+                      input(type='hidden' name='datas[]' value=data.data)
+                      span.w3-button.w3-display-right(onclick='deleteData(this)') &times;
+              input.w3-input.w3-margin-top.data-input(type="text")
+              button.w3-button.w3-blue.w3-margin-top(type="button" name="datas" onclick="addData()") Adicionar Data
+
+
+            // Lugares
+            .w3-row.w3-section.lugares-container
+              label Lugares:
+              ul.w3-ul
+                each lugar in rua.lugares  
+                    li.w3-display-container.w3-light-gray.w3-margin-top(name='lugar' style='width:40%').lugar
+                      | #{lugar.lugar}
+                      input(type='hidden' name='lugares[]' value=lugar.lugar)
+                      span.w3-button.w3-display-right(onclick='deleteLugar(this)') &times;
+              input.w3-input.w3-margin-top.lugar-input(type="text")
+              button.w3-button.w3-blue.w3-margin-top(type="button" name="lugares" onclick="addLugar()") Adicionar Lugar
+
+          
+          .w3-container(style="display:center;justify-content:center;align-center")
+            button.w3-bar-item.w3-button.w3-red.w3-margin(type="button" style="width:45%") #[a(href="/ruas/"+rua._id style="text-decoration: none;") Cancelar] 
+            button.w3-bar-item.w3-button.w3-blue-gray.w3-margin(type="submit" style="width:45%") Atualizar
+    
+          br 
+        .w3-third
+          .w3-container.w3-light-grey.casas-container
+            h2 Lista de casas
+            button.w3-button.w3-blue-gray.w3-hover-light-grey(type="button" style="" onclick="adicionarCasa()") Adicionar casa
+            hr.w3-opacity(style="background-color:gray;padding:1px")
+            each casa in rua.lista_casas
+              ul.w3-ul
+                li
+                  h3 Casa número:
+                  input.w3-input.w3-border(type="text" value=casa.número name="casas_numero[]" style="width:45px;display:block;")
+                  if casa.vista
+                    li Vista:
+                    input.w3-input.w3-border(type="text" value=casa.vista name="casas_vista[]")
+                  if casa.enfiteuta
+                    li Enfiteuta:
+                    input.w3-input.w3-border(type="text" value=casa.enfiteuta name="casas_enfiteuta[]")
+                  if casa.foro
+                    li Foro:
+                    input.w3-input.w3-border(type="text" value=casa.foro name="casas_foro[]")
+                  if casa.desc
+                    li.w3-justify
+                    textarea.w3-input.w3-border(type="text" rows=3 name="casas_desc[]") #{casa.desc}
+                  button.removerCasa.w3-button.w3-red.w3-hover-light-grey(type="button" style="margin-top: 10px; margin-bottom:10px" onclick="removerCasa()") Remover casa
+    footer.w3-container.w3-blue-grey.w3-margin-top
+      h5(style="color:white;font-family:'Segoe UI',sans-serif") Gerado por EngWeb2023 em #{d}  
+
+
+      script.
+        document.querySelectorAll('.removerCasa').forEach(function(botao) {
+          botao.addEventListener('click', function() {
+            var casa = this.parentNode;
+            casa.parentNode.removeChild(casa);
+          });
+        });
+
+      script.
+        function removerComentario(button) {
+          var cardComentario = button.parentNode.parentNode;
+          cardComentario.parentNode.removeChild(cardComentario);
+        }
+        function adicionarCasa() {
+          var listaCasas = document.querySelector('.casas-container');
+          var novoCasa = document.createElement('li');
+
+          novoCasa.innerHTML = `
+            <h3>Casa número: </h3>
+            <input class="w3-input w3-border" type="text" name="casas_numero[]" style="width: 45px; display: block;" required>
+
+            <label>Vista: </label>
+            <input class="w3-input w3-border" type="text" name="casas_vista[]">
+
+            <label>Enfiteuta: </label>
+            <input class="w3-input w3-border" type="text" name="casas_enfiteuta[]">
+
+            <label>Foro: </label>
+            <input class="w3-input w3-border" type="text" name="casas_foro[]">
+
+            <label>Desc: </label>
+            <textarea class="w3-input w3-border" name="casas_desc[]"></textarea>
+
+            <button class="removerCasa w3-button w3-red w3-hover-light-grey" type="button" style="margin-top: 10px; margin-bottom: 10px;" onclick="removerCasa(this)">Remover casa</button>
+          `;
+
+          listaCasas.appendChild(novoCasa);
+        }
+
+        function removerCasa(button) {
+          var casaRemovida = button.parentNode;
+          casaRemovida.parentNode.removeChild(casaRemovida);
+        }
+        function adicionarPara() {
+          var listaPara = document.querySelector('.texto-container');
+          var div = document.createElement('div');
+          div.style.marginBottom = '10px';
+
+          div.innerHTML = `
+            <textarea class="w3-input w3-border" type="text" name="para[]" rows="5" style="width: 95%; height: 50%;"></textarea>
+            <button class="removerParagrafo w3-button w3-red w3-hover-light-grey" type="button" style="margin-top: 5px; margin-bottom: 10px;" onclick="removerPara(this)">Remover parágrafo</button>
+          `;
+          listaPara.appendChild(div);
+        }
+
+        function removerPara(button) {
+          var divRemovida = button.parentNode;
+          divRemovida.parentNode.removeChild(divRemovida);
+        }
+
+        function addImagem() {
+          var container = document.querySelector('.imagens-container');
+          var newImg = document.createElement('div');
+          newImg.classList.add('imagem', 'w3-row', 'w3-section', 'w3-light-gray', 'w3-padding', 'w3-round-xlarge');
+
+          newImg.innerHTML = `
+            <input class="w3-input image-preview-container" type="file" name="imagens" accept="image/*" multiple onchange="previewImages(event)">
+            <div class="image-preview" style="width: 90%; margin-bottom: 2%;"></div>
+            <label>Name:</label>
+            <input class="w3-input w3-border" type="text" name="imagens_legenda[]" required>
+            <div>
+              <button class="w3-button w3-red w3-right" type="button" style="width: 100%; margin-top: 2%;" onclick="deleteImagem(this)">Remover</button>
+            </div>
+          `;
+
+          container.append(newImg);
+        }
+
+        function deleteImagem(button) {
+          var img = button.parentNode.parentNode;
+          img.parentNode.removeChild(img);
+        }
+
+        function removeImagem(button) {
+          var imagemContainer = button.parentNode.parentNode;
+          var imagem = imagemContainer.querySelector('img');
+
+          imagemContainer.parentNode.removeChild(imagemContainer);
+          imagem.parentNode.removeChild(imagem);
+        }
+
+        function addData() {
+          var container = document.querySelector('.datas-container');
+          var inputValue = document.querySelector('.data-input').value;
+          if(inputValue!==""){
+            var newData = document.createElement('div');
+            newData.classList.add('data', 'w3-ul' , 'w3-round-xlarge');
+            newData.innerHTML = `
+              <li class="w3-display-container w3-light-gray w3-margin-top" name="data" style="width:20%"> ${inputValue} 
+                <input type="hidden" name="datas[]" value="${inputValue}">
+                <span onclick="deleteData(this)"
+                class="w3-button w3-display-right">&times;</span>
+              </li>
+            `;
+          document.querySelector('.data-input').value=""
+          container.appendChild(newData);
+          }
+        }
+
+        function deleteData(button) {
+          var data = button.closest('.data');
+          data.parentNode.removeChild(data);
+        }
+
+
+        function addLugar() {
+          var container = document.querySelector('.lugares-container');
+          var inputValue = document.querySelector('.lugar-input').value;
+          if(inputValue!==""){
+
+            var newLugar = document.createElement('div');
+            newLugar.classList.add('lugar', 'w3-ul' , 'w3-round-xlarge');
+            newLugar.innerHTML = `
+              <li class="w3-display-container w3-light-gray w3-margin-top" style="width:40%">${inputValue}
+                <input type="hidden" name="lugares[]" value="${inputValue}">
+                <span onclick="deleteLugar(this)"
+                class="w3-button w3-display-right">&times;</span>
+              </li>
+            `;
+            document.querySelector('.lugar-input').value=""
+            container.appendChild(newLugar);
+          }
+        }
+
+        function deleteLugar(button) {
+          var lugar = button.closest('.lugar');
+          lugar.parentNode.removeChild(lugar);
+        }
+
+
+        function addEntidade() {
+          var container = document.querySelector('.entidades-container');
+  
+          var newEntity= document.createElement('div');
+          newEntity.classList.add('entidade', 'w3-row', 'w3-section','w3-light-gray','w3-padding','w3-round-xlarge');
+          newEntity.innerHTML = `
+            <div class="w3-col m2 w3-margin" style="width:20%">
+              <label>Tipo:</label>
+              <select class="w3-select w3-border" name="entidades_tipo[]" required>
+                <option value="" disabled selected>Escolha um tipo de entidade</option>
+                <option value="instituição">instituição</option>
+                <option value="pessoa">pessoa</option>
+              </select>
+            </div>
+            <div class="w3-col m2 w3-margin" style="width:65%">
+              <label>Nome:</label>
+              <input class="w3-input w3-border" type="text" name="entidades_nome[]" required>
+            </div>
+            <div class="w3-col m2 w3-margin " style="width:15%">
+              <button class="w3-button w3-red w3-right" style="width:100%;margin-top:17%" type="button" onclick="deleteEntidade(this)"><b>Remover</b></button>
+            </div>
+          `;
+  
+          container.appendChild(newEntity);
+        }
+  
+        function deleteEntidade(button) {
+          var entidade = button.closest('.entidade');
+          entidade.parentNode.removeChild(entidade);
+        }
+      script.
+          function previewImages(event) {
+            var input = event.target;
+            var container = input.nextElementSibling;
+            container.innerHTML = '';
+
+            if (input.files && input.files.length > 0) {
+              for (var i = 0; i < input.files.length; i++) {
+                var reader = new FileReader();
+
+                reader.onload = function(e) {
+                  var image = document.createElement('img');
+                  image.src = e.target.result;
+                  image.classList.add('image-preview');
+                  image.style.maxWidth="100%";
+                  image.style.maxHeight="200px";
+
+                  container.appendChild(image);
+                };
+
+                reader.readAsDataURL(input.files[i]);
+              }
+            }
+          }

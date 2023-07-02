@@ -1,0 +1,43 @@
+extends layout
+
+block content
+    button.w3-button.w3-block.w3-left.w3-hover-light-gray(style="height:100%") #[a(href="/ruas/"+rua._id style="text-decoration: none;") #[i.fa.fa-chevron-circle-left] Voltar ]   
+    .w3-container.w3-margin-top
+        .w3-container.w3-margin-top.w3-padding.w3-border.w3-round(style="width:50%;margin: 0 auto;")
+            .w3-light-grey.w3-padding-32.w3-center
+                h1.w3-jumbo #{rua.nome}
+            .w3-row-padding.w3-content.w3-margin(style="max-width:1400px;margin: 0 auto;")
+                .w3-content.w3-display-container
+                    if rua.figuras.length>0
+                        each fig in rua.figuras
+                            img(src="/api/image/images/"+fig.imagem alt= " Imagem "+rua.nome style="width:100%").imgRua
+                        .w3-center(style="width:100%")
+                            button.w3-button.w3-display-left.w3-hover-light-gray.w3-opacity(type="button" style="height:100%" onclick="plusDivs(-1)") #[i.fa.fa-chevron-left]
+                            button.w3-button.w3-display-right.w3-hover-light-gray.w3-opacity(type="button" style="height:100%" onclick="plusDivs(1)") #[i.fa.fa-chevron-right]
+            form.w3-container.w3-margin.w3-round(method="POST")
+                fieldset.w3-round
+                    .w3-section
+                        textarea.w3-input.w3-border.w3-margin-bottom.w3-round(type="text" placeholder="Partilhe algo sobre a rua" rows=5 name="desc" required)
+                        button.w3-button.w3-block.w3-dark-grey(type="submit") Partilhar
+
+    script.
+            var slideIndex = 1;
+            showDivs(slideIndex);
+
+            function plusDivs(n) {
+              showDivs(slideIndex += n);
+            }
+
+            function showDivs(n) {
+              var i;
+              var x = document.getElementsByClassName("imgRua");
+              if (n > x.length) {slideIndex = 1}
+              if (n < 1) {slideIndex = x.length} ;
+              for (i = 0; i < x.length; i++) {
+                x[i].style.display = "none";
+              }
+              x[slideIndex-1].style.display = "block";
+            }
+    br
+    footer.w3-container.w3-blue-grey.w3-margin-top
+        h5(style="color:white;font-family:'Segoe UI',sans-serif") Gerado por EngWeb2023 em #{d}

@@ -1,0 +1,65 @@
+extends layout
+
+block content
+  .w3-card-4
+    header.w3-light-grey.w3-top
+      .w3-bar.w3-blue-grey
+        button(style="width:25%").w3-bar-item.w3-button.w3-hover-light-grey
+          a(href="/")
+            i.fa.fa-home
+            |  Inicio
+        button(style="width:25%").w3-bar-item.w3-button.w3-hover-light-grey
+          a(href="/ruas/")
+            i.fa.fa-road
+            |  Ruas
+        button(style="width:25%").w3-bar-item.w3-button.w3-hover-light-grey
+          a(href="/posts")
+            i.fa.fa-blog
+            |  Publicações
+        button(style="width:25%").w3-bar-item.w3-button.w3-hover-light-grey.w3-light-grey
+          a(href="/perfil/")
+            i.fa.fa-user
+            |  Perfil
+
+    .w3-container.w3-light-grey(style="display:flex;margin-top:40px;")
+      h1(style="text-align:center;") Perfil
+    .w3-container(style="display:flex;justify-content:center;margin-top:30px;")
+      .w3-card-4(style="width:50%;padding:20px;")
+        .w3-container(style="display:flex;flex-wrap:wrap;")
+          .w3-half(style="display:flex;align-items:center;justify-content:center;")
+            if user.regist == 'local'
+              img.w3-circle.w3-border(src="/auth/image/"+user_id+'/'+user.imagem style="width:250px;height:250px")
+            else 
+              img.w3-circle.w3-border(src=user.imagem style="width:250px;height:250px")
+          .w3-half.w3-container(style="display:flex;flex-direction:column;align-items:flex-start;justify-content:center;")
+            .w3-container.w3-margin-bottom
+              h2(style="margin-top:0;") Dados básicos
+              p 
+                b Nome: 
+                span #{user.username}
+              p 
+                b Email: 
+                span #{user.email}
+              p 
+                b Filiação: 
+                span #{user.affiliation}
+              p 
+                b Data de Registo: 
+                span #{user.dateCreated}
+              
+              if user.regist == 'local'
+                button.w3-button.w3-blue-gray.w3-hover-gray.w3-round #[a(href="/perfil/editar" style="text-decoration: none;") #[i.fa.fa-file ] Editar perfil]
+                if isAdmin
+                  button.w3-button.w3-blue-gray.w3-hover-gray.w3-round.w3-margin-left #[a(href="/ruas/adicionar" style="text-decoration: none;") #[i.fa.fa-plus ] Adicionar Rua]
+            .w3-container
+              h2(style="margin-top:5px") Tipo de conta
+              .w3-panel.w3-blue.w3-round-xlarge
+                p= user.level
+        .w3-container.w3-margin-top.w3-bar(style="display:flex;justify-content:flex-end;margin:5px")
+          if isAdmin
+            button.w3-bar-item.w3-button.w3-blue-gray.w3-round(style="width:50%") #[a(href="/perfil/posts/admin" style="text-decoration:none") Visualizar posts]
+          else 
+            button.w3-bar-item.w3-button.w3-blue-gray.w3-round(style="width:50%") #[a(href="/perfil/posts" style="text-decoration:none") Visualizar posts]
+          button.w3-bar-item.w3-margin-left.w3-button.w3-red.w3-round(style="width:50%") #[a(href="/logout/" style="text-decoration:none") Terminar Sessão]
+    footer.w3-container.w3-blue-grey.w3-margin-top
+      h5(style="color:white;font-family:'Segoe UI',sans-serif") Gerado por EngWeb2023 em #{d}

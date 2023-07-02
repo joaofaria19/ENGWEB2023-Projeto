@@ -1,0 +1,47 @@
+extends layout
+
+block content
+  div.w3-container(style="background-color: #ffffff;border-radius: 5px;box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);padding: 20px;width: 30%;")
+    form.w3-container( method='POST' enctype="multipart/form-data")
+      img(src='/api/image/outras/favicon_rua.png', style='display:block; width:25%; object-fit:cover; object-position:center; margin:10px auto 35px auto;')
+      label.w3-text-blue-gray Nome
+      input.w3-input.w3-margin-bottom(type='text', name='username', required)
+      label.w3-text-blue-gray Email
+      input.w3-input.w3-margin-bottom(type='email', name='email', required)
+      label.w3-text-blue-gray Filiação
+      input.w3-input.w3-margin-bottom(type='text', name='affiliation', required)
+      label.w3-text-blue-gray Password
+      input.w3-input.w3-margin-bottom(type='password', name='password', id='password', required)
+      .w3-container.w3-margin(style="margin-top:5%;margin-bottom:5%;display:flex;align-items:center;flex-direction: column;")
+        img.w3-circle.w3-border(id='user-image', src='/api/image/outras/user-image.png', style=' width:150px; height:150px;')
+        input#file-input.w3-input.image-preview-container(type="file", name="imagem", accept="image/*", onchange="previewImage(event)")
+        
+      button.w3-button.w3-block.w3-blue-gray.w3-round-large.w3-margin-top.w3-hover-shadow(type='submit', style="text-align:center;") Registar
+      p(style="display:flex;justify-content:center;").w3-text-grey.w3-margin Já tem conta? #[a(href="/login").w3-text-blue Faça Login aqui]
+      a(href="/" style="display:flex;justify-content:center;align-items:center;") Voltar
+
+  style.
+    html, body {
+      height: 100%;
+    }
+    body {
+      background-image: url('/api/image/outras/braga-background.jpg');
+      background-size: cover;
+      backdrop-filter: blur(5px);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+  script.
+    function previewImage(event) {
+    var input = event.target;
+    var reader = new FileReader();
+
+    reader.onload = function () {
+      var img = document.getElementById('user-image');
+      img.src = reader.result;
+    };
+
+    reader.readAsDataURL(input.files[0]);
+    }

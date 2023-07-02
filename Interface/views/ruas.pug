@@ -1,0 +1,109 @@
+extends layout
+
+block content
+  .w3-card-4
+    header.w3-light-grey.w3-top
+      .w3-bar.w3-blue-grey
+        button(style="width:25%").w3-bar-item.w3-button.w3-hover-light-grey
+          a(href="/")
+            i.fa.fa-home
+            |  Inicio
+        button(style="width:25%").w3-bar-item.w3-button.w3-hover-light-grey.w3-light-grey
+          a(href="/ruas/")
+            i.fa.fa-road
+            |  Ruas
+        button(style="width:25%").w3-bar-item.w3-button.w3-hover-light-grey
+          a(href="/posts")
+            i.fa.fa-blog
+            |  Publicações
+        button(style="width:25%").w3-bar-item.w3-button.w3-hover-light-grey
+          a(href="/perfil/")
+            i.fa.fa-user
+            |  Perfil
+
+    .w3-container(style="display:flex;margin-top:40px;")
+      input(type="text" style="width:90%" placeholder="Pesquisa por nome, data, entidade, lugar..." onkeyup="selectfunction()").w3-input.w3-border.w3-padding-large.w3-margin-top.w3-margin-bottom#input
+      button.w3-button.w3-light-grey.w3-border.w3-margin-top.w3-margin-bottom(onclick='search()') Pesquisa
+      .w3-dropdown-click.w3-margin
+        button(onclick="showFilters()").w3-button.w3-light-grey.w3-border.w3-padding-large Ordenar
+        .w3-dropdown-content.w3-bar-block.w3-border#demo
+          button.w3-bar-item.w3-button(onclick='order("asc")') Crescente
+          button.w3-bar-item.w3-button(onclick='order("desc")') Decrescente
+    if ruas.length > 0
+      each rua in ruas
+        .w3-row.w3-margin#rua
+          ul.w3-ul#ulist
+            li.w3-margin
+              .w3-third
+                if rua.figuras.length > 0
+                  img(src="/api/image/images/"+rua.figuras[0].imagem style="width:100%;max-height:400px").w3-hover-shadow.w3-round-xlarge
+                else 
+                  img(src="/api/image/outras/default_image.jpg" style="width:100%;max-height:400px").w3-hover-shadow.w3-round-xlarge
+              .w3-twothird.w3-container
+                h2 #[a(href="/ruas/"+rua._id) #{rua.nome}]
+                p= rua.para[0]
+                p= rua.para[1]
+
+                a(href = "/ruas/"+rua._id style="display:flex; justify-content: center").w3-text-light-blue Ver mais
+    else 
+      h5.w3-margin.w3-padding.w3-center.w3-opacity Não existem ruas para mostrar
+  
+
+  style.
+    #myBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: grey;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 4px;
+    }
+    #myBtn:hover {
+    background-color: #555;
+    }
+
+  button#myBtn(onclick='topFunction()' title='Go to top') Mover para o topo
+  
+  footer.w3-container.w3-blue-grey.w3-margin-top
+      h5(style="color:white;font-family:'Segoe UI',sans-serif") Gerado por EngWeb2023 em #{d}
+  
+  script.
+    let mybutton = document.getElementById("myBtn");
+    
+    window.onscroll = function() {scrollFunction()};
+    function scrollFunction() {
+      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        mybutton.style.display = "block";
+      } else {
+        mybutton.style.display = "none";
+      }
+    }
+    
+    function topFunction() {
+      document.body.scrollTop = 0;
+      document.documentElement.scrollTop = 0;
+    }
+    function showFilters() {
+      var x = document.getElementById("demo");
+      if (x.className.indexOf("w3-show") == -1) { 
+        x.className += " w3-show";
+      } else {
+        x.className = x.className.replace(" w3-show", "");
+      }
+    }
+    function search() {
+      var termoPesquisa = document.getElementById('input').value;
+      window.location.href = '/ruas/pesquisa?elemento=' + encodeURIComponent(termoPesquisa);
+    }
+
+    function order(type){
+      if(type=="asc") window.location.href = '/ruas/pesquisa?ordem=asc';
+      else if(type=="desc") window.location.href = '/ruas/pesquisa?ordem=desc';
+    }

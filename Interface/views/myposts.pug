@@ -1,0 +1,80 @@
+extends layout
+
+block content
+  .w3-card-4
+    button.w3-button.w3-left(style="height:100%") #[a(href="/perfil" style="text-decoration: none;") #[i.fa.fa-chevron-circle-left] Voltar ] 
+    .w3-light-grey.w3-padding-32.w3-margin-bottom.w3-center
+        h1.w3-jumbo Os meus posts
+
+    .w3-container(style="display:flex; justify-content:center")
+      if posts.length > 0  
+        ul.w3-ul(style="width: 40%;padding-top:2%; padding-bottom:2%")
+          each post in posts
+            li.w3-card.w3-round(style="margin-top:2%; margin-bottom:7%; padding: 20px; border: 2px solid #ddd;")
+              .w3-container(style="display: flex;align-items: center;margin-bottom: 10px")
+                if post.user.registo =='local'
+                  img(src="/auth/image/"+post.user._id+"/"+post.user.foto style="width:80px;height:80px").w3-circle.w3-border
+                else
+                  img(src=post.user.foto style="width:80px;height:80px").w3-circle.w3-border
+                .w3-container
+                  h4 #{post.user.username}
+                  h5.w3-opacity #{post.data}
+              hr
+              .w3-container(style="margin-bottom: 20px;")
+                h4(style="margin-top:2%;margin-bottom:3%") #{post.desc}
+                .w3-container.w3-border.w3-round.w3-hover-opacity 
+                  a(href="/ruas/"+post.rua._id style="text-decoration: none;")
+                    h3 #{post.rua.nome}
+                    .w3-content.w3-display-container(style="margin-top: 10px;")
+                      if post.rua.figuras
+                          img(src="/api/image/images/"+post.rua.figuras[0].imagem alt= " Imagem "+post.rua.nome style="width:100%" )
+                    if post.rua.para
+                      each para in post.rua.para
+                        p= para            
+              a(href="/posts/comentario/"+post._id+"?seeOnly=true" style="display:flex; justify-content: center").w3-text-blue Comentar
+              button.w3-button.w3-round-xlarge.w3-red.w3-block.w3-hover-light-gray(style="margin-top:15px") 
+                a(href="/posts/remover/"+post._id style="text-decoration:none") Remover
+                
+      else 
+        .w3-container(style="width: 40%;padding-top:2%; padding-bottom:2%")
+          h5.w3-margin.w3-padding.w3-center.w3-opacity Não existem publicações para mostrar
+    style.
+      #myBtn {
+      display: none;
+      position: fixed;
+      bottom: 20px;
+      right: 30px;
+      z-index: 99;
+      font-size: 18px;
+      border: none;
+      outline: none;
+      background-color: grey;
+      color: white;
+      cursor: pointer;
+      padding: 15px;
+      border-radius: 4px;
+      }
+      #myBtn:hover {
+      background-color: #555;
+      }
+
+    button#myBtn(onclick='topFunction()' title='Go to top') Mover para o topo
+  
+  footer.w3-container.w3-blue-grey.w3-margin-top
+    h5(style="color:white;font-family:'Segoe UI',sans-serif") Gerado por EngWeb2023 em #{d}
+
+
+  script.
+    let mybutton = document.getElementById("myBtn");
+    window.onscroll = function() {scrollFunction()};
+    function scrollFunction() {
+      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        mybutton.style.display = "block";
+      } else {
+        mybutton.style.display = "none";
+      }
+    }
+    function topFunction() {
+      document.body.scrollTop = 0;
+      document.documentElement.scrollTop = 0;
+    }

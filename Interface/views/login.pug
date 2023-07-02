@@ -1,0 +1,32 @@
+extends layout
+
+block content
+    .w3-container(style="background-color: #ffffff;border-radius: 5px;box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);padding: 20px;width: 30%;")
+      form.w3-container(method='POST')
+        img(src='/api/image/outras/favicon_rua.png', style='display:block; width:25%; object-fit:cover; object-position:center; margin:10px auto 35px auto;')
+        label.w3-text-blue-gray Nome de Utilizador
+        input.w3-input.w3-margin-bottom(type='text', name='username', required)
+        label.w3-text-blue-gray Password
+        input.w3-input.w3-margin-bottom(type='password', name='password', required)
+        button.w3-button.w3-block.w3-blue-gray.w3-margin-top.w3-round-large.w3-hover-shadow(type='submit' style="text-align:center;") Login
+        button.w3-button.w3-block.w3-red.w3-margin-top.w3-round-large.w3-hover-shadow
+          a(href="/login/google" style="text-decoration:none")
+            i.fab.fa-google.w3-left
+            | Login com Google
+        p(style="display:flex;justify-content:center;").w3-text-grey.w3-margin Ainda não têm conta? #[a(href="/registo").w3-text-blue Registe-se aqui]
+        a(href="/" style="display:flex;justify-content:center;align-items:center;") Voltar
+    style.
+          html, body {
+            height: 100%;
+          }
+          body {
+            background-image: url('/api/image/outras/braga-background.jpg');
+            background-size: cover;
+            backdrop-filter: blur(5px);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+          }
+
+          

@@ -1,0 +1,100 @@
+extends layout
+
+block content
+    button.w3-button.w3-left(style="height:100%") #[a(href="/ruas" style="text-decoration: none;") #[i.fa.fa-chevron-circle-left] Voltar ] 
+    .w3-light-grey.w3-padding-32.w3-margin-bottom.w3-center
+        h1.w3-jumbo #{rua.nome}
+        if isAdmin
+            button.w3-btn.w3-blue-gray.w3-hover-light-gray.w3-round(style="margin-right:px")
+                a(href="/ruas/editar/"+rua._id style="text-decoration: none;")
+                    i.fa.fa-edit Editar
+            button.w3-btn.w3-blue-gray.w3-hover-light-gray.w3-round(style="margin-left:10px")
+                a(href="/ruas/apagar/confirmar/"+rua._id style="text-decoration: none;")
+                    i.fa.fa-trash Apagar
+    .w3-row-padding.w3-content(style="max-width:1400px")
+        .w3-container
+            button.w3-btn.w3-blue-gray.w3-hover-light-gray.w3-round.w3-right.w3-margin-bottom(style="margin-left:2px")
+                a(href="/ruas/post/"+rua._id style="text-decoration: none;")
+                    i.fa.fa-share Partilhar
+        .w3-twothird
+            .w3-content.w3-display-container
+                if rua.figuras.length>0
+                    each fig in rua.figuras
+                        img(src="/api/image/images/"+fig.imagem alt= " Imagem "+rua.nome style="width:100%").imgRua
+
+                    .w3-center(style="width:100%")
+                        button.w3-button.w3-display-left.w3-hover-light-gray.w3-opacity(style="height:100%" onclick="plusDivs(-1)") #[i.fa.fa-chevron-left]
+                        button.w3-button.w3-display-right.w3-hover-light-gray.w3-opacity(style="height:100%" onclick="plusDivs(1)") #[i.fa.fa-chevron-right]
+            br
+            .w3-justify
+                if rua.para
+                    each para in rua.para
+                        p= para
+            br
+            iframe(width='900' height='450' style='border:0' loading='lazy' allowfullscreen='' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyAQ41ncIj0EvmAgIsk6E5ozuJnHPmjVSfo&q='+ rua.nome + 'Braga')          
+            // Adicionei aqui a secção de comentários
+            .w3-container.w3-margin-top.w3-border.w3-round-xlarge
+                h2 Comentários
+                if !isAuthorized
+                    p.w3-large.w3-margin.w3-padding.w3-center.w3-opacity Inicie sessão para visualizar os comentários. #[a(href="/login").w3-text-blue Iniciar sessão]
+                else
+                    .w3-row-padding.w3-padding-16
+                        form.w3-container.w3-border(method="POST")
+                            .w3-section
+                                textarea.w3-input.w3-border.w3-margin-bottom(type="text" placeholder="Comentário" name="mensagem" required)
+                                button.w3-button.w3-block.w3-dark-grey(type="submit") Enviar Comentário
+                    if comentarios.length
+                        each comentario in comentarios
+                            .w3-container.w3-card-4.w3-white.w3-margin
+                                .w3-row-padding
+                                    .w3-col.s3
+                                        if comentario.registo =='local'
+                                            img.w3-circle.w3-border(src="/auth/image/"+comentario._id+'/'+comentario.foto style="width:120px;height:110px;max-width:100px;margin-top:8px")
+                                        else 
+                                            img.w3-circle.w3-border(src=comentario.foto style="width:120px;height:110px;max-width:100px;margin-top:8px")
+                                            
+                                    .w3-col.s9
+                                        h4= comentario.user
+                                        h6.w3-opacity= comentario.data
+                                        p= comentario.comentario
+                        
+
+        .w3-third
+            .w3-container.w3-light-grey
+                h2 Lista de casas
+                if rua.lista_casas
+                    each casa in rua.lista_casas
+                        ul.w3-ul
+                        if casa.número 
+                            h3 Casa número #{casa.número}
+                        if casa.vista
+                            li Vista: #{casa.vista}
+                        if casa.enfiteuta 
+                            li Enfiteuta: #{casa.enfiteuta}
+                        if casa.foro 
+                            li Foro: #{casa.foro}
+                        if casa.desc
+                            li.w3-justify #{casa.desc}
+                        br
+
+        script.
+            var slideIndex = 1;
+            showDivs(slideIndex);
+
+            function plusDivs(n) {
+              showDivs(slideIndex += n);
+            }
+
+            function showDivs(n) {
+              var i;
+              var x = document.getElementsByClassName("imgRua");
+              if (n > x.length) {slideIndex = 1}
+              if (n < 1) {slideIndex = x.length} ;
+              for (i = 0; i < x.length; i++) {
+                x[i].style.display = "none";
+              }
+              x[slideIndex-1].style.display = "block";
+            }
+    br
+    footer.w3-container.w3-blue-grey.w3-margin-top
+        h5(style="color:white;font-family:'Segoe UI',sans-serif") Gerado por EngWeb2023 em #{d}
